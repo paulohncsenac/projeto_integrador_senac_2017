@@ -1,0 +1,166 @@
+.topo{
+	background-color:#fecd00;
+	width:100%;
+    height:200px
+}
+
+.rodape{
+	background-color:#fecd00;
+	width:100%;
+    height:200px
+}
+
+.nome span{
+	padding-top:60px !important;
+	display: inline-block;
+	 vertical-align: middle;
+	 line-height: normal;
+	 font-weight:bolder;
+	 color:#000;
+     
+}
+
+.nome span img{
+	width:50%;
+	height:auto;
+	
+}
+
+.cerva{
+	font-size:15px;
+	padding-right:15px;
+	padding-bottom:15px;
+	font-family:Arial;
+	
+}
+
+
+
+
+
+.riscado{
+	
+	width:700px;
+    height:290px;
+	margin-left:450px;
+	margin-top:100px;
+}  
+    
+label {
+	color:#FFFF00 !important ;
+	font-weight: bold;
+	
+}
+
+.error{
+	
+	color:red !important;
+	
+}
+
+.cadas{
+	
+	padding-left:15px;
+}
+
+.games{
+	width:180px;
+    height:230px;
+	padding-bottom:100px;
+	padding-left:20px;
+	padding-bottom:20px;
+	padding-top:20px;
+	padding-right:20px;
+	margin-left:10px;
+	margin-bottom:10px;
+
+	
+
+}
+
+
+
+
+.container{
+	font-size:15px;
+	font-weight:bolder;
+}
+
+
+.containercadas{
+	background-color:#000;
+
+		margin-bottom:100px;
+		margin-left:100px;
+		margin-top:100px;
+		margin-right:100px;
+		padding-top:120px;
+		padding-bottom:120px;
+		padding-right:120px;
+		padding-left:120px;
+}
+
+.containerindex{	
+	margin-bottom:100px;
+    margin-left:100px;
+    margin-top:100px;
+    margin-right:100px;
+    padding-top:150px;
+    padding-bottom:150px;
+	padding-right:150px;
+	padding-left:150px;
+}
+
+.menu{  
+     background-color:#fecd00;
+	 color:#000000;
+	 margin-left:100px;
+	 margin-bottom:100px;
+	 margin-top:100px;
+	 width:800px;
+	 height:100px;
+	 line-height:90px;
+	 text-align:center;
+	
+	
+
+}	
+
+.menu span {  
+    
+	 display: inline-block;
+	 vertical-align: middle;
+	 line-height: normal;
+	 
+	
+
+}
+
+.menu span img {  
+    
+	 width:50%;
+	 height:auto;
+	
+
+}
+
+.produto{
+	
+	margin-top:80px;
+	margin-left:350px;
+	border:1px;
+    border-style:solid;
+	
+}
+
+.texto{
+	padding-top:1000px;
+	padding-left:800px;
+}
+
+.table{
+	margin-top:50px;
+	padding-top:50px;
+	
+	
+}
