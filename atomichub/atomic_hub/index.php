@@ -66,75 +66,325 @@ include 'banco.php';
 		                        ?>
 		                        
 				</div>
-				<div class="row">
-					<div class="col-md-1 col-xs-18">
-						<article data-name="matais-alcalinos" class="metais-alcalinos"><small class="numero">3</small><br><b class="principal">Li</b><br><small class="nome">Lítio</small></article>
-					</div>
-					<div class="col-md-1 col-xs-18">
 
-						<article data-name="metais-alcalino-terrosos" class="metais-alcalino-terrosos"><small class="numero">4</small><br><b class="principal">Be</b><br><small class="nome">Berílio</small></article>
+				<div class="row">
+				<?php 
+
+		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 3  AND  `elementos`.`id_elemento` <= 4 ";
+		                             
+		                             foreach($pdo->query($sqlElementos) as $rowElemento)
+		                             {
+
+		                        ?>
+
+
+					<div class="col-md-1 col-xs-18">
+						<article data-name="matais-alcalinos" class="<?php
+
+							if ($rowElemento['id_tipo' ] == 1 ){
+
+								echo"gases-nobres";
+
+							}elseif($rowElemento['id_tipo' ] == 2 ){
+
+								echo"halogenios";
+
+							}elseif($rowElemento['id_tipo' ] == 3){
+
+								echo"metais-alcalinos";
+
+							}elseif($rowElemento['id_tipo' ] == 4){
+
+								echo"metais-alcalino-terrosos";
+								
+							}elseif($rowElemento['id_tipo' ] == 5){
+
+								echo"metais-representativos";
+								
+							}elseif($rowElemento['id_tipo' ] == 6){
+
+								echo"metais-de-transicao";
+								
+							}elseif($rowElemento['id_tipo' ] == 7){
+
+								echo"nao-metais";
+								
+							}elseif($rowElemento['id_tipo' ] == 8){
+
+								echo"semi-metais";
+								
+							}elseif($rowElemento['id_tipo' ] == 9){
+
+								echo"lantanidios";
+								
+							}else{
+
+								echo"actinidios";
+
+							}
+
+						 ?>"><small class="numero"><?php  echo  $rowElemento['numero']; ?></small><br><b class="principal"><?php  echo  $rowElemento['label']; ?></b><br><small class="nome"><?php  echo  $rowElemento['nome']; ?></small></article>
+					</div>
+
+					<?php 
+					
+					}
+
+		                        ?>
+					<!-- Offset para ajustar-->
+
+
+					<div class="col-md-1 col-xs-18 col-md-offset-10">
+					<!-- Foreach(PHP) do offset precisa ser isolado -->
+					<?php
+
+
+		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 3  AND  `elementos`.`id_elemento` = 8 ";
+		                             
+		                             foreach($pdo->query($sqlElementos) as $rowElemento)
+		                             {
+
+		                       
+
+					?>
+
+
+						<article data-name="semi-metais" class="semi-metais"><small class="numero"><?php  echo  $rowElemento['numero']; ?></small><br><b class="principal"><?php  echo  $rowElemento['label']; ?></b><br><small class="nome"><?php  echo  $rowElemento['nome']; ?></small></article>
+
+						
+
+					<?php 
+
+						}
+
+					?>
+					</div>
+
+					
+				<?php 
+
+					  $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 6  AND  `elementos`.`id_elemento` <= 10 ";
+		                             
+		                             foreach($pdo->query($sqlElementos) as $rowElemento)
+		                             {
+
+
+				?>
+
+						<div class="col-md-1 col-xs-18">
+
+							<article data-name="nao-metais" class="<?php
+
+							if ($rowElemento['id_tipo' ] == 1 ){
+
+								echo"gases-nobres";
+
+							}elseif($rowElemento['id_tipo' ] == 2 ){
+
+								echo"halogenios";
+
+							}elseif($rowElemento['id_tipo' ] == 3){
+
+								echo"metais-alcalinos";
+
+							}elseif($rowElemento['id_tipo' ] == 4){
+
+								echo"metais-alcalino-terrosos";
+								
+							}elseif($rowElemento['id_tipo' ] == 5){
+
+								echo"metais-representativos";
+								
+							}elseif($rowElemento['id_tipo' ] == 6){
+
+								echo"metais-de-transicao";
+								
+							}elseif($rowElemento['id_tipo' ] == 7){
+
+								echo"nao-metais";
+								
+							}elseif($rowElemento['id_tipo' ] == 8){
+
+								echo"semi-metais";
+								
+							}elseif($rowElemento['id_tipo' ] == 9){
+
+								echo"lantanidios";
+								
+							}else{
+
+								echo"actinidios";
+
+							}
+
+						 ?>"><small class="numero"><?php  echo  $rowElemento['numero']; ?></small><br><b class="principal"><?php  echo  $rowElemento['label']; ?></b><br><small class="nome"><?php  echo  $rowElemento['nome']; ?></small></article>
+						</div>
+						
+				<?php 
+
+					}
+
+				?>
+				</div>
+
+				<div class="row">
+
+				<?php 
+
+					  $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 11 AND `elementos`.`id_elemento` <= 12";
+		                             
+		                             foreach($pdo->query($sqlElementos) as $rowElemento)
+		                             {
+
+
+				?>
+
+					<div class="col-md-1 col-xs-18">
+						<article data-name="matais-alcalinos" class="<?php
+
+							if ($rowElemento['id_tipo' ] == 1 ){
+
+								echo"gases-nobres";
+
+							}elseif($rowElemento['id_tipo' ] == 2 ){
+
+								echo"halogenios";
+
+							}elseif($rowElemento['id_tipo' ] == 3){
+
+								echo"metais-alcalinos";
+
+							}elseif($rowElemento['id_tipo' ] == 4){
+
+								echo"metais-alcalino-terrosos";
+								
+							}elseif($rowElemento['id_tipo' ] == 5){
+
+								echo"metais-representativos";
+								
+							}elseif($rowElemento['id_tipo' ] == 6){
+
+								echo"metais-de-transicao";
+								
+							}elseif($rowElemento['id_tipo' ] == 7){
+
+								echo"nao-metais";
+								
+							}elseif($rowElemento['id_tipo' ] == 8){
+
+								echo"semi-metais";
+								
+							}elseif($rowElemento['id_tipo' ] == 9){
+
+								echo"lantanidios";
+								
+							}else{
+
+								echo"actinidios";
+
+							}
+
+						 ?>"><small class="numero"><?php  echo  $rowElemento['numero']; ?></small><br><b class="principal"><?php  echo  $rowElemento['label']; ?></b><br><small class="nome"><?php  echo  $rowElemento['nome']; ?></small></article>
 					</div>
 					
-					<div class="col-md-1 col-xs-18 col-md-offset-10">
+				<?php 
 
-						<article data-name="semi-metais" class="semi-metais"><small class="numero">5</small><br><b class="principal">B</b><br><small class="nome">Boro</small></article>
-					</div>
-					<div class="col-md-1 col-xs-18">
+					}
 
-						<article data-name="nao-metais" class="nao-metais"><small class="numero">6</small><br><b class="principal">C</b><br><small class="nome">Carbono</small></article>
-					</div>
-					<div class="col-md-1 col-xs-18">
-
-						<article data-name="nao-metais" class="nao-metais"><small class="numero">7</small><br><b class="principal">N</b><br><small class="nome">Nitrogênio</small></article>
-					</div>
-					<div class="col-md-1 col-xs-18">
-
-						<article data-name="nao-metais" class="nao-metais"><small class="numero">8</small><br><b class="principal">O</b><br><small class="nome">Oxigênio</small></article>
-					</div>
-					<div class="col-md-1 col-xs-18">
-
-						<article data-name="halogenios" class="halogenios"><small class="numero">9</small><br><b class="principal">F</b><br><small class="nome">Flúor</small></article>
-					</div>
-					<div class="col-md-1 col-xs-18">
-
-						<article data-name="gases-nobres" class="gases-nobres"><small class="numero">10</small><br><b class="principal">Ne</b><br><small class="nome">Neônio</small></article>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-1 col-xs-18">
-						<article data-name="matais-alcalinos" class="metais-alcalinos"><small class="numero">11</small><br><b class="principal">Na</b><br><small class="nome">Sódio</small></article>
-					</div>
-					<div class="col-md-1 col-xs-18">
-
-						<article data-name="metais-alcalino-terrosos" class="metais-alcalino-terrosos"><small class="numero">12</small><br><b class="principal">Mg</b><br><small class="nome">Magnésio</small></article>
-					</div>
+				?>
 					
+					<!-- Foreach do offset novamente isolado  -->
 					<div class="col-md-1 col-xs-18 col-md-offset-10">
 
-						<article data-name="metais-representativos" class="metais-representativos"><small class="numero">13</small><br><b class="principal">Al</b><br><small class="nome">alumínio</small></article>
+					<?php 
+
+					  $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` = 13";
+		                             
+		                             foreach($pdo->query($sqlElementos) as $rowElemento)
+		                             {
+
+
+					?>
+
+						<article data-name="metais-representativos" class="metais-representativos"><small class="numero"><?php  echo  $rowElemento['numero']; ?></small><br><b class="principal"><?php  echo  $rowElemento['label']; ?></b><br><small class="nome"><?php  echo  $rowElemento['nome']; ?></small></article>
+
+					<?php 
+
+						}
+
+					?>
+
 					</div>
+
+
+					<?php 
+
+					  $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 14 AND  `elementos`.`id_elemento` <= 18";
+		                             
+		                             foreach($pdo->query($sqlElementos) as $rowElemento)
+		                             {
+
+
+					?>
+
+
 					<div class="col-md-1 col-xs-18">
 
-						<article data-name="semi-metais" class="semi-metais"><small class="numero">14</small><br><b class="principal">Si</b><br><small class="nome">sílicio</small></article>
-					</div>
-					<div class="col-md-1 col-xs-18">
+						<article data-name="semi-metais" class="<?php
 
-						<article data-name="nao-metais" class="nao-metais"><small class="numero">15</small><br><b class="principal">P</b><br><small class="nome">Fósforo</small></article>
-					</div>
-					<div class="col-md-1 col-xs-18">
+							if ($rowElemento['id_tipo' ] == 1 ){
 
-						<article data-name="nao-metais" class="nao-metais"><small class="numero">16</small><br><b class="principal">S</b><br><small class="nome">Enxofre</small></article>
-					</div>
-					<div class="col-md-1 col-xs-18">
+								echo"gases-nobres";
 
-						<article data-name="halogenios" class="halogenios"><small class="numero">17</small><br><b class="principal">Ci</b><br><small class="nome">Cloro</small></article>
-					</div>
-					<div class="col-md-1 col-xs-18">
+							}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						<article data-name="gases-nobres" class="gases-nobres"><small class="numero">18</small><br><b class="principal">Ar</b><br><small class="nome">Argônio</small></article>
+								echo"halogenios";
+
+							}elseif($rowElemento['id_tipo' ] == 3){
+
+								echo"metais-alcalinos";
+
+							}elseif($rowElemento['id_tipo' ] == 4){
+
+								echo"metais-alcalino-terrosos";
+								
+							}elseif($rowElemento['id_tipo' ] == 5){
+
+								echo"metais-representativos";
+								
+							}elseif($rowElemento['id_tipo' ] == 6){
+
+								echo"metais-de-transicao";
+								
+							}elseif($rowElemento['id_tipo' ] == 7){
+
+								echo"nao-metais";
+								
+							}elseif($rowElemento['id_tipo' ] == 8){
+
+								echo"semi-metais";
+								
+							}elseif($rowElemento['id_tipo' ] == 9){
+
+								echo"lantanidios";
+								
+							}else{
+
+								echo"actinidios";
+
+							}
+
+						 ?>"><small class="numero"><?php  echo  $rowElemento['numero']; ?></small><br><b class="principal"><?php  echo  $rowElemento['label']; ?></b><br><small class="nome"><?php  echo  $rowElemento['nome']; ?></small></article>
 					</div>
 
+					<?php 
+
+						}
+
+					?>
+					
 				</div>
+
 				
 				<!-- Laço de repetição -->
 				<div class="row">
