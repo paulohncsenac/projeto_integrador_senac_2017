@@ -1,6 +1,0 @@
-<div class="menu">
-				<span><img src="img/coldbeer.fw.png"></span>
-		</div>
-
-
-<img class="riscado" src="img/black.jpg">
