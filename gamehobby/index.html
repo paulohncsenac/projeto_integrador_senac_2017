@@ -1,0 +1,180 @@
+<!doctype html>
+<!--iniciando um documento HTML-->
+<html lang="pt-Br">
+<meta charset="UTF-8">
+<!--Definindo a lingua do meu documento-->
+
+	<head>
+  <!--Conteúdos e links relacionados a Css Js e Meta Tags-->
+		 <style>
+		 
+		  .error{
+			color: red!important;
+			
+		 </style>
+
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			  <a class="navbar-brand" href="#">Navbar</a>
+			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			  </button>
+
+			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav mr-auto">
+				  <li class="nav-item active">
+					<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+				  </li>
+				  <li class="nav-item">
+					<a class="nav-link" href="#">Link</a>
+				  </li>
+				  <li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					  Dropdown
+					</a>
+					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+					  <a class="dropdown-item" href="#">Action</a>
+					  <a class="dropdown-item" href="#">Another action</a>
+					  <div class="dropdown-divider"></div>
+					  <a class="dropdown-item" href="#">Something else here</a>
+					</div>
+				  </li>
+				  <li class="nav-item">
+					<a class="nav-link disabled" href="#">Disabled</a>
+				  </li>
+				</ul>
+				<form class="form-inline my-2 my-lg-0">
+				  <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+				  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
+				</form>
+			  </div>
+			</nav>
+	
+    <title>Cadastro</title> 
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+	
+	<style>
+	
+	</style>
+	
+	<link rel="stylesheet" href="css/jquery-ui.min.css">
+	
+	</head>
+	
+  
+  <body>
+	<div class="container">
+    <h1>Cadastre-se</h1>
+	
+		<form id="validacao">
+				
+		  <div class="form-group">
+			<label for="exampleInputEmail1">Endereço de e-mail</label>
+			<input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" placeholder="Crie um e-mail">
+			<small id="emailHelp" class="form-text text-muted"></small>
+		  </div>
+		  
+		  <div class="form-group">
+			<label for="exampleInputPassword1">Senha</label>
+			<input type="password" class="form-control" id="senha" name="senha" placeholder="Digite uma senha">
+			
+			<div class="form-group">
+				<label for="exampleInputPassword1">Confirmar Senha</label>
+				<input type="password" class="form-control" id="senha1" name="senha1" placeholder="Digite a senha criada">
+			
+			<div class="form-group">
+				<label for="exampleInputPassword1">País</label>
+				<input type="password" class="form-control" id="exampleInputPassword1" placeholder="">
+				
+			<div class="form-group">
+				<label for="exampleInputPassword1">Data</label>
+				<input type="text" class="form-control" id="datepicker" name="datepicker">
+			</div>
+		<button type="submit" class="btn btn-primary">Cadastrar</button>
+		
+		
+	</div>
+					
+		
+		
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+		<script src="js/jquery.validate.js"></script>
+		<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+			<script> 
+			//recupera o identificador do input, e exibe o valor.
+			
+			
+			$("#btn").click(function(){
+				$("#nomeUsuario").val("Rafael");
+			});
+			
+			
+			$("#btn2").click (function(){ 
+			
+				alert($("#nomeUsuario2").val())
+			});
+			
+			var texto = $("#nomeUsuario2").val();
+			
+			$("#btn3").click (function() {
+				$("#nomeUsuario3").val(texto);
+			});
+			
+		
+            
+					
+			</script>
+			
+			<script>
+			
+			$("#validacao"). validate({
+			
+				rules:{
+				email:{
+					required: true
+					
+					},
+					
+					
+		        senha:{
+					required: true
+					
+					},
+					
+					
+				senha1:{
+					required: true
+					
+					},
+					
+
+				}
+				});
+					
+				
+			
+			</script>
+			
+			<script>
+			
+			  $( function() {
+			  
+				$( "#datepicker" ).datepicker();
+				
+			  } );
+			  
+			 </script>
+						
+  </body>
+</html>	
