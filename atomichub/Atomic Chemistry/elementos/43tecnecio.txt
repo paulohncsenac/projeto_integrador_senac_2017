@@ -1,0 +1,32 @@
+Nome: Tecnécio
+
+Símbolo:Tc
+
+Número atômico:43
+
+Massa atômica:98
+
+Série química:metal de transição
+
+Estado da matéria:Sólido
+
+Radioativo:não
+
+Ponto de fusão:2430K
+
+Ponto de ebulição:4538K
+
+Nome em latim:technetium
+
+APRESENTAÇÃO
+Derivado do Grego Tekhnetos, que significa artificial. Descoberto por C. Perrier e E.G. Segré em 1937 que o encontraram em uma amostra de molibdênio bombardeada com deuterons no Cicloton de Berkeley. Foi o primeiro elemento a ser produzido artificialmente. Seu nome antigo era Masurio. Seu isótopo mais estável Tc-98 possui meia vida de 2,6 milhões de ano. É um metal cinza-prateado que lentamente se oxida no ar úmido. Dissolve-se em HNO3, H2SO4 concentrado e água régia, mas não em HCl. Sua química é muito similar ao Rênio. É obtido atualmente pela redução do pertecnato de amônio (NH4TcO4) com hidrogênio.
+CARACTERÍSTICAS PRINCIPAIS
+O tecnécio não apresenta isótopos estáveis e portanto é muito raro encontrá-lo na natureza. Seus estados de oxidação mais comuns são +2, +4, +5, +6 e +7. 
+É um metal cinza prateado, que lentamente perde o brilho em contato com o ar úmido. O tecnécio VII como o pertecnectato, TcO4-, igual ao rênio, ReO4-, é muito menos oxidante que o permanganato, MnO4-. A química do tecnécio é muito similar a do rênio, apesar que estes dois se diferem bastante da do manganês. O tecnécio se dissolve em agua régia (mistura de HNO3 e HCl), ácido nítrico (HNO3) e ácido sulfúrico concentrado (H2SO4), porém não é solúvel em ácido clorídrico (HCl). Este elemento inibe bem a corrosão do aço, e é um excelente supercondutor a temperaturas abaixo de 11 K.
+APLICAÇÕES
+O tecnécio poderia apresentar várias aplicações como, por exemplo, em aços protegendo-os da corrosão, porém devido a problemas com a sua produção (em reatores nucleares), estas aplicações são muito limitadas. 
+Em medicina nuclear são empregados compostos com o isótopo 99mTc como radiofármacos (ou radiotraçadores). Este isótopo se obtém mediante geradores de 99Mo / 99mTc, sendo seu período de desintegração de 6 horas, tempo adequado para que se acumule no órgão que se quer estudar e, por outro lado, não permaneça muito tempo no organismo. É um emissor gama com uma energia de aproximadamente 140 KeV, que pode ser detectado através de um contador de cintilância podendo-se interpretar a imagem obtida. 
+Preparam-se diversos compostos por redução de pertecnectatos junto com outras moléculas, dependendo do órgão que se quer estudar. Por exemplo, com bifosfonatos, estes compostos se acumulam nos tecidos ósseos. Quando se utilizam pertecnatos diretamente, estes se acumulam na glândula tiróide.
+
+
+

@@ -1,0 +1,39 @@
+Nome: Tálio
+
+Símbolo: Tl
+
+Número atômico: 81
+
+Massa atômica: 204,3833
+
+Série química: metais reprensentativos
+
+Estado da matéria: sólido
+
+Radioativo: não
+
+Ponto de fusão: 577K
+
+Ponto de ebulição: 1746K
+
+Nome em latim: Thallium
+
+APRESENTAÇÃO
+O nome deriva do Grego Thallos, que significa ramo verde, devido a presença de uma linha verde no seu espectro. Foi descoberto por W. Crookes em 1861 ao analisar no espectroscópio um resíduo selenífero da fábrica de ácido sulfúrico proveniente de Tilkerode do Harz. É recuperado atualmente da mineração de zinco, chumbo e cobre e também da ustulação de pirita para fabricação de ácido sulfúrico. É precipitado de seus sais por adição de zinco metálico. É um metal prateado, mole, que rapidamente se oxida ficando escuro cor de chumbo, devido a formação de Tl2O. Facilmente atacado pelo HNO3 e H2SO4. Não é atacado pelo HCl. Seus sais são muito tóxicos.
+CARACTERÍSTICAS PRINCIPAIS
+Este metal é muito macio e maleável e pode ser cortado com uma faca. Quando exposto ao ar , inicialmente apresenta um brilho metálico, porém rapidamente torna-se cinza-azulado semelhante ao chumbo . Quando exposto ao ar, forma-se sobre o tálio uma camada de óxido, por isso, é preservado mantendo-o sob a água.
+APLICAÇÕES
+O inodoro e insípido sulfato de tálio foi extensivamente usado no passado como veneno de ratos e formigas. Nos Estados Unidos e outros países não é mais permitido devido a questões de segurança. Outros usos: 
+* O sulfeto de tálio muda sua condutividade elétrica quando exposto a luz infravermelha, consequentemente é um composto útil para a fabricação de fotocélulas.
+* Cristais de brometo e iodeto de tálio foram usados como materiais para dispositivos ópticos para infravermelho.
+* óxido de tálio foi usado para produzir vidros com elevados índices de refração.
+* usado em materiais semicondutores para retificadores de selênio.
+* usado em equipamentos para a detecção de radiação gama.
+* como líquido de alta densidade é usado como flutuador para a separação de minerais.
+* a liga tálio-chumbo é usado em alguns tipos de fusíveis.
+* usado no tratamento de infecções de pele. Entretanto, este uso foi limitado devido a margem estreita que existe entre a sua toxicidade e o benefício terapêutico.
+* O radioativo Tl-201, na forma de cloreto de tálio, é usado em medicina nuclear para diagnosticar doenças coronárias e para a detecção de tumores.
+* combinado com enxofre ou selênio e arsênio, o tálio foi usado na produção de vidros de alta densidade com baixos pontos de fusão, entre 125 e 150°C.
+* O acetato de tálio é empregado em meios de cultura juntamente com a penicilina para isolamento de micoplasmas, as menores bactérias existentes.
+
+Além disso, pesquisas com o tálio estão sendo desenvolvidas para desenvolver materiais supercondutores em elevadas temperaturas para aplicações como imagem de ressonância magnética, armazenamento da energia magnética, propulsão magnética, geração de energia elétrica e transmissão.

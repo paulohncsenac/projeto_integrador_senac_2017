@@ -1,0 +1,37 @@
+Nome:Cálcio
+
+Símbolo:Ca
+
+Número atômico:20
+
+Massa atômica:40,078
+
+Série química:metal alcalinoterroso
+
+Estado da matéria:Sólido
+
+Radioativo:não
+
+Ponto de fusão:1115K
+
+Ponto de ebulição:1757K
+
+Nome em latim:calcium
+
+APRESENTAÇÃO
+O cálcio é um elemento químico, símbolo Ca, de número atômico 20 (20 prótons e 20 elétrons) e massa atómica 40 u. 
+É um metal da família dos alcalino-terrosos, pertencente ao grupo 2 da classificação periódica dos elementos químicos. 
+Foi isolado pela primeira vez em 1808, em uma forma impura, pelo químico inglês Humphry Davy mediante a eletrólise de uma amálgama de mercúrio (HgO) e cal (CaO).
+CARACTERÍSTICAS PRINCIPAIS
+O cálcio é um metal alcalino-terroso, mole, maleável e dúctil que arde com chama vermelha formando óxido de cálcio e nitreto. 
+As superfícies recentes são de coloração branco prateada que rapidamente tornam-se levemente amareladas expostas ao ar, finalmente com coloração cinzas ou brancas devido a formação de hidróxido ao reagir com a umidade ambiental. Reage violentamente com a água para formar o hidróxido de cálcio, Ca(OH)2 , com desprendimento de hidrogênio.
+OBTENÇÃO INDUSTRIAL E UTILIDADES
+O cálcio em sua forma pura e isolada pode ser obtido pela eletrólise ígnea do cloreto de cálcio (CaCl2) anidro ( subproduto do processo Solvay ) fundido: 
+• cátodo: Ca2+ + 2 e- -> Ca
+• anodo: 2Cl- -> Cl2 (gás) + 2e- 
+
+Atualmente, ele é obtido pela fusão da cal com alumínio metálico. 
+Na indústria, o cálcio metálico é largamente utilizado para eliminar gases residuais em tubos de vácuo, entrando também como agente redutor na preparação de metais como tório, urânio, zircônio etc. É usado também como desoxigenador, dessulfurizador e descarbonizador de várias ligas metálicas; encontra usos como componente de ligas de alumínio, de berílio, de cobre, de chumbo, de magnésio, e outras. Os compostos de cálcio são usados na fabricação de uma enorme variedade de produtos que vai de tintas a fertilizantes. Em processos industriais como na curtição de couros e no refino do petróleo, utiliza-se o óxido de cálcio (CaO), sendo este último preparado pela decomposição térmica do carbonato de cálcio (CaCO3). Uma vez hidratado, o CaO forma a cal hidratada, cuja suspensão em água é muito usada como uma tinta branca de baixo custo para pintar paredes e meio-fio de ruas. 
+
+O giz, um material mole feito de calcáreo finamente pulverizado, é nada mais do que carbonato de cálcio (CaCO3) de baixa dureza, que se formou como uma lama no fundo de um antigo oceano. O óxido de cálcio ou a cal (CaO) entra na composição de mais de 90% de todos os vidros comercializados, que têm a seguinte composição: cerca de 72% de sílica (da areia), 13% de óxido de sódio, Na2O, a partir do Na2CO3, cerca de 11% de CaO, a partir de calcáreo, e 4% de outros ingredientes. A maioria dos vidros planos, recipientes de vidro, lâmpadas e muitos outros objetos industriais e de arte ainda são feitos assim, com os mesmos materiais, há centenas de anos. Esse tipo de vidro é barato e bem resistente, podendo ser moldado e fundido facilmente.
+

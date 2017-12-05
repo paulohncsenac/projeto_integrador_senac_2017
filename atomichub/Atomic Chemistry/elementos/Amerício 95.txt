@@ -1,0 +1,31 @@
+Nome: Amerício
+
+Símbolo: Am
+
+Número atômico: 95
+
+Massa atômica:  243
+
+Série química: Actinídeos
+
+Estado da matéria: sólido
+
+Radioativo: não
+
+Ponto de fusão: 1449K
+
+Ponto de ebulição: 2880K
+
+Nome em latim: Americium
+
+APRESENTAÇÃO
+Nome derivado de América e foi descoberto por Seaborg e colaboradoes em 1944 em Chicago, USA. O isótopo Am-241 foi identificado como resultado da captura de nêutrons pelo Pu-239. Seu isótopo de meia vida mais longa é o Am-243 com 7.37 x 103 anos. O metal é obtido pela reação do AmF3 com vapor de Ba a 1000-1200oC ou pela reação do AmO2 com Lantânio. É um metal branco mais prateado que o Pu e Np e escurece lentamente ao ar seco.
+CARACTERÍSTICAS PRINCIPAIS
+O metal amerício recem obtido tem o aspecto branco-prateado brilhante (mais prateado do que o plutônio ou neptúnio) , perdendo o brilho lentamente em presença do ar seco, na temperatura ambiente. A emissão alfa do Am-241 é aproximadamente três vezes maior que o do rádio. O Am-241 também apresenta uma intensa emissão de raios gama.
+OCORRÊNCIA
+O amerício não existe na natureza. É um elemento transurânico sintético obtido a partir do plutônio num reator nuclear.
+APLICAÇÕES
+Este elemento pode ser produzido em quantidades quilograma , na maior parte o isótopo Am-241, por ser mais fácil de obter amostras relativamente puras. O amerício é usado em alguns detectores de fumaça contendo minúsculas quantidades de Am-241 como fonte de radiação ionizante, na forma de dióxido de amerício. O Am-241 tem sido usado, também, como uma fonte portátil de raios gama para uso em radiografia. O elemento foi empregado também para calibrar a espessura de vidros, permitindo a obtenção de vidros bastante planos. O Am-242 é um emissor de neutrons usado em radiografia de neutrons. Entretanto, este isótopo é extremamente caro para ser produzido em quantidades usáveis.
+PRECAUÇÕES
+É altamente radioativo devido a grade emissão de radiações alfa e gama. Por isso, deve ser manuseado com cuidado.
+

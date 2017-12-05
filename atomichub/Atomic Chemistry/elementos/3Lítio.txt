@@ -1,0 +1,30 @@
+Nome: Lítio
+
+Símbolo: Li
+
+Número atômico: 3
+
+Massa atômica: 6,941
+
+Série química: metais alcalinos
+
+Estado da matéria: sólido
+
+Radioativo: não
+
+Ponto de fusão: 453K
+
+Ponto de ebulição: 1615K
+
+Nome em latim: Lithium
+
+APRESENTAÇÃO
+
+Do Grego Lithos que significa pedra. Descoberto em 1817 por J. A. R. Arfvedson na Suécia ao analisar o mineral Petalita que foi descoberto pelo brasileiro José Bonifácio e descrita em 1800. Foi isolado por em 1818 por Sir Humphry Davy após eletrolisar uma solução de carbonato de lítio em uma cápsula de platina.É atualmente obtido pela eletrólise do cloreto de lítio fundido. É o metal de menor densidade e inclusive inferior a da água, sua coloração é prateada e reage rapidamente com o ar e a água e deve ser conservado em óleo mineral.
+
+CARACTERÍSITICAS PRINCIPAIS
+
+É o metal mais leve, a sua densidade é apenas metade do que a da água. Como os demais metais alcalinos é monovalente e bastante reativo, porém menos que o sódio, por isso não é encontrado livre na natureza. No teste da chama torna-se vermelho, porém se a combustão ocorrer violentamente a chama adquire uma coloração branca brilhante.
+
+APLICAÇÕES
+Devido ao seu elevado calor específico, o maior de todos os sólidos, é usado em aplicações de transferência de calor e, por causa do seu elevado potencial eletroquímico é usado como um ânodo adequado para as baterias elétricas.

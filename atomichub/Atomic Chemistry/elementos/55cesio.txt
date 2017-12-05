@@ -1,0 +1,37 @@
+Nome: Césio
+
+Símbolo:Cs
+
+Número atômico:55
+
+Massa atômica:132,9054519
+
+Série química:metal alcalino
+
+Estado da matéria:Sólido
+
+Radioativo:não
+
+Ponto de fusão:301,6k
+
+Ponto de ebulição:944K
+
+Nome em latim:caesium
+
+APRESENTAÇÃO
+Derivado do Latim Caesius, azul celeste, devido à cor de sua linha espectral mais forte. Foi descoberto em 1860 por R. Bunsen G. R. Kirchhoff, considerados os pais da espectroscopia, em Heidelberg, Alemanha. Eles obtiveram o composto Cs2PtCl6 a partir da evaporação de centenas de quilos de água mineral de Dürkheim. Atualmente é obtido do mineral Pollucita, por eletrólise do cloreto ou cianeto de césiofundido. É o mais reativo dos metais alcalinos e reage violentamente com a água formando CsOH. É um metal branco prateado que se funde na temperatura da mão e juntamente com o Ga e Hg são os únicos metais líquidos na temperatura ambiente.
+CARACTERÍSTICAS PRINCIPAIS
+O espectro eletromagnético tem duas linhas brilhantes na região azul do espectro junto com diversas outras linhas no vermelho, amarelo, e no verde. Este metal é macio, ductil, de coloração ouro prateado. O césio é o mais eletropositivo , o mais alcalino e o de menor potencial de ionização entre todos os elementos, à exceção do frâncio. O césio é o menos abundante dos cinco metais alcalinos não radioativos. Tecnicamente o frâncio é o metal alcalino menos comum ( menos de trinta gramas na terra inteira ) e, sendo altamente radioativo, sua abundância pode ser considerada como zero em termos práticos. 
+
+Junto com o gálio e o mercúrio, o césio é um dos poucos metais que encontra-se no estado líquido na temperatura ambiente (líquido acima de 28,5°C). O césio reage explosivamente com a água fria e , também, com o gelo em temperaturas acima de -116°C. O hidróxido de césio obtido , ( CsOH ) é a base mais forte conhecida e ataca o vidro.
+APLICAÇÕES
+• Cs-133 é utilizado na construção de relógios atômicos, os quais são referência para a determinação da unidade de tempo do Sistema Internacional de Unidades: o segundo.
+• Cs-134 foi usado na hidrologia como medida de determinação da produção de césio nas indústrias de energia nuclear. Este isótopo de césio é usado com essa finalidade porque, apesar de ser menos comum que o Cs-133 ou o Cs-137, é produzido unicamente por reações nucleares. O Cs-135 também foi usado com essa função.
+• Da mesma maneira que os outros elementos do grupo 1 , o césio tem uma grande afinidade pelo oxigênio e, por isso, é usado como "getter " em tubos de vácuo.
+• Este metal também é usado em células fotoelétricas porque ioniza-se quando exposto a luz.
+• É usado como catalisador na hidrogenação de certos compostos orgânicos.
+• Isotópos radioativos de césio são usados no campo médico para tratar de certos tipos de câncer
+• O fluoreto de césio é usado extensivamente na química orgânica como base e como fonte de íons fluoretos.
+
+Este metal tem sido usado mais recentemente em sistemas de propulsão iônica.
+

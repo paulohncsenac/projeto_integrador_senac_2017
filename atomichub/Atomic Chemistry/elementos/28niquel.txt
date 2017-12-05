@@ -1,0 +1,20 @@
+Nome:Níquel
+
+Símbolo:Ni
+
+Número atômico:28
+
+Massa atômica:58,6934
+
+Série química:metal de transição
+
+Estado da matéria:Sólido
+
+Radioativo:não
+
+Ponto de fusão:1728K
+
+Ponto de ebulição:3186K
+
+Nome em latim:nickel
+

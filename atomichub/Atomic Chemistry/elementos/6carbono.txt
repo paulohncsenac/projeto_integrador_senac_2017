@@ -1,0 +1,44 @@
+Nome: carbono
+
+Símbolo:C
+
+Número atômico:6
+
+Massa atômica:12,0107
+
+Série química:nao-metal
+
+Estado da matéria: sólido
+
+Radioativo:não
+
+Ponto de fusão:3550 K
+
+Ponto de ebulição:4287 K
+
+Nome em latim:ipsum
+
+APRESENTAÇÃO
+O carbono (do latim carbo, carvão) é um elemento químico, símbolo C de número atômico 6 (6 prótons e 6 elétrons) com massa atómica 12 u, e sólido a temperatura ambiente. Dependendo das condições de formação pode ser encontrado na natureza em diversas formas alotrópicas, carbono amorfo e cristalino em forma de grafite ou diamante. Pertence ao grupo (ou família) 14 (anteriormente chamada 4A). 
+
+É o pilar básico da química orgânica, se conhecem cerca de 10 milhões de compostos de carbono, e forma parte de todos os seres vivos.
+CARACTERÍSITCAS PRINCIPAIS
+O carbono é um elemento notável por várias razões. Suas formas alotrópicas incluem, surpreendentemente, uma das substâncias mais frágeis e baratas (o grafite) e uma das mais duras e caras (o diamante). Mais ainda: apresenta uma grande afinidade para combinar-se quimicamente com outros átomos pequenos, incluindo átomos de carbono que podem formar largas cadeias. O seu pequeno raio atómico permite-lhe formar cadeias múltiplas; assim, com o oxigênio forma o dióxido de carbono, vital para o crescimento das plantas (ver ciclo do carbono); com o hidrogênio forma numerosos compostos denominados, genericamente, hidrocarbonetos, essenciais para a indústria e o transporte na forma de combustível derivados de petróleo e gás natural. Combinado com ambos forma uma grande variedade de compostos como, por exemplo, os ácidos graxos, essenciais para a vida, e os ésteres que dão sabor às frutas. Além disso, fornece, através do ciclo carbono-nitrogênio, parte da energia produzida pelo Sol e outras estrelas.
+APLICAÇÕES
+O principal uso industrial do carbono é como componente de hidrocarbonetos, especialmente os combustíveis como petróleo e gás natural; do primeiro se obtém por destilação nas refinarias gasolinas, querosene e óleos e, ainda, é usado como matéria-prima para a obtenção de plásticos, enquanto que o segundo está se impondo como fonte de energia por sua combustão mais limpa. Outros usos são: 
+
+• O isótopo carbono-14, descoberto em 27 de fevereiro de 1940, se usa na datação radiométrica.
+• O grafite se combina com argila para fabricar a parte interna dos lápis.
+• O diamante é empregado para a produção de jóias e como material de corte aproveitando sua dureza.
+• Como elemento de liga principal dos aços (ligas de ferro).
+• Em varetas de proteção de reatores nucleares.
+• As pastilhas de carbono são empregadas em medicina para absorver as toxinas do sistema digestivo e como remédio para a flatulência.
+• O carbono ativado se emprega em sistemas de filtração e purificacão da água.
+• O Carbono-11, radioactivo com emissão de positrão usado no exame PET em medicina nuclear.
+• O carvão é muito utilizado nas indústrias siderúrgicas, como produtor de energia e na indústria farmacêutica (na forma de carvão ativado)
+
+As propriedades químicas e estruturais dos fulerenos, na forma de nanotubos, prometem usos futuros no campo da nanotecnologia (ver Nanotecnologia do carbono). 
+
+Os diamantóides são minúsculos cristais com forma cristalina composta por arranjos de átomos de carbono e também hidrogênio muito semelhante ao diamante. Os diamantóides são encontrados nos hidrocarbonetos naturais como petróleo, gás e principalmente em condensados (óleos leves do petróleo). Têm importante aplicação na nanotecnologia.
+
+

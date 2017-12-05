@@ -1,0 +1,46 @@
+Nome:Ferro
+
+Símbolo:Fe
+
+Número atômico:26
+
+Massa atômica:55,845
+
+Série química:metal de transição
+
+Estado da matéria:Sólido
+
+Radioativo:não
+
+Ponto de fusão:1811K
+
+Ponto de ebulição:3134K
+
+Nome em latim:ferrum
+
+APRESENTAÇÃO
+Do Latim Ferrum, que significa Ferro. Foi descoberto em tempos pré-históricos provavelmente de origem meteorítica. Depois começou a ser obtido pela redução de seus minérios (óxidos) com carvão, processo que é utilizado até hoje. É o mais utilizado dos metais e o quarto em abundância na crosta terrestre. É um metal cinzento, muito reativo com ácidos e se oxida facilmente ao ar em presença de umidade e elevada temperatura. Possui a propriedade magnética conhecida como ferromagnetismo, juntamente com o níquel e cobalto. Perde esta propriedade ao ser aquecido. Apresenta quatro formas alotrópicas, sendo a forma alfa que possui magnetismo.
+CARACTERÍSTICAS PRINCIPAIS
+É um metal maleável, tenaz, de coloração cinza prateado apresentando propriedades magnéticas; é ferromagnético a temperatura ambiente, assim como o Níquel e o Cobalto. 
+É encontrado na natureza fazendo parte da composição de diversos minerais, entre eles muitos óxidos, como o FeO (óxido de ferro II, ou óxido ferroso) ou como Fe2O3 (óxido de ferro III, ou óxido férrico). Os números que acompanham o íon ferro diz respeito aos estados de oxidação apresentados pelo ferro, que são +2 e +3, e é raramente encontrado livre. Para obter-se ferro no estado elementar, os óxidos são reduzidos com carbono, e imediatamente são submetidos a um processo de refinação para retirar as impurezas presentes. 
+É o elemento mais pesado que se produz exotermicamente por fusão, e o mais leve produzido por fissão, devido ao fato de seu núcleo ter a mais alta energia de ligação por nucleon, que é a energia necessária para separar do núcleo um neutron ou um próton. Portanto, o núcleo mais estável é o do ferro-56. 
+Apresenta diferentes formas estruturais dependendo da temperatura: 
+• Ferro a: É o que se encontra na temperatura ambiente, até os 788 °C. O sistema cristalino é uma rede cúbica centrada no corpo e é ferromagnético.
+• Ferro ß: 788 - 910 °C. Tem o mesmo sistema cristalino que o a, porém a temperatura de Curie é de 770 °C, e passa a ser paramagnético.
+• Ferro ?: 910 - 1400 °C; apresenta uma rede cúbica centrada nas faces.
+• Ferro d: 1400 - 1539 °C; volta a apresentar uma rede cúbica centrada no corpo.
+HISTÓRIA
+Tem-se indícios do uso de ferro, seguramente procedente de meteoritos, quatro milênios a.C., pelos sumérios e egípcios. 
+Cada vez mais objetos de ferro, datados entre o segundo e terceiro milênio antes de Cristo, foram encontrados (estes se distinguem do ferro proveniente dos meteoritos pela ausência de níquel) na Mesopotâmia, Anatólia e Egito. Entretanto, seu uso provável destinou-se a fins cerimoniais, por ter sido um metal muito caro, mais do que o ouro na época. Algumas fontes sugerem que talvez o ferro era obtido como subproduto da obtenção do cobre. 
+Entre 1600 e 1200 a.C., observou-se um aumento de seu uso no Oriente Médio, porém não como substituto ao bronze. 
+Entre os séculos XII e X antes de Cristo, ocorreu uma rápida transição no Oriente Médio na substituição das armas de bronze para as de ferro. Esta rápida transição talvez tenha ocorrido devido a uma escassez de estanho, e devido a uma melhoria na tecnologia em trabalhar com o ferro. Este período, que ocorreu em diferentes ocasiões segundo o lugar, denominou-se Idade do ferro, substituindo a Idade do bronze. Na Grécia iniciou-se em torno do ano 1000 a.C., e não chegou à Europa ocidental antes do século VII a.C.. A substituição do bronze pelo ferro foi paulatina, pois era difícil produzir peças de ferro: localizar o mineral, extraí-lo, proceder a sua fundição a temperaturas altas e depois forjá-lo. 
+Na Europa central, surgiu no século IX a.C. a "cultura de Hallstatt" substituindo a "cultura dos campos de urnas", que se denominou "Primeira Idade do Ferro", pois coincide com a introdução do uso deste metal. Aproximando-se do ano 450 a.C., ocorreu o desenvolvimento da "cultura da Tène", também denominada "Segunda Idade do Ferro". O ferro era usado em ferramentas, armas e jóias, embora segue-se encontrando objetos de bronze. 
+Junto com esta transição de bronze ao ferro descobriu-se o processo de "carburação", que consiste em adicionar carbono ao ferro. O ferro era obtido misturado com a escória contendo carbono ou carbetos, e era forjado retirando-se a escória e oxidando o carbono, criando-se assim o produto já com uma forma. Este ferro continha uma quantidade de carbono muito baixa, não sendo possível endurecê-lo com facilidade ao esfriá-lo em água. Observou-se que se podia obter um produto muito mais resistente aquecendo a peça de ferro forjado num leito de carvão vegetal, para então submergi-lo na água ou óleo. O produto resultante, apresentando uma camada superficial de aço, era menos duro e mais frágil que o bronze. 
+Na China, o primeiro ferro utilizado também era proveniente dos meteoritos. Foram encontrados objetos de ferro forjado no noroeste, perto de Xinjiang, do século VIII a.C.. O procedimento utilizado não era o mesmo que o usado no Oriente Médio e na Europa. 
+Nos últimos anos da Dinastia Zhou (550 a.C.), na China, se conseguiu obter um produto resultante da fusão do ferro (ferro fundido). O mineral encontrado ali apresentava um alto conteúdo de fósforo, com o qual era fundido em temperaturas menores que as aplicadas na Europa e outros lugares. Todavia, durante muito tempo, até a Dinastía Qing (aos 221 a.C.), o processo teve uma grande repercussão. 
+O ferro fundido levou mais tempo para ser obtido na Europa, pois não se conseguia a temperatura necessária. Algumas das primeiras amostras foram encontradas na Suécia, em Lapphyttan e Vinarhyttan, de 1150 a 1350 d.C. 
+Na Idade Média, e até finais do século XIX, muitos países europeus empregavam como método siderúrgico a "farga catalana". Se obtinha ferro e aço de baixo carbono empregando-se carvão vegetal e o minério de ferro. Este sistema já estava implantado no século XV, conseguindo-se obter temperaturas de até 1200 °C. Este procedimento foi substituído pelo emprego de altos fornos. 
+No princípio se usava carvão vegetal para a obtenção de ferro como fonte de calor e como agente redutor. No século XVIII, na Inglaterra, o carvão vegetal começou a escassear e tornar-se caro, iniciando-se a utilização do coque, um combustível fóssil, como alternativa. Foi utilizado pela primeira vez por Abraham Darby, no ínício do século XVIII, construindo em Coalbrookdale um "alto forno". Mesmo assim, o coque só foi empregado como fonte de energia na Revolução industrial. Neste período a demanda foi se tornando cada vez maior devido a sua utilização, como por exemplo, em estradas de ferro. 
+O alto fornoghghgf foi evoluindo ao longo dos anos. Henry Cort, em 1784, aplicou novas técnicas que melhoraram a produção. Em 1826 o alemão Friedrich Harkot construiu um alto forno sin mampostería para humos. 
+Em finais do século XVIII e início do século XIX começou-se a empregar amplamente o ferro como elemento estrutural em pontes, edifícios e outros. Entre 1776 e 1779 se construiu a primeira ponte de ferro fundido por John Wilkinson e Abraham Darby. Na Inglaterra foi empregado pela primeira vez o ferro na construção de edifícios por Mathew Boulton e James Watt, no princípio do século XIX. Também são conhecidas outras obras deste século, como por exemplo, o "Palácio de Cristal" construído para a Exposição Universal de 1851 em Londres, do arquiteto Joseph Paxton, que tem uma armação de ferro, ou a Torre Eiffel, em Paris, construída em 1889 para a Exposição Universal, onde foram utilizadas milhares de toneladas de ferro.
+

@@ -1,0 +1,45 @@
+Nome:Alumínio 
+
+Símbolo:Al
+
+Número atômico:13
+
+Massa atômica:26,9815386
+
+Série química:metais representativos
+
+Estado da matéria:solido
+
+Radioativo:não
+
+Ponto de fusão:933,47K
+
+Ponto de ebulição:2792K
+
+Nome em latim:aluminium
+
+APRESENTAÇÃO
+Do Latim Alumen, derivado do mineral Alume, conhecidos dos antigos Gregos e Romanos que o usavam em medicina e em tingimento. O metal foi isolado em 1825 por Hans Oersted, na Dinamarca, a partir da redução do cloreto com amálgama de potássio e posterior destilação do mercúrio. É o mais abundante dos metais na Terra (8,2%). É um metal leve, branco, que reage com água formando um filme de óxido e em pó reage com o oxigênio quando aquecido liberando luz e calor. Atualmente é obtido pela eletrólise do óxido (alumina), proveniente da Bauxita, dissolvido em mistura de fluoretos fundidos de K, Na e Ca.
+CARACTERÍSTICAS PRINCIPAIS
+O alumínio é um metal leve, macio e resistente. Possui um aspecto cinza prateado e fosco, devido à fina camada de óxidos que se forma rapidamente quando exposto ao ar. O alumínio não é tóxico como metal, não-magnético, e não cria faíscas quando exposto à atrito. O alumínio puro possui tensão de cerca de 19 megapascais (MPa) e 400 MPa se inserido dentro de uma liga. Sua densidade é aproximadamente de um terço do aço ou cobre. 
+
+É muito maleável, muito dúctil, apto para a mecanização e fundição, além de ter uma excelente resistência à corrosão e durabilidade devido à camada protetora de óxido. É o segundo metal mais maleável, sendo o primeiro o ouro, e o sexto mais dúctil. Por ser um bom condutor de calor, é muito utilizado em panelas de cozinha.
+APLICAÇÕES
+Considerando a quantidade e o valor do metal empregado, o uso do alumínio excede o de qualquer outro metal, exceto o aço. É um material importante em múltiplas atividades econômicas. 
+
+O alumínio puro é mais dúctil em relação ao aço , porém suas ligas com pequenas quantidades de cobre, manganês, silício, magnésio e outros elementos apresentam uma grande quantidade de características adequadas às mais diversas aplicações. Estas ligas constituem o material principal para a produção de muitos componentes dos aviões e foguetes. 
+
+Quando se evapora o alumínio no vácuo, forma-se um revestimento que reflete tanto a luz visível como a infravermelha, sendo o processo mais utilizado para a fabricação de refletores automotivos , por exemplo. Como a capa de óxido que se forma impede a deterioração do revestimento, utiliza-se o alumínio para a fabricação de espelhos de telescópios, em substituição aos de prata. 
+
+Devido à sua grande reatividade química é usado, quando finamente pulverizado, como combustível sólido para foguetes e para a produção de explosivos. Ainda usado como ánodo de sacrifício e em processos de aluminotermia para a obtenção de metais. 
+
+Outros usos do alumínio são: 
+• Meios de Transporte: Como elementos estruturais em aviões, barcos, automóveis, tanques, blindagens e outros.
+• Embalagens: Papel de alumínio, latas, tetrabriks e outras.
+• Construção civil: Janelas, portas, divisórias, grades e outros.
+• Bens de uso: Utensílios de cozinha, ferramentas e outros.
+• Transmissão elétrica: Ainda que a condutibilidade elétrica do alumínio seja 60% menor que a do cobre, o seu uso em redes de transmissão elétricas é compensado pela seu menor custo e densidade, permitindo maior distância entre as torres de transmissão.
+• Como recipientes criogênicos até -200 ºC e, no sentido oposto, para a fabricação de caldeiras
+• Observação: As ligas de alumínio assumem diversas formas como a Duralumínio.
+• Descobriu-se recentemente que ligas de gálio-alumínio em contato com água produzem uma reação química dando como resultado hidrogênio, por impedir a formação de camada protetora (passivadora) de óxido de alumínio e fazendo o alumínio se comportar similarmente a um metal alcalino como o sódio ou o potássio. Tal popriedade é pesquisada como fonte de hidrogênio para motores, em substituição aos derivados de petróleo e outros combustíveis de motores de combustão interna.
+

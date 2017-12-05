@@ -1,0 +1,33 @@
+Nome: Hélio
+
+Símbolo: He
+
+Número atômico: 2
+
+Massa atômica: 4,002602
+
+Série química: gases nobres
+
+Estado da matéria: gasoso
+
+Radioativo: não
+
+Ponto de fusão: 0,95K
+
+Ponto de ebulição: 4,22
+
+Nome em latim: Helium
+
+APRESENTAÇÃO
+
+Do Grego Hellios ou Sol. Descoberto por Sir William Ramsay em Londres e por P.T. Cleve e N.A. Langlet na Suécia em 1895. Foi o primeiro elemento a ser descoberto fora da Terra, onde foi evidenciado em um eclipse em 1868 na Índia, pela utilização de um espectroscópio apontado para o Sol. Posteriormente sua existência foi confirmada na Terra em minerais de urânio e em poços de gás natural, de onde é obtido atualmente. É um gás incolor, não inflamável e mais leve que o ar.
+
+CARACTERÍSTICAS PRINCIPAIS
+
+Nas Condições Normais de Temperatura e Pressão o hélio é um gás monoatômico, tornando-se líquido somente em condições extremas (de alta pressão e baixa temperatura). Tem o ponto de solidificação mais baixo de todos os elementos químicos, sendo o único líquido que não pode solidificar-se baixando a temperatura, já que permanece no estado líquido no zero absoluto à pressão normal. De resto, sua temperatura crítica é de apenas 5,19 K. Os isótopos 3He e 4He são os únicos em que é possível, aumentando a pressão, reduzir o volume mais de 30%. O calor específico do gás hélio é muito elevado, de vapor muito denso, expandindo-se rapidamente quando é aquecido a temperatura ambiente. O hélio sólido só existe a pressões da ordem de 100 MPa a 15 K (-248,15 ºC). Aproximadamente a essa temperatura, o hélio sofre uma transformação cristalina, de estrutura cúbica a estrutura hexagonal compacta; em condições mais extremas, ocorre uma nova mudança, empacotando os átomos numa estrutura cúbica centrada. Todos estes empacotamentos tem energias e densidades semelhantes, debitando-se as mudanças à maneira como os átomos interagem.
+
+ÁPLICAÇÕES
+
+O hélio é mais leve que o ar, isto é, a densidade do hélio é menor que a densidade do ar, diferenciando-se do hidrogênio por não ser inflamável, entretanto, apresenta poder ascensional 8% menor. Por este motivo, e por ser um gás inerte, é utilizado em dirigíveis e balões com fins recreativos, publicitários, reconhecimento de terrenos, filmagens aéreas e para investigações das condições atmosféricas. 
+As maiores reservas de Hélio encontram-se nos Estados Unidos. Estas reservas são estratégicas e controladas pelo governo norte-americano. Não estão disponíveis para venda em grande quantidades. 
+

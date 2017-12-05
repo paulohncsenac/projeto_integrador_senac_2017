@@ -1,0 +1,34 @@
+Nome:Escândio
+
+Símbolo:Es
+
+Número atômico:21
+
+Massa atômica:44,955912
+
+Série química:metal de transição
+
+Estado da matéria:Sólido
+
+Radioativo:não
+
+Ponto de fusão:1814,0K
+
+Ponto de ebulição:3103,0K
+
+Nome em latim:scandium
+
+APRESENTAÇÃO
+O escândio (em homenagem a Escandinávia) é um elemento químico de símbolo Sc, número atómico 21 (21 prótons e 21 elétrons) com massa atómica 45 u. É um sólido a temperatura ambiente. 
+É um metal de transição, grupo 3 ou 3B, classificado com frequência entre os lantanídios devido a características similiares a eles. É encontrado em alguns minerais na Escandinávia. Faz parte do grupo das terras raras. 
+Foi descoberto por Lars Fredrick Nilson em 1879 mediante análise espectral dos minerais euxenita e gadolinita. O escândio tem aplicações aeroespaciais, seu isótopo Sc-46 em craqueamento do petróleo e, seu óxido, em lâmpadas de vapor de mercúrio.
+CARACTERÍSTICAS PRINCIPAIS
+É um metal mole, muito leve, resistente ao ácido nítrico e ácido fluorídrico diluidos , mas reage rapidamente com outros ácidos. Apresenta coloração branco prateado adquirindo uma coloração ligeiramente rosado quando exposto ao ar. 
+Seu estado de oxidação mais comum é +3 e seus sais são incolores. Suas propriedades são parecidas com as do ítrio, actínio e os lantanídios, por isso, são incluidos frequentemente entre as terras raras, denominação errada porque não são tão raras assim.
+APLICAÇÕES
+O óxido de escândio Sc2O3, é usado para a produção de lâmpadas de vapor de mercúrio obtendo-se uma luz solar artificial da mais alta qualidade. O isótopo radioativo Sc-46 é usado no craqueamento do petróleo como traçador, e o metal tem aplicação na indústria aeroespacial devido ao seu ponto de fusão muito superior ao do alumínio.
+HISTÓRIA
+O escândio (do latim científico "scandium", e este de "Scandi", Escandinávia) foi descoberto por Lars Fredrick Nilson em 1879 enquanto trabalhava com sua equipe na busca de metais terras raras mediante análise espectral dos minerais euxenita e gadolinita. Para isolar o elemento processou 10 kg de euxenita com outros resíduos de terras raras obtendo aproximadamente 2 gramas de óxido de escândio (Sc2O3) de grande pureza. 
+Em 1869, Dmitri Mendeleyev concluiu, baseando-se nas propriedades periódicas, que este metal deveria ter propriedades semelhantes aos do boro, denominando o elemento ainda a descobrir de ekaboro (símbolo Eb). Aproximadamente na mesma época que Nilson, Per Theodor Cleve descobriu o óxido de escandio e confirmou que se tratava do "ekaboro". 
+Em 1937 foi isolado pela primeira vez o metal por eletrólise de uma solução mistura eutética de potássio, lítio e cloretos de escândio a 700-800°C empregando como eletrodos um filamento de wolfrâmio e um banho de zinco líquido em um crisol de grafite. O escândio com uma pureza de 99% foi obtido em 1960.
+

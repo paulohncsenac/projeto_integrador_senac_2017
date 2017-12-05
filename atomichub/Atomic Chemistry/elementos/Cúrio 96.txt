@@ -1,0 +1,31 @@
+Nome: Cúrio
+
+Símbolo: Cm
+
+Número atômico: 96
+
+Massa atômica: 247
+
+Série química: Actinídeos
+
+Estado da matéria: sólido
+
+Radioativo: não
+
+Ponto de fusão: 1613K
+
+Ponto de ebulição: 3383K
+
+Nome em latim: Curium
+
+APRESENTAÇÃO
+O nome é em homenagem ao casal Pierre e Marie Curie. Foi descoberto por Seaborg e colaboradores em 1944 em Chicago por bombardeamento do Pu-239 com núcleos de hélio em cicloton. O Isótopo mais estável, Cm-247 tem meia vida de 16 milhões de anos. O metal é prateado, muito reativo e mais eletropositivo que o alumínio. Os seguintes compostos são conhecidos: CmO2, Cm2O3, CmF3.
+CARACTERÍSTICAS PRINCIPAIS
+O cúrio é um tanto semelhante ao terra rara gadolínio, porém com uma estrutura cristalina mais complexa. Quimicamente reativo, é um metal de aspecto branco-prateado (a maioria dos seus compostos triavalentes são ligeiramente amarelos), maleável e, devido a sua elevada radioatividade, brilha no escuro. O elemento é mais eletropositivo que o alumínio. 
+O isótopo cúrio-248 tem sido sintetizado somente em quantidades miligramas, porém, o cúrio-242 e o cúrio-244 são produzidos em quantidades multigramas, que permite a determinação de algumas das propriedades do elemento. O cúrio é obtido nesta quantidade sujeitando o plutônio a um bombardeio de partículas alfa. Quantidades muito pequenas de cúrio podem existir no minério de urânio, como produto de deterioração natural, porém nunca foi detectado.
+APLICAÇÕES
+Há poucas aplicações comerciais para o cúrio. Pode ser útil em geradores termoelétricos. O cúrio-242 e Cu-244 são utilizados como fontes de energia portátil, já que pode gerar em torno de 2 watts de energia térmica por grama. É usado em marcapassos coronários artificiais, em instrumentos operando em locais remotos na Terra, e em missões espaciais.
+PRECAUÇÕES
+O cúrio é tóxico e radioativo, portanto, deve ser manuseado com cuidado. 
+Acumula no tecido ósseo, destruindo a medula e, deste modo, impedindo a formação de glóbulos vermelhos.
+

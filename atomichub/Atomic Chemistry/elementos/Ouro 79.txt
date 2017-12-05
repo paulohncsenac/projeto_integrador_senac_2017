@@ -1,0 +1,35 @@
+Nome: Ouro
+
+Símbolo: Au
+
+Número atômico: 79
+
+Massa atômica: 196,966569
+
+Série química: metal de transição
+
+Estado da matéria: sólido
+
+Radioativo: não
+
+Ponto de fusão: 1337K
+
+Ponto de ebulição: 3129K
+
+Nome em latim: Aurum
+
+APRESENTAÇÃO
+Derivado do Latim Aurun que significa Ouro. É conhecido deste a mais remota antiqüidade por ser encontrado nativo na natureza. Encontra-se também combinado como telureto. É obtido de depósitos de aluvião e por mineração da rocha que o contém. Atualmente é obtido pela lixiviação da rocha com cianeto de sódio. O complexo de ouro Na[Au(CN)2] formado é eletrolisado ou reduzido com um metal como o Zinco. Também pode ser extraído por mercúrio (amálgama). E o único metal amarelo. Seu brilho não é alterado ao ar, nem por aquecimento. Não é atacado por nenhum ácido, com exceção da água régia que o dissolve formando ácido cloroáurico (HAuCl4).
+CARACTERÍSTICAS PRINCIPAIS
+É um metal de transição brilhante, amarelo, pesado, maleável, dúctil (trivalente e univalente) que não reage com a maioria dos produtos químicos, mas é sensível ao cloro. À temperatura ambiente, apresenta-se no estado sólido. Este metal encontra-se normalmente em estado puro e em forma de pepitas e depósitos aluvionais e é um dos metais tradicionalmente usados para cunhar moeda. 
+O ouro puro é demasiadamente mole para ser usado. Por essa razão, geralmente é endurecido formando liga metálica com prata e cobre. O ouro e as suas diversas ligas metálicas são muito empregados em joalherias, fabricação de moedas e como padrão monetário em muitos países. Devido à sua boa condutividade elétrica, resistência à corrosão e uma boa combinação de propriedades físicas e químicas, apresenta diversas aplicações industriais.
+APLICAÇÕES
+* O ouro exerce funções críticas em ordenadores, comunicações, naves espaciais, motores de reação na aviação, e em diversos outros produtos.
+* A sua elevada condutividade elétrica e resistência à oxidação têm permitido um amplo uso em eletrodeposição, ou seja, cobrir com uma camada de ouro por meio eletrolítico as superfícies de conexões elétricas, para assegurar uma conexão de baixa resistência elétrica e livre do ataque químico do meio. O mesmo processo pode ser utilizado para a douragem de peças, aumentando a sua beleza e valor.
+* Como a prata, o ouro pode formar amálgamas com o mercúrio que, algumas vezes, é empregado em obturações dentárias.
+* O ouro coloidal (nano-partículas de ouro) é uma solução intensamente colorida que está sendo pesquisada para fins médicos e biológicos. Esta forma coloidal também é empregada para criar pinturas douradas em cerâmicas.
+* O ácido cloroaúrico é empregado em fotografias.
+* O isótopo de ouro 198Au, com meia-vida de 2,7 días, é usado em alguns tratamentos de câncer e em outras enfermidades.
+* É empregado para o recobrimento de materiais biológicos, permitindo a visualização através do microscópio eletrônico de varredura (SEM).
+* Utilizado como cobertura protetora em muitos satélites porque é um bom refletor de luz infravermelha.
+

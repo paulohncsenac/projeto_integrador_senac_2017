@@ -1,0 +1,39 @@
+Nome: Telúrio
+
+Símbolo:Te
+
+Número atômico:52
+
+Massa atômica:127,60
+
+Série química:semimetal
+
+Estado da matéria:Sólido
+
+Radioativo:não
+
+Ponto de fusão:722,66K
+
+Ponto de ebulição:1261K
+
+Nome em latim:tellurium
+
+APRESENTAÇÃO
+Derivado do Latim Tellus que significa Terra. Descoberto em 1782 por Franz Muller von Reichenstein, no minério de ouro conhecido com Aurum Album. Klaploth o isolou tratando este mineral com água régia, precipitando a solução com KOH em excesso, filtrando, e na solução resultante adicionando HCl. O precipitado obtido foi misturado com óleo e aquecido para redução. Hoje o telúrio é recuperado na lama anódica proveniente do refino de cobre. É um semi-metal prateado, facilmente reduzido a pó e queima ao ar formado o TeO2 branco. Não reage com HCl mas é atacado pelo HNO3 e H2SO4. Também é encontrado na forma de pó amorfo cinza escuro.
+CARACTERÍSTICAS PRINCIPAIS
+O telúrio é um elemento relativamente raro, pertence a mesma família química do oxigênio, enxofre, selênio, e polônio, todos denominados calcogênios. 
+Quando cristalino, o telúrio é branco-prateado, e quando na forma pura apresenta um brilho metálico. É um semi-metal (metalóide), frágil e facilmente pulverizável. O telúrio amorfo pode ser obtido por precipitação de uma solução de ácido teluroso ou ácido telúrico. Entretanto, existe algumas controvérsias quanto ao fato deste telúrio ser realmente amorfo ou constituído de minúsculos cristais. O telúrio é um semicondutor do tipo que demonstra condutividade maior em determinadas direções, dependendo do alinhamento atômico. 
+Relacionado quimicamente ao selênio ou ao enxofre, a condutividade do telúrio aumenta ligeiramente quando exposto a luz. Pode ser dopado com cobre, ouro, prata, estanho ou outros metais. O telúrio, quando queimado em presença do ar , produz uma chama azul esverdeada , e forma o dioxido de telúrio (TeO2) como produto. Quando fundido, o telúrio tem a capacidade de corroer o cobre, o ferro e o aço inoxidável.
+APLICAÇÕES
+A maior parte do telúrio é usado em ligas com outros metais. É adicionado ao chumbo para aumentar a sua resistência mecânica, durabilidade e diminuir a ação corrosiva do ácido sulfúrico. Quando adicionado ao aço inoxidável e cobre torna estes materiais mais facilmente usináveis. 
+
+Outros usos: 
+• Em ferro fundido (ferro de molde) para o controle a frio.
+• Usado em cerâmicas. Adicionado a borracha aumenta a sua resistência ao calor e ao envelhecimento, e é usado como pigmento azul para colorir o vidro.
+• O telúrio coloidal tem ação fungicida, inseticida e germicida.
+• O telureto de bismuto apresenta uso em dispositivos termoelétricos.
+
+O telúrio também é usado em espoletas de explosivos e apresenta potenciais aplicações em painéis solares como telureto de cádmio. Apesar do aumento de algumas eficiências para a geração de energia elétrica a partir da energia solar tenha sido obtida com a utilização deste material, a sua aplicação não produziu um aumento significativo na demanda.
+PRECAUÇÕES
+Seres humanos expostos a atmosfera com 0.01 mg/m3 ou menos com telúrio adquirem um hálito desagradável e secura na boca. Intoxicações mais elevadas causam dores de cabeça, vertigens e sonolência. O telúrio e seus compostos devem ser considerados tóxicos e, portanto, devem ser manuseados com cuidado.
+

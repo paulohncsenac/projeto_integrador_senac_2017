@@ -1,0 +1,35 @@
+Nome: Urânio
+
+Símbolo: U
+
+Número atômico: 92
+
+Massa atômica: 238,02891
+
+Série química: actinídeos
+
+Estado da matéria: sólido
+
+Radioativo: não
+
+Ponto de fusão: 1405K
+
+Ponto de ebulição: 4404K
+
+Nome em latim: Uranium
+
+APRESENTAÇÃO
+O nome deriva do Planeta Urânio. Foi descoberto por M.H. Klaproth em 1789 em Berlim e isolado por E.M. Peligot em Paris em 1842, por redução do tetracloreto de urânio anidro (UCl4) com potássio. Atualmente é obtido pela redução dos haletos com metais alcalinos. Também pode ser obtido pela redução do U3O8 com Ca, Al ou carbono. É um metal pesado, branco prateado, pirofórico quando em pó. Atacado por ácidos e resistente a bases. Seu isótopo de meia vida mais estável é o U-238 com meia vida de 4.51 x 109 anos. O urânio natural é fracamente radioativo.
+CARACTERÍSTICAS PRINCIPAIS
+O urânio é o último elemento químico natural da tabela periódica. É o átomo com o núcleo mais pesado que existe naturalmente na Terra: contem 92 prótons e 135 a 148 nêutrons. 
+Quando puro, é um sólido, metálico e radioativo, muito duro e denso, de aspecto cinza à branco prateado, muito semelhante a coloração do níquel.
+APLICAÇÕES
+Antes do advento da energia nuclear, o urânio tinha um leque de aplicações muito reduzido. Era utilizado em fotografia e nas indústrias de cabedal (fabricação de peças de couro e sola) e de madeira. Os seus compostos usavam-se como corantes e mordentes (fixadores de cor) para a seda e a lã. 
+No entanto, a aplicação mais importante do urânio é a energética. Com este fim, utilizam-se apenas três isótopos do elemento (U-234, U-235 e U-238), com mecanismos de reação ligeiramente diferentes, embora o mais utilizado seja o U-235. Na produção de energia nuclear há uma reação de fissão auto-sustentada, que ocorre em um reator, normalmente imerso num tanque com uma substância moderadora e refrigerante - água. A água é aquecida e vaporizada pelo reator, passando em seguida por turbinas que acionam geradores, para assim produzir energia elétrica. 
+Os reatores nucleares de fissão podem ser bastante compactos, sendo utilizados na propulsão de submarinos, navios de guerra e em algumas sondas espaciais como as dos programas das sondas Cassini-Huygens, Voyager e Pioneer, podendo utilizar outros radioisótopos como o Plutônio-239 em seus reatores de energia. 
+Por suas combinacões de alta dureza, alta densidade específica (17,3 g/cm3) e alto ponto de fusão (1132 ºC), o Urânio também é utilizado na fabricação de projéteis de armas de fogo onde normalmente utiliza-se o chumbo, cujas características são: densidade específica de 11,3 g/cm3, baixa temperatura de fusão (327 ºC) e baixa dureza (1,5 na escala de Mohs). A utilização do Urânio em projéteis de armas de fogo apresentam grandes vantagens técnicas em relação ao Chumbo mas expõe os soldados a um nível elevado de radiação.
+DOENÇAS AO SER HUMANO
+O urânio produz envenenamento de baixa intensidade (inalação, ou absorção pela pele), produzindo também efeitos colaterais, tais como: náusea, dor de cabeça, vômito, diarréia e queimaduras. Atinge o sistema linfático, sangue, ossos, rins e fígado. 
+Seu efeito no organismo é cumulativo (o que significa que o mineral, por não ser reconhecido pelo ser vivo, não é eliminado, sendo paulatinamente depositado, sobretudo nos ossos), e a radiação assim exposta pode provocar o desenvolvimento de cânceres. Para os trabalhadores das minas, são freqüentes os casos de câncer no pulmão. 
+O uso de urânio empobrecido também é apontado como a possível causa da síndrome da Guerra do Golfo causando uma série de doenças registradas em soldados americanos e britânicos que lutaram contra a invasão do Kuwait pelo Iraque em 1991. Mais de dez mil veteranos daquela guerra tiveram doenças misteriosas.
+

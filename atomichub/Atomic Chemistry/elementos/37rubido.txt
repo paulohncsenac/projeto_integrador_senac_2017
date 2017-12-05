@@ -1,0 +1,40 @@
+Nome: Rubídio
+
+Símbolo:Rb
+
+Número atômico:37
+
+Massa atômica:85,4678
+
+Série química:metal alcalino
+
+Estado da matéria:Sólido
+
+Radioativo:não
+
+Ponto de fusão:312,46
+
+Ponto de ebulição:961K
+
+Nome em latim:rubidium
+
+APRESENTAÇÃO
+Do Latim Rubidus, que significa vermelho devido a cor da linha espectral caracteristica que seus sais emitem quando aquecidos. Foi descoberto em 1861 por R. W. Bunsen e G. Kirchhoff, com auxílio do espectroscópio inventado por eles. Foi obtido na forma de hexacloroplatinato de rubídio após tratamento de 44.000 kg da água mineral de Dürkhein e também 150 kg de Lepidolita da Saxônia. É um metal mole, prateado e brilhante que reage violentamente com água formado o hidróxido de rubídio (RbOH). Atualmente é extraído da Lepidolita em que se encontra na proporção de 1,5%.
+CARACTERÍSTICAS PRINCIPAIS
+O Rubídio é um metal alcalino macio, de coloração branca prateada brilhante que perde o brilho rapidamente em contato com o ar. Muito reativo - é o segundo elemento alcalino mais eletroposivo - e pode ser encontrado líquido na temperatura ambiente. Igual aos demais elementos do grupo 1 pode arder espontaneamente com o ar produzindo chama de coloração violeta amarelada. reage violentamente com a água desprendendo hidrogênio. Forma amálgamas com o mercúrio. Pode formar ligas com o ouro, com os demais metais alcalinos, com metais alcalino terrosos, antimônio e bismuto. 
+Igual aos demais metais alcalinos apresenta um único estado de oxidação: +1. Reage com dióxido de carbono, hidrogênio, nitrogênio, enxofre e halogênios. Com o oxigênio forma pelo menos quatro óxidos: Rb2O, Rb2O2, Rb2O3, e RbO2.
+APLICAÇÕES
+O rubídio pode ionizar-se com facilidade, por isso está estudando-se o seu uso em motores iônicos para naves espaciais, ainda que o xenônio e o césio tem demonstrado uma maior eficiência para este propósito. É utilizado principalmente na fabricação de cristais especiais para sistemas de telecomunicação de fibra óptica e equipamentos de visão noturna. 
+
+Outros usos do rubídio são: 
+• Revestimentos fotoemissores de telúrio-rubídio em células fotoelétricas e detectores eletrônicos.
+• Afinador de vácuo, "getter" , ( substância que absorve os últimos traços de um gás, especialmente oxigênio )em tubos de vácuo para assegurar seu correto funcionamento.
+• Componente de fotoresistências ( o LDR, "Light dependant resistors", resistências dependentes da luz ), resistências nas quais a resistência elétrica varia com a iluminação recebida.
+• Em medicina o Rúbidio-81, radioactivo com emissão de positrão usado no exame PET em medicina nuclear. Isótopos não radioactivos usados para tratamento da epilepsia e na separação por ultracentrifugação de ácidos nucleicos e virus.
+• Fluido de trabalho em turbinas de vapor.
+• O RbAg4I5 tem a maior condutibilidade elétrica conhecida a temperatura ambiente de todos os cristais iônicos, podendo ser usada na fabricação de baterias na forma de delgadas lâminas, entre outras aplicações elétricas.
+• Se estuda a possibilidade de empregar o metal em geradores termoelétricos baseados na magnetohidrodinâmica, de forma que os íons de rubídio gerados a alta temperatura sejam conduzidos através de um campo magnético, gerando uma corrente elétrica.
+• Fabricação de vidros especiais.
+
+Em muitas aplicações pode ser substiuido pelo césio ou composto de césio correspondente, por sua semelhança química.
+

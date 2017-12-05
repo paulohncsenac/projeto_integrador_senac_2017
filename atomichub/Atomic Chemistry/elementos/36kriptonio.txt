@@ -1,0 +1,30 @@
+Nome:Criptônio
+
+Símbolo:Kr
+
+Número atômico:36
+
+Massa atômica:83,798
+
+Série química:Gás nobre
+
+Estado da matéria:gasoso
+
+Radioativo:não
+
+Ponto de fusão:115,79K
+
+Ponto de ebulição:119,93k
+
+Nome em latim:krypton
+
+APRESENTAÇÃO
+Do Grego Kryptos, significa oculto, escondido. Foi descoberto por Sir William Ramsay e M.W. Travers em 1898 a partir da destilação fracionada do ar líquido. A fração do ar líquido contendo o Criptônio foi identificada espectroscopicamente devido à presença de linhas amarela e verde, desconhecidas em outros gases. É um gás incolor e inodoro, inerte que somente reage com o flúor para formar o difluoreto de criptônio (KrF2) que é pouco estável. Obtido atualmente da destilação do ar líquido, já que se encontra na atmosfera na concentração de 1 ppm.
+CARACTERÍSTICAS PRINCIPAIS
+O crípton é um gás nobre incolor, inodoro, insípido, de muito pequena reactividade, caracterizado por um espectro de linhas verde e vermelha-alaranjada muito brilhante. É um dos produtos da fissão nuclear do urânio. O crípton sólido é branco, de estrutura cristalina cúbica centrada nas faces, igual aos demais gases nobres. 
+Para propósitos prácticos, pode-se considerá-lo um gás inerte, mesmo que existam compostos seus formados com o flúor. Além disso, pode formar hidratos com a água, de forma que seus átomos ficam enclausurados na rede de moléculas de água. Também se têm sintetizado solvatos com hidroquinona e fenol.
+APLICAÇÕES
+A definição do metro era, entre 1960 e 1983, baseada na radiação emitida pelo átomo excitado de crípton; na verdade, o metro era definido como 1.650.763,73 vezes o comprimento de onda da emissão vermelha-alaranjada de um átomo de Kr-86. 
+É usado, isolado ou misturado com néon e árgon: em lâmpadas fluorescentes; em sistemas de iluminação de aeroportos, já que o alcance da luz vermelha emitida é maior que a comum inclusive em condições climatológicas adversas; e nas lâmpadas incandescentes de filamento de tungsténio de projectores cinematográficos. O laser de crípton é usado em medicina para cirurgia da retina do olho. O isótopo Kr-81m é usado no estudo do pulmão pela medicina nuclear. 
+O crípton-85 é usado em análises químicas incorporando o gás em sólidos, processo no qual se formam criptonatos cuja atividade é sensível às reacções químicas produzidas na superfície da solução. Também é usado flash fotográficos para fotografias de alta velocidade, na detecção de fugas em depósitos selados e para excitar o fósforo de fontes de luz sem alimentação externa de energia.
+

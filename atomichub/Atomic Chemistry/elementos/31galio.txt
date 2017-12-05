@@ -1,0 +1,33 @@
+Nome: Gálio
+
+Símbolo:Ga
+
+Número atômico:31
+
+Massa atômica:69,723
+
+Série química:metais representativos
+
+Estado da matéria:Sólido
+
+Radioativo:não
+
+Ponto de fusão:302,9146
+
+Ponto de ebulição:2477K
+
+Nome em latim:gallium
+
+APRESENTAÇÃO
+O nome é derivado de Gallia, o nome Latino para a França. Foi descoberto em 1875 por Lecoq de Boisbaudran em París a partir de um mineral de galio chamado Blenda de Pierrefite. O mineral foi dissolvido em água régia e a solução obtida foi reduzida com folhas de galio. O resíduo metálico obtido contendo diversos metais foi analisado no espectroscópio e pode-se observar uma raia violeta desconhecida nos outros elementos. Suas propriedades foram previstas por Mendeleev que chamou de Ekaalumínio. É um metal branco acinzentado muito brilhante que se funde ao calor da mão. É atualmente obtido como subproduto do tratamento da bauxita e minérios de galio.
+CARACTERÍSTICAS PRINCIPAIS
+O gálio é um metal mole, grisáceo no estado líquido e prateado brilhante ao solidificar. Quando sólido desagrega a baixas temperaturas pois funde ao redor da temperatura ambiente (como o césio , mercúrio e rubídio), inclusive quando colocado nas mãos, devido ao seu baixo ponto de fusão (28,76 °C). A faixa de temperatura na qual permanece no estado líquido é um dos mais altos entre os metais (2.174 °C separam seus pontos de fusão e ebulição) e sua pressão de vapor é baixa mesmo a altas temperaturas. O gálio se expande aproximadamente 3,1% ao solidificar e flutua no seu líquido do mesmo modo que o gelo na água. 
+Apresenta uma forte tendência a permanecer no estado líquido abaixo do seu ponto de fusão, sendo necessário um grão (pequeno sólido adicionado ao líquido) para ocorrer a solidificação. A cristalização não produz nenhuma das estruturas cristalinas simples. A fase estável nas condições normais é ortorrômbica com 8 átomos em cada célula unitária, na qual cada átomo apresenta um único átomo na vizinhança a uma distância de 2,44 Å, e com demais seis a 2,83 Å. Nesta estrutura a ligação química formada entre os átomos mais próximos é do tipo covalente sendo a molécula Ga2 a que realmente forma o retículo cristalino. 
+Em outras condições de pressão e temperatura se tem encontrado numerosas fases estáveis e metaestáveis diferentes. 
+O gálio corroi outros metais quando se difunde em suas redes cristalinas
+HISTÓRIA
+O gálio (do latim Gallia, França), foi descoberto através da espectroscopia por Lecoq de Boisbaudran em 1875 por seu espectro característico (duas linhas no ultravioleta) ao examinar uma blenda de galio procedente dos Pirenéus. No mesmo ano foi isolado pelo próprio Lecoq através do processo de eletrólise do hidróxido numa solução de hidróxido de potássio (KOH) dando ao novo elemento o nome do seu país natal: Gallia. Como era do gosto dos cientistas dos finais do século XIX, O descobridor utilizou um jogo de palavras com seu próprio nome para nomear o elemento: gallus significa galo, coq em francês. 
+Antes da descoberta da maioria das propriedades do elemento, estas já haviam sido previstas e descritas por Mendeleyev - que o chamou de eka-aluminio - baseando-se na posição que este elemento deveria ocupar na tabela periódica.
+PRECAUÇÕES
+Devido a expansão ao solidificar, o gálio líquido não deve ser armazenado em recipientes rígidos como metálicos ou vidro. Pelo mesmo motivo o recipiente não pode ser completamente preenchido com gálio líquido.
+
