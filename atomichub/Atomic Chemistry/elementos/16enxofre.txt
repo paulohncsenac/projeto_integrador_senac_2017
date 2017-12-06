@@ -1,22 +1,22 @@
-Nome:Enxofre
+Nome: Enxofre
 
-Símbolo:S
+Símbolo: S
 
-Número atômico:16
+Número atômico: 16
 
-Massa atômica:32,065
+Massa atômica: 32,065
 
-Série química:Não-metais
+Série química: Não-metais
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:Não
+Radioativo: Não
 
-Ponto de fusão:388,36K
+Ponto de fusão: 388,36K
 
-Ponto de ebulição:717,75k
+Ponto de ebulição: 717,75k
 
-Nome em latim:sulphuris
+Nome em latim: sulphuris
 
 APRESENTAÇÃO
 O enxofre (do latim sulphur) é um elemento químico de símbolo S , número atômico 16 (16 prótons e 16 elétrons) e de massa atómica 32 u. À temperatura ambiente, o enxofre encontra-se no estado sólido. 
