@@ -1,22 +1,22 @@
 Nome: Arsênio
 
-Símbolo:As
+Símbolo: As
 
-Número atômico:33
+Número atômico: 33
 
-Massa atômica:74,92160
+Massa atômica: 74,92160
 
-Série química:semimetal
+Série química: semimetal
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:Não
+Radioativo: Não
 
-Ponto de fusão:1090K
+Ponto de fusão: 1090K
 
-Ponto de ebulição:887k
+Ponto de ebulição: 887k
 
-Nome em latim:arsenicum
+Nome em latim: arsenicum
 
 APRESENTAÇÃO
 Do Latim Arsenicum ou Grego Arsenikon identificado com Arsenikos, macho, pois se acreditava que os metais tinham sexo diferentes. Acredita-se que Albertus Magnus no século XIII obteve o elemento a partir do aquecimento do sulfeto de arsênio (ouropimenta) com sabão e Paracelso com casca de ovos. Apresenta-se em duas formas: amarelo ou cinza com brilho metálico. Forma-se compostos muito tóxicos. Quando aquecido forma óxido (As2O3) que se dissolve em bases formando os sais arsenitos. Se dissolve em ácido nítrico formando ácido arsênico (H3AsO4). É obtido atualmente como subproduto da mineração de prata e ouro.

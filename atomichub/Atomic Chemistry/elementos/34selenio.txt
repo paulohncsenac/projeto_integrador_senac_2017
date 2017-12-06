@@ -1,22 +1,22 @@
 Nome: Sêlenio
 
-Símbolo:Se
+Símbolo: Se
 
-Número atômico:34
+Número atômico: 34
 
-Massa atômica:78,96
+Massa atômica: 78,96
 
-Série química:Não metal
+Série química: Não metal
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:Não
+Radioativo: Não
 
-Ponto de fusão:494K
+Ponto de fusão: 494K
 
-Ponto de ebulição:958K
+Ponto de ebulição: 958K
 
-Nome em latim:selenium
+Nome em latim: selenium
 
 APRESENTAÇÃO
 Derivado de Selene que é o nome Greco da Lua, por ser semelhante ao Telúrio, de Tellus, que significa Terra. Foi descoberto por J.J. Berzelius em 1817 na Suécia, a partir de resíduos encontrados em uma "câmara de chumbo" utilizada na fabricação de ácido sulfúrico. É um não metal que na forma amorfa é vermelho, em pó é preto e fundido se torna cinza brilhante. É estável ao ar, mas quando aquecido forma-se o SeO2 que se dissolve em ácidos formando selenitos (SeO32-). Dissolve-se no ácido nítrico formando ácido selênico. Possui propriedades fotoelétricas. Atualmente obtido como subproduto do refino eletrolítico de cobre onde ele se acumula no ânodo.

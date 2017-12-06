@@ -1,22 +1,22 @@
 Nome: Tecnécio
 
-Símbolo:Tc
+Símbolo: Tc
 
-Número atômico:43
+Número atômico: 43
 
-Massa atômica:98
+Massa atômica: 98
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:sim
+Radioativo: sim
 
-Ponto de fusão:2430K
+Ponto de fusão: 2430K
 
-Ponto de ebulição:4538K
+Ponto de ebulição: 4538K
 
-Nome em latim:technetium
+Nome em latim: technetium
 
 APRESENTAÇÃO
 Derivado do Grego Tekhnetos, que significa artificial. Descoberto por C. Perrier e E.G. Segré em 1937 que o encontraram em uma amostra de molibdênio bombardeada com deuterons no Cicloton de Berkeley. Foi o primeiro elemento a ser produzido artificialmente. Seu nome antigo era Masurio. Seu isótopo mais estável Tc-98 possui meia vida de 2,6 milhões de ano. É um metal cinza-prateado que lentamente se oxida no ar úmido. Dissolve-se em HNO3, H2SO4 concentrado e água régia, mas não em HCl. Sua química é muito similar ao Rênio. É obtido atualmente pela redução do pertecnato de amônio (NH4TcO4) com hidrogênio.

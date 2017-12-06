@@ -1,22 +1,22 @@
 Nome: Potássio
 
-Símbolo:K
+Símbolo: K
 
-Número atômico:19
+Número atômico: 19
 
-Massa atômica:39,0983
+Massa atômica: 39,0983
 
-Série química:metais alcalinos
+Série química: metais alcalinos
 
-Estado da matéria:sólido
+Estado da matéria: sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:336,53K
+Ponto de fusão: 336,53K
 
-Ponto de ebulição:1032K
+Ponto de ebulição: 1032K
 
-Nome em latim:potassium
+Nome em latim: Kalium
 
 APRESENTAÇÃO
 O potássio é um elemento químico de símbolo K (do latim "kalium", nome original da sua base KOH), número atômico 19 (19 prótons e 19 elétrons), metal alcalino, de massa atómica 39 u, coloração branco prateado, abundante na natureza, encontrado principalmente nas águas salgadas e outros minerais. Oxida-se rapidamente com o oxigênio do ar, é muito reativo especialmente com a água e se parece quimicamente com o sódio. 

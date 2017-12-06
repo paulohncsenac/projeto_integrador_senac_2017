@@ -1,22 +1,22 @@
 Nome: Paládio
 
-Símbolo:Pd
+Símbolo: Pd
 
-Número atômico:46
+Número atômico: 46
 
-Massa atômica:106,42
+Massa atômica: 106,42
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1828,05K
+Ponto de fusão: 1828,05K
 
-Ponto de ebulição:3236K
+Ponto de ebulição: 3236K
 
-Nome em latim:Palladii
+Nome em latim: Palladii
 
 APRESENTAÇÃO
 Derivado do asteróide Pallas, descoberto em 1803. Foi descoberto por W.H. Wollaston em 1803, Londres após dissolução de liga de Pt com água régia, precipitação com cianeto mercuroso e calcinação. Muitas controvérsias houveram desta descoberta, pois não se acreditava que era um novo metal. A descoberta somente foi confirmada quando Joseph Cloud, da Casa da Moeda Americana o identificou pelo método da copelação no ouro proveniente do Rio das Mortes, Minas Gerais, Brasil. É um metal prateado que é atacado pelo HNO3, e muito dúctil. Obtido atualmente pela redução do (NH4)2PdCl4 com H2 ou pela redução de seus sais com ácido fórmico.

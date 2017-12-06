@@ -1,22 +1,22 @@
 Nome: índio
 
-Símbolo:In
+Símbolo: In
 
-Número atômico:49
+Número atômico: 49
 
-Massa atômica:114,818
+Massa atômica: 114,818
 
-Série química:metais representativos
+Série química: metais representativos
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:429,7485K
+Ponto de fusão: 429,7485K
 
-Ponto de ebulição:2345K
+Ponto de ebulição: 2345K
 
-Nome em latim:Indium
+Nome em latim: Indium
 
 APRESENTAÇÃO
 Nome derivado de Índigo (azul) que é a cor de uma linha brilhante em seu espectro. Foi descoberto por F. Reich e H. Richter em 1863, em mistura de minérios de zinco proveniente de Freiberg. O cloreto de zinco impuro obtido deste minério foi analisado no espectroscópio e pode-se observar uma linha azul intensa, não encontrada em nenhum elemento conhecido. A partir do In2O3 reduzido com carvão eles obtiveram o índio metálico. Atualmente é um subproduto da mineração e refino de zinco. É um metal macio, branco prateado, estável ao ar, muito reativo aos ácidos, mas resistente a álcalis. Oxida-se quando aquecido produzindo óxido de cor amarela.

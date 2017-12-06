@@ -1,22 +1,22 @@
-Nome:Escândio
+Nome: Escândio
 
-Símbolo:Es
+Símbolo: Es
 
-Número atômico:21
+Número atômico: 21
 
-Massa atômica:44,955912
+Massa atômica: 44,955912
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1814,0K
+Ponto de fusão: 1814,0K
 
-Ponto de ebulição:3103,0K
+Ponto de ebulição: 3103,0K
 
-Nome em latim:scandium
+Nome em latim: scandium
 
 APRESENTAÇÃO
 O escândio (em homenagem a Escandinávia) é um elemento químico de símbolo Sc, número atómico 21 (21 prótons e 21 elétrons) com massa atómica 45 u. É um sólido a temperatura ambiente. 

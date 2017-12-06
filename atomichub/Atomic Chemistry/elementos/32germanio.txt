@@ -1,22 +1,22 @@
-Nome:Germânio
+Nome: Germânio
 
-Símbolo:Ge
+Símbolo: Ge
 
-Número atômico:32
+Número atômico: 32
 
-Massa atômica:72,64
+Massa atômica: 72,64
 
-Série química:semimetal
+Série química: semimetal
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:Não
+Radioativo: Não
 
-Ponto de fusão:1211,40K
+Ponto de fusão: 1211,40K
 
-Ponto de ebulição:3106K
+Ponto de ebulição: 3106K
 
-Nome em latim:germanium
+Nome em latim: germanium
 
 APRESENTAÇÃO
 Derivado de Germania, o nome Latino da Alemanha. Foi descoberto em 1886 por Clemens A. Winkler em Frieberg, Alemanha, no mineral Argirodita (4Ag2S.GeS2), a partir da redução de seu sulfeto com hidrogênio. Foi o terceiro elemento previsto por Mendeleev que o chamou de Ekasilício. É obtido atualmente como subproduto do processamento de minérios de zinco, a partir da redução do GeO2 com hidrogênio. É um elemento cinza-claro brilhante estável ao ar em temperatura ambiente e que se dissolve em ácido nítrico. Seu óxido (GeO2) se dissolve em meio básico formando Germanatos (GeO32-). Possui propriedades semi-condutoras como o silício.

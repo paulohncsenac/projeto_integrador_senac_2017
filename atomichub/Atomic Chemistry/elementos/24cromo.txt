@@ -1,22 +1,22 @@
-Nome:Crômo
+Nome: Crômo
 
-Símbolo:Cr
+Símbolo: Cr
 
-Número atômico:24
+Número atômico: 24
 
-Massa atômica:51,9961
+Massa atômica: 51,9961
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:sólido
+Estado da matéria: sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:2180K
+Ponto de fusão: 2180K
 
-Ponto de ebulição:2944K
+Ponto de ebulição: 2944K
 
-Nome em latim:Chrome
+Nome em latim: Chrome
 
 APRESENTAÇÃO
 Do Grego Chroma que significa cor, devido a coloração de seus compostos. Foi descoberto e isolado por Nicholas-Louis Vauquelin em 1797 ao analisar o mineral chumbo vermelho da Sibéria (crocoita). Vauquelin obteve o metal a partir da redução do trioxido de cromo (Cr2O3) com carvão. Atualmente é obtido em grandes quantidades pela redução do óxido com alumínio (aluminotermia). Pela redução da cromita com alumínio se obtém a liga ferro-cromo utilizado na fabricação de aço inox. O metal é cinza claro, duro e que se torna muito brilhante quando polido. Muito resistente a corrosão e por isso é utilizado para recobrimento de outros metais (cromação).

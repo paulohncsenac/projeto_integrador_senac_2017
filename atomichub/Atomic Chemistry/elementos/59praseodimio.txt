@@ -1,22 +1,22 @@
 Nome: Praseodímio
 
-Símbolo:pr
+Símbolo: pr
 
-Número atômico:59
+Número atômico: 59
 
-Massa atômica:140,93765
+Massa atômica: 140,93765
 
-Série química:lantanídios
+Série química: lantanídios
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1204K
+Ponto de fusão: 1204K
 
-Ponto de ebulição:3793K
+Ponto de ebulição: 3793K
 
-Nome em latim:praseodymium
+Nome em latim: praseodymium
 
 APRESENTAÇÃO
 Derivado do Grego Prasios, verde e Didymos, gêmeo. Significa gêmeo do Lantânio por ter sido separado deste e por suas soluções serem verdes. Foi descoberto pelo Barão Auer von Welsbach em 1885 no óxido de didímio que se supunha ser um óxido de um elemento puro. Ele provou que este se tratava de uma mistura de óxidos de neodímio e praseodímio. É um metal prateado maleável e dúctil e desenvolve uma camada verde de óxido quando exposto a ar. Reage com a água e ácidos produzindo solução esverdeada. Separado dos outros elementos "terras raras" por troca iônica e obtido atualmente pela redução do PrCl3 ou PrF3 com cálcio ou por eletrólise do PrCl3 fundido.

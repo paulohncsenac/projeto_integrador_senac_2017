@@ -1,22 +1,22 @@
 Nome: Xenônio
 
-Símbolo:Xe
+Símbolo: Xe
 
-Número atômico:54
+Número atômico: 54
 
-Massa atômica:131,293
+Massa atômica: 131,293
 
-Série química:gases nobres
+Série química: gases nobres
 
-Estado da matéria:gasoso
+Estado da matéria: gasoso
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:161,36K
+Ponto de fusão: 161,36K
 
-Ponto de ebulição:165,03K
+Ponto de ebulição: 165,03K
 
-Nome em latim:xenon
+Nome em latim: xenon
 
 APRESENTAÇÃO
 O nome deriva do Grego Xenos que significa estrangeiro. Foi descoberto em 1898 por Sir William Ramsay e M.W. Travers a partir da destilação fracionada do ar líquido. A fração do ar líquido contendo o Xenônio foi identificada espectroscopicamente. É um gás incolor e inodoro, mais denso que todos os outros elementos gasosos. Encontra-se no ar, sua fonte de obtenção, na concentração de 0.08 ppm. Apesar de ser um "gas nobre" reage com o Fluor e Oxigênio formando fluoretos como o XeF4 e compostos oxigenados como o XeO3 e XeO4, que se dissolve em soluções de NaOH formando perxenato de sódio (Na4XeO6), que é um sal relativamente estável.

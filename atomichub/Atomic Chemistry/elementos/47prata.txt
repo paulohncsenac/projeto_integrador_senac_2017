@@ -1,22 +1,22 @@
 Nome: Prata
 
-Símbolo:Ag
+Símbolo: Ag
 
-Número atômico:47
+Número atômico: 47
 
-Massa atômica:107,8682
+Massa atômica: 107,8682
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: ólido
 
-Radioativo:Não
+Radioativo: Não
 
-Ponto de fusão:1234,93K
+Ponto de fusão: 1234,93K
 
-Ponto de ebulição:2435K
+Ponto de ebulição: 2435K
 
-Nome em latim:argentum
+Nome em latim: argentum
 
 APRESENTAÇÃO
 O símbolo deriva do Latim Argentun que significa Prata. É conhecida desde a antiguidade. Foi encontrada inicialmente na forma nativa e depois o homem aprendeu a separá-la de outros metais, como o chumbo, estanho e o cobre, utilizando o processo chamado de "Copelação". Atualmente é obtida principalmente como subproduto do refino eletrolítico do cobre, chumbo e zinco. Pode ser facilmente reduzida da solução de seus sais (AgNO3) com zinco ou cobre. É o metal mais branco, e melhor condutor de calor e eletricidade e dúctil. É estável ao ar, mas escurece devido a formação de Ag2S. É atacada pelo HNO3 e H2SO4 a quente, mas não pelo HCl.

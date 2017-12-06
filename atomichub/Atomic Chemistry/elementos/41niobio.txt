@@ -1,22 +1,22 @@
 Nome: Nióbio
 
-Símbolo:Nb
+Símbolo: Nb
 
-Número atômico:41
+Número atômico: 41
 
-Massa atômica:92,90638
+Massa atômica: 92,90638
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:2750k
+Ponto de fusão: 2750k
 
-Ponto de ebulição:5017k
+Ponto de ebulição: 5017k
 
-Nome em latim:niobium
+Nome em latim: niobium
 
 APRESENTAÇÃO
 O nome é derivado de Niobe que na Mitologia Grega é filha de Tantalus, por ser muito semelhante ao Tantalio. Antigamente era conhecido como Columbium. Foi descoberto por C. Hatchett in 1801 mas o metal somente foi isolado em 1864 por C.W. Blomstrand por redução do cloreto de nióbio com hidrogênio. Hoje é obtido pela redução do Nb2O5 com alumínio. Suas propriedades químicas são muito similares ao Tantalio e sua separação deste só é possível com a utilização de solventes orgânicos como a metilisobutilcetona. É um metal branco prateado, brilhante, estável ao ar e não é atacado por HCl, H2SO4 e HNO3. Dissolve-se facilmente na mistura de HNO3/HF.

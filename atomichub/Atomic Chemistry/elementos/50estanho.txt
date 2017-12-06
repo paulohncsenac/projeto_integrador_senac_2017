@@ -1,22 +1,22 @@
 Nome: Estanho
 
-Símbolo:Sn
+Símbolo: Sn
 
-Número atômico:50
+Número atômico: 50
 
-Massa atômica:118,710
+Massa atômica: 118,710
 
-Série química:metais representativos
+Série química: metais representativos
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:505,08K
+Ponto de fusão: 505,08K
 
-Ponto de ebulição:2875K
+Ponto de ebulição: 2875K
 
-Nome em latim:stagni
+Nome em latim: stannum
 
 APRESENTAÇÃO
 Do Latim Stannum e relacionado com a palavra Stagnum devido à facilidade com que funde. É conhecido desde a antiguidade, como elemento constituinte do bronze e o obtinham pela redução de seu dióxido (SnO2), Cassiterita, com carvão, que é um processo similar ao empregado ainda hoje. Para obtenção em alto grau de pureza pode-se utilizar a eletrólise de seus sais. É um metal branco prateado, mole, dúctil e facilmente fusível. Ao ar muda de coloração e se desagrega em temperaturas abaixo de 13ºC. Lentamente atacado por ácidos diluídos minerais e rapidamente por ácidos concentrados. Queima quando aquecido ar formando SnO2 branco.

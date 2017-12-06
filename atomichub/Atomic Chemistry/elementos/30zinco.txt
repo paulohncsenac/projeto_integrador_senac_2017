@@ -1,22 +1,22 @@
 Nome: Zinco
 
-Símbolo:Zn
+Símbolo: Zn
 
-Número atômico:30
+Número atômico: 30
 
-Massa atômica:65,38
+Massa atômica: 65,38
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:692,68K
+Ponto de fusão: 692,68K
 
-Ponto de ebulição:1180K
+Ponto de ebulição: 1180K
 
-Nome em latim:spodium
+Nome em latim: spodium
 
 APRESENTAÇÃO
 Do Alemão Zink, de significado desconhecido. Foi conhecido na China antes de 1500 AC e pelos Gregos e Romanos em ligas de cobre -zinco e bronze. Foi produzido na Índia por volta de 1300 DC por redução do minério calamina com carvão vegetal. Atualmente os minérios são transformados em óxido de zinco, este é reduzido com carvão e o zinco obtido é destilado para purificação. É um metal branco-azulado lustroso de baixo ponto de fusão e muito reativo com ácidos e ao ser aquecido no ar queima produzindo nuvens de óxido (ZnO). Seus sais são brancos e as suas soluções são incolores. É o único metal de transição que forma sulfeto branco (ZnS).

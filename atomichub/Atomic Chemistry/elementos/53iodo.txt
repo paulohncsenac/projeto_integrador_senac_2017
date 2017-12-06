@@ -1,22 +1,22 @@
 Nome: Iodo
 
-Símbolo:I
+Símbolo: I
 
-Número atômico:53
+Número atômico: 53
 
-Massa atômica:126,90447
+Massa atômica: 126,90447
 
-Série química:halogénios
+Série química: halogénios
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:386,85K
+Ponto de fusão: 386,85K
 
-Ponto de ebulição:457,6K
+Ponto de ebulição: 457,6K
 
-Nome em latim:iodium
+Nome em latim: iodium
 
 APRESENTAÇÃO
 Derivado do Grego Iodes que significa violeta. Descoberto em Paris em 1811 por Bernard Courtois ao tratar a solução de cinzas de algas marinhas com H2SO4 à quente e destilação em retorta. Assim ele observou bonito vapor violeta que se condensava em cristais escuros. Hoje o iodo é recuperado principalmente da mineração de salitre no Chile e de algas marinhas. É um não metal cinza azulado, pouco solúvel em água, mas solúvel em solventes orgânicos como o clorofórmio. Seus vapores são bastante corrosivos. Sublima quando aquecido. Dissolve-se facilmente em meio alcalino e em soluções de KI. Dissolve-se em HNO3 formadoácido iódico (HIO3).

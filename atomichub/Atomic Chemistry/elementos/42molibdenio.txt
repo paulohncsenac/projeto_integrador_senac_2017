@@ -1,22 +1,22 @@
 Nome: Molibdênio
 
-Símbolo:Mo
+Símbolo: Mo
 
-Número atômico:42
+Número atômico: 42
 
-Massa atômica:95,96
+Massa atômica: 95,96
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:2436K
+Ponto de fusão: 2436K
 
-Ponto de ebulição:4912K
+Ponto de ebulição: 4912K
 
-Nome em latim:natrium
+Nome em latim: molybdenum
 
 APRESENTAÇÃO
 Derivado do Grego Molybdos, que significa Chumbo. Scheele reconheceu em 1778 que o mineral molibdenita não se tratava de um mineral de chumbo ou grafite e deveria conter uma nova terra (óxido) que ele chamou de "Terra Molibdaenae". Em 1781 P.J. Hjelm em Uppsala, Suécia, obteve o metal na forma impura por redução do MoO3 com carvão e fundentes. É obtido hoje pela redução do trióxido ou molibdato de amônio com hidrogênio. O metal é branco prateado, duro e resistente a ar. Somente é oxidado em alta temperatura. É resistente ao ataque de ácidos, mas se dissolve em mistura de ácidos oxidantes e complexantes como a mistura HNO3/HF.

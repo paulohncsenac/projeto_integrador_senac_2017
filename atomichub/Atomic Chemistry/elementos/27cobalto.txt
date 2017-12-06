@@ -1,22 +1,22 @@
 Nome: Cobalto
 
-Símbolo:Co
+Símbolo: Co
 
-Número atômico:27
+Número atômico: 27
 
-Massa atômica:58,933195
+Massa atômica: 58,933195
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:Não
+Radioativo: Não
 
-Ponto de fusão:1768K
+Ponto de fusão: 1768K
 
-Ponto de ebulição:3200K
+Ponto de ebulição: 3200K
 
-Nome em latim:cobalt
+Nome em latim: cobalt
 
 APRESENTAÇÃO
 Derivado do Alemão Kobold que significa gnomo ou duende subterrâneo, que se acreditava, destruirem o trabalho dos mineiros. Foi descoberto em 1735 por Georg Brandt em Stockholm, Suécia por redução de um mineral de cobalto pela técnica conhecida como "Ensaio de Fogo" (fire essay), É um metal brilhante, duro, parecido com o ferro e resistente a oxidação. Seus sais são rosados em solução aquosa ou na forma hidratada e se tornam azuis quando aquecidos após perderam água. O metal apresenta ferromagnetismo como o Ferro. Atualmente é obtido por eletrólise da solução de sulfato de cobalto.

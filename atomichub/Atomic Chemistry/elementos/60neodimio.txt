@@ -1,22 +1,22 @@
 Nome: Neodímio
 
-Símbolo:Nd
+Símbolo: Nd
 
-Número atômico:60
+Número atômico: 60
 
-Massa atômica:144,242
+Massa atômica: 144,242
 
 Série química:Lantanídios
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:Não
+Radioativo: Não
 
-Ponto de fusão:1294K
+Ponto de fusão: 1294K
 
-Ponto de ebulição:3347K
+Ponto de ebulição: 3347K
 
-Nome em latim:neodymium
+Nome em latim: neodymium
 
 APRESENTAÇÃO
 Derivado do Grego Neo, novo e Didymos, gêmeo. Significa novo gêmeo do Lantânio por ter sido separado do óxido de didímio pelo Barão von Welsbach em 1885. Foi separado do praseodímio por cristalização fracionada do nitrato duplo de amônio e didímio. Como metal puro somente foi obtido em 1925. Sempre se encontra associado aos outros elementos "terras raras" e pode ser separado por técnicas de troca iônica e extração com solventes. Hoje é obtido por redução do NdF3 anidro com cálcio ou eletrólise do NdCl3 fundido. O metal é reativo e de coloração prateada e se recobre rapidamente de uma camada de óxido. Dissolve em ácidos dando solução arroxeada.
