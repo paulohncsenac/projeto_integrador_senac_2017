@@ -10,7 +10,7 @@ Série química: metal alcalino
 
 Estado da matéria: sólido
 
-Radioativo: não
+Radioativo: sim
 
 Ponto de fusão: 300K
 

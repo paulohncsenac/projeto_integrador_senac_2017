@@ -10,7 +10,7 @@ Série química: Actínio
 
 Estado da matéria: sólido
 
-Radioativo: não
+Radioativo: sim
 
 Ponto de fusão: 1323K
 

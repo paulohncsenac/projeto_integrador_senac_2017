@@ -10,7 +10,7 @@ Série química:metal de transição
 
 Estado da matéria:Sólido
 
-Radioativo:não
+Radioativo:sim
 
 Ponto de fusão:2430K
 

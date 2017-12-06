@@ -10,7 +10,7 @@ Série química: gases nobres
 
 Estado da matéria: gasoso
 
-Radioativo: não
+Radioativo: sim
 
 Ponto de fusão: indisponível
 

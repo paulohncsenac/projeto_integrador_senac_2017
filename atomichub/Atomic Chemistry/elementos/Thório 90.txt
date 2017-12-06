@@ -10,7 +10,7 @@ Série química: Actinídeo
 
 Estado da matéria: sólido
 
-Radioativo: não
+Radioativo: sim
 
 Ponto de fusão: 2115K
 

@@ -10,7 +10,7 @@ Série química: halogenios
 
 Estado da matéria: sólido
 
-Radioativo: não
+Radioativo: sim
 
 Ponto de fusão: 575K
 
