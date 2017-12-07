@@ -30,7 +30,7 @@
 
 			<div class="alert alert-success">
 			  <strong>Parabéns!</strong> Cadastrado com sucesso.
-			<a href="cadastrar.php"><button type="button" class="btn btn-info">Voltar</button></a>
+			<a href="cadastrar.php"><button type="button" class="btn btn-info">Voltar para Cadastro de Elementos </button> </a><a href="cadastrar3.php"><button type="button" class="btn btn-info">Voltar para Cadastro de Informações</button></a>
 			</div>
 
 		<?php  

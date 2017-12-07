@@ -1,0 +1,31 @@
+Nome: Molibdênio
+
+Símbolo: Mo
+
+Número atômico: 42
+
+Massa atômica: 95,96
+
+Série química: metal de transição
+
+Estado da matéria: Sólido
+
+Radioativo: não
+
+Ponto de fusão: 2436K
+
+Ponto de ebulição: 4912K
+
+Nome em latim: molybdenum
+
+APRESENTAÇÃO
+Derivado do Grego Molybdos, que significa Chumbo. Scheele reconheceu em 1778 que o mineral molibdenita não se tratava de um mineral de chumbo ou grafite e deveria conter uma nova terra (óxido) que ele chamou de "Terra Molibdaenae". Em 1781 P.J. Hjelm em Uppsala, Suécia, obteve o metal na forma impura por redução do MoO3 com carvão e fundentes. É obtido hoje pela redução do trióxido ou molibdato de amônio com hidrogênio. O metal é branco prateado, duro e resistente a ar. Somente é oxidado em alta temperatura. É resistente ao ataque de ácidos, mas se dissolve em mistura de ácidos oxidantes e complexantes como a mistura HNO3/HF.
+CARACTERÍSTICAS PRINCIPAIS
+O molibdênio é um metal de transição. O metal puro é de coloração branco prateado e muito duro; além disso, tem um dos pontos de fusão mais altos entre todos os elementos puros. Em pequenas quantidades, é aplicado em diversas ligas metálicas de aço para endurece-lo e torná-lo resistente a corrosão. Por outro lado, o molibdênio é o único metal da segunda série de transição cuja essencialidade é reconhecida do ponto de vista biológico; é encontrado em algumas enzimas com diferentes funções, concretamente em oxotransferases (função de transferência de elétrons ), como por exemplo a xantina oxidase, e na nitrogenase (função de fixação de nitrogênio molecular ).
+APLICAÇÕES
+• Aproximadamente dois terços do molibdênio consumido é empregado em ligas metálicas. O uso deste elemento remonta da Primeira Guerra Mundial, quando houve uma forte demanda de wolfrâmio, que começou a escassear, e havia necessidade de aços muito resistentes. O molibdênio passou a ser usado na produção de ligas de alta resistência, que suportassem bem temperaturas elevadas e resistissem à corrosão. Estas ligas são usadas na construção de peças para aviões e automóveis.
+• O molibdênio é usado como catalisador na indústria petroquímica. É útil para a eliminação do enxofre.
+• O 99Mo é empregado na indústria de isótopos nucleares.
+• É empregado em diversos pigmentos (com coloração alaranjada) para pinturas, tintas , plásticos e compostos de borracha.
+• O dissulfeto de molibdênio (MoS2 ) é um bom lubrificante e pode ser empregado em altas temperaturas.
+• O molibdênio pode ser empregado em algumas aplicações eletrônicas, como nas telas de projeção do tipo TFT.

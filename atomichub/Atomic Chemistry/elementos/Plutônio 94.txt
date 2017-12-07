@@ -1,0 +1,30 @@
+Nome: Plutônio
+
+Símbolo: Pu
+
+Número atômico: 94
+
+Massa atômica: 244,0642
+
+Série química: Actinídeos
+
+Estado da matéria: sólido
+
+Radioativo: sim
+
+Ponto de fusão: 912K
+
+Ponto de ebulição: 3505K
+
+Nome em latim: Plutonium
+
+APRESENTAÇÃO
+Nome derivado do planeta (ou corpo celeste) Plutão, por estar depois do U e Np. Descoberto por Seaborg e colaboradores em 1940. O isótopo Pu-238 foi sintetizado pelo bombardeio do U com deuteron em cicloton. O isótopo Pu-244 é o mais estável com meia vida de 8.2 x 107 anos. Estima-se o estoque mundial de Pu da ordem de 300 T. Existe em pequenas quantidades nos minerais de U. O metal é isolado por reação do PuF3 com Ca ou Ba. É um metal prateado que se amarela quando exposto ao ar. Dissolve-se em HCl formando PuCl3. Os óxidos PuO e PuO2 são conhecidos.
+DISPONIBILIDADE E PRODUÇÃO
+Traços de plutônio devem existir naturalmente em minerais de urânio, formados, de maneira semelhante ao netúnio, pela ação no urânio dos nêutrons lá presentes. 
+De forma artificial, o plutônio é produzido em reatores nucleares pela reação: 
+238U(nêutrons, radiação gama) -> 239U(beta) -> 239Np(beta) -> 239Pu.
+APLICAÇÕES
+* Em bombas nucleares. Um quilograma de plutônio tem o poder equivalente a cerca de 20000 toneladas de explosivo químico. 
+* Em geradores termoelétricos de sondas espaciais e submarinos nucleares. 
+* Em espn

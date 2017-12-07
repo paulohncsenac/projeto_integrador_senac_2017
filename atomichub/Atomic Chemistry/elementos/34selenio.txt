@@ -1,0 +1,37 @@
+Nome: Sêlenio
+
+Símbolo: Se
+
+Número atômico: 34
+
+Massa atômica: 78,96
+
+Série química: Não metal
+
+Estado da matéria: Sólido
+
+Radioativo: Não
+
+Ponto de fusão: 494K
+
+Ponto de ebulição: 958K
+
+Nome em latim: selenium
+
+APRESENTAÇÃO
+Derivado de Selene que é o nome Greco da Lua, por ser semelhante ao Telúrio, de Tellus, que significa Terra. Foi descoberto por J.J. Berzelius em 1817 na Suécia, a partir de resíduos encontrados em uma "câmara de chumbo" utilizada na fabricação de ácido sulfúrico. É um não metal que na forma amorfa é vermelho, em pó é preto e fundido se torna cinza brilhante. É estável ao ar, mas quando aquecido forma-se o SeO2 que se dissolve em ácidos formando selenitos (SeO32-). Dissolve-se no ácido nítrico formando ácido selênico. Possui propriedades fotoelétricas. Atualmente obtido como subproduto do refino eletrolítico de cobre onde ele se acumula no ânodo.
+CARACTERÍSTICAS PRINCIPAIS
+O selênio pode ser encontrado em várias formas alotrópicas. O selênio amorfo existe em duas formas, a vítrea, negra, obtida ao esfriar-se rapidamente, o selênio líquido que funde a 180 °C e tem uma densidade 4,28 g/cm³, e a vermelha, coloidal, que se obtém em reações de redução O selênio cinza cristalino de estrutura hexagonal, a forma mais comum, funde a 220,5 °C e tem uma densidade de 4,81 g/cm³; a forma vermelha, de estrutura monoclínica, funde a 221 °C e tem uma densidade de 4,39 g/cm³. 
+É insolúvel em água e álcool, ligeiramente solúvel em dissulfeto de carbono e solúvel em éter. 
+Exibe o efeito fotoelétrico, convertendo a luz em eletricidade. Além disso, sua condutibilidade elétrica aumenta quando exposto à luz. Abaixo de seu ponto de fusão é um material semicondutor do tipo p.
+APLICAÇÕES
+O selênio se usa em várias aplicações elétricas e eletrônicas, entre outras, como em células solares e retificadores. Em fotografia é empregado para intensificar e incrementar as faixas de tonalidades das fotografias em branco e preto e a durabilidade das imagens, assim como em xerografia. É adicionado aos aços inoxidáveis e é utilizado como catalisador em reações de deshidrogenação. 
+• O seleniato de sódio se usa como inseticida , em medicina para o controle de enfermidades de animais e, igual ao arsênio , na fabricação de vidros para eliminar a coloração verde causada pelas impurezas de ferro.
+• O selenito de sódio também é empregado na indústria do vidro e como aditivo para solos pobres em arsênio, e o selenito de amônio na fabricação de vidros e esmaltes vermelhos.
+• Os sulfetos são usados em medicina veterinária e shampoos anticaspa.
+• O dióxido de selênio é um catalisador adequado para a oxidação, hidrogenação e deshidrogenação de compostos orgânicos.
+• A adição de selênio melhora a resistência ao desgaste da borracha vulcanizada.
+• Células fotoelétricas de selênio são utilizadas em fotômetros. Como produzem uma pequena quantidade de corrente elétrica ao receberem luz, dispensam o uso de pilhas ou baterias, ao contrário de fotômetros equipados com células fotoelétricas de silício ou sulfeto de cádmio (CdS).
+HISTÓRIA
+O selênio foi descoberto em 1817 por Jöns Jacob Berzelius. Ao visitar a fábrica de ácido sulfúrico de Gripsholm, observou um líquido pardo avermelhado que, ao ser aquecido com maçarico, desprendia um odor fétido que se considerava até então característico e exclusivo do telúrio. O resultado da investigação desse material levou ao descobrimento do selênio. Chamado assim por ser muito parecido com o Telúrio, criando a analogia por telúrio=tellus=terra. Mais tarde, o aperfeiçoamento de técnicas de análise permitiu detectar sua presença em diversos minerais, porém sempre em quantidades extraordinariamente pequenas.
+

@@ -1,0 +1,37 @@
+Nome: Xenônio
+
+Símbolo: Xe
+
+Número atômico: 54
+
+Massa atômica: 131,293
+
+Série química: gases nobres
+
+Estado da matéria: gasoso
+
+Radioativo: não
+
+Ponto de fusão: 161,36K
+
+Ponto de ebulição: 165,03K
+
+Nome em latim: xenon
+
+APRESENTAÇÃO
+O nome deriva do Grego Xenos que significa estrangeiro. Foi descoberto em 1898 por Sir William Ramsay e M.W. Travers a partir da destilação fracionada do ar líquido. A fração do ar líquido contendo o Xenônio foi identificada espectroscopicamente. É um gás incolor e inodoro, mais denso que todos os outros elementos gasosos. Encontra-se no ar, sua fonte de obtenção, na concentração de 0.08 ppm. Apesar de ser um "gas nobre" reage com o Fluor e Oxigênio formando fluoretos como o XeF4 e compostos oxigenados como o XeO3 e XeO4, que se dissolve em soluções de NaOH formando perxenato de sódio (Na4XeO6), que é um sal relativamente estável.
+CARACTERÍSTICAS PRINCIPAIS
+O xenônio é um elemento membro do grupo dos gases nobres ou inertes. A palavra inerte já não é mais usada para descrever este grupo químico, dado que alguns elementos deste grupo formam compostos. Num tubo cheio de gás, o xenônio emite um bonito brilho azul quando excitado com uma descarga elétrica. Se tem obtido xenônio metálico aplicando-lhe pressões de várias centenas de kilobares. O xenônio também pode formar solvatos com água, quando seus átomos ficam aprisionados na rede de moléculas de água.
+APLICAÇÕES
+O uso principal e mais famoso deste gás é na fabricação de dispositivos emissores de luz, tais como lâmpadas bactericidas, tubos eletrônicos, lâmpadas estroboscópicas e flashes fotográficos, assim como em lâmpadas para excitar laser de rubi que geram luz coerente. 
+Outros usos são: 
+• Como anestésico em anestesia geral.
+• Em instalações nucleares, em câmaras de bolha, sondas, e em outras áreas onde o seu alto peso molecular é desejável.
+• Os perxenatos são usados como agentes oxidantes em química analítica.
+• O isótopo Xe-133 se usa como radioisótopo na Cintigrafia de Ventilação do Pulmão na medicina nuclear.
+• Na propulsão de foguetes espaciais, a propulsão iônica, que usa aceleradores de partículas para acelerar íons de xenônio. Em inglês, este sistema se chama XIP (Xenon Ion Propulsion).
+ABUNDÂNCIA E OBTENÇÃO
+Encontram-se traços de xenônio na atmosfera terrestre, aparecendo em uma parte por vinte milhões. O elemento é obtido comercialmente por extração dos resíduos do ar líquido. Este gás nobre é encontrado naturalmente nos gases emitidos por alguns mananciais naturais. Os isótopos Xe-133 e Xe-135 são sintetizados mediante irradiação de neutrons em reatores nucleares refrigerados a ar.
+PRECAUÇÕES
+O gás pode ser armazenado com segurança em recipientes convencionais de vidro selados a temperatura e pressão ambiente. O xenônio não é tóxico, porém vários de seus compostos são altamente tóxicos devido as suas fortes propriedades de oxidação.
+

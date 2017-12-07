@@ -1,0 +1,32 @@
+Nome: Rênio
+
+Símbolo: Re
+
+Número atômico: 75
+
+Massa atômica: 186,207
+
+Série química: metal de transoção
+
+Estado da matéria: sólido
+
+Radioativo: não
+
+Ponto de fusão: 3459K
+
+Ponto de ebulição: 4869K
+
+Nome em latim: Rhenium
+
+APRESENTAÇÃO
+De Rhenus, nome Latino do Rio Rhine (Reno). Foi descoberto por W. Noddack e colaboradores em 1925 em Berlim. Pelo processamento de 660kg de molibdenita eles obtiveram 1g de Rênio. Foi o último elemento natural não radioativo a ser descoberto. E produzido atualmente pela redução do perrenato de amônio (NH4ReO4) com hidrogênio. Sua química e muito similar ao manganês.É um metal branco prateado muito denso. É estável ao ar. É atacado pelos ácidos HNO3 e H2SO4 concentrado, mas não é atacado pelo HCl. Forma o ácido perrênico (HReO4) que é menos oxidante que o ácido permangânico (HMnO4).
+CARACTERÍSTICAS PRINCIPAIS
+O rênio é um metal branco prateado, brilhante, que apresenta um dos maiores pontos de fusão, excedido somente pelo tungstênio e carbono. É também um dos mais densos, excedido somente pela platina, pelo irídio, e pelo ósmio. Os estados de oxidação do rênio incluem -1,+1,+2,+3,+4,+5,+6 e +7 , sendo os mais comuns +7,+6,+4,+2 e -1. Sua forma comercial geralmente é em pó , porém pode ser obtido na forma compacta, com até 90% da sua densidade teórica. Quando é recozido torna-se muito dúctil, podendo ser dobrado em espiral ou anel. As ligas de rênio-molibdênio são supercondutores a 10K.
+APLICAÇÕES
+Catalisadores de rênio-platina são usados para a obtenção de chumbo metálico, gasolina de alta octanagem , e em superligas resistentes a elevadas temperaturas usadas para fabricação de peças de motores de jatos. Outros usos: 
+* Extensivamente usado como filamentos em espectrógrafos de massa e em detectores de íons.
+* Como aditivo no tungstênio ou em ligas a base de molibdêmio para melhorar suas propriedades .
+* Catalisadores de rênio são muito resistentes ao envenenamento químico, sendo usados em determinados tipos de reações de hidrogenação.
+* Em material de contato elétrico devido a sua boa resistência ao desgaste e a corrosão.
+* termopares que contem ligas de rênio e tungstênio são usados para medir temperaturas de até 2200°C.
+* Fio de rênio é usado em lâmpadas de flash para fotografias.

@@ -1,0 +1,38 @@
+Nome: Rádio
+
+Símbolo: Ra
+
+Número atômico: 88
+
+Massa atômica: 226,0254
+
+Série química: metal alcalino-terroso
+
+Estado da matéria: sólido
+
+Radioativo: sim
+
+Ponto de fusão: 973K
+
+Ponto de ebulição: 2010K
+
+Nome em latim: Radium
+
+APRESENTAÇÃO
+Deriva do Latim Radius que significa raio. Foi descoberto por Pierre and Marie Curie em 1898 a partir do mineral de urânio Pechblenda, na fração precipitada como BaSO4. O acompanhamento de seu trabalho de separação do Rádio foi feito pela análise da atividade radioativa das frações pelo auxílio do eletrômetro. Quimicamente é muito similar ao Bário. São conhecidos 25 isótopos, sendo o Ra-226 o mais estável com meia vida de 1600 anos. Obtido atualmente de minérios de Urânio nas formas de RaBr2 e RaCl2. É um metal branco brilhante e escurece rapidamente ao ar. Reage vigorosamente com água produzindo o Ra (OH)2. A produção mundial é estimada em 100g.
+CARACTERÍSTICAS PRINCIPAIS
+É o mais pesado dos metais alcalino-terrosos, é intensamente radioativo e assemelha-se quimicamente ao bário. Este metal é encontrado combinado em quantidades mínimas no minério de urânio pechblenda, e em vários outros minerais de urânio. É um emissor de partículas alfa , partículas beta e radiação gama. O rádio misturado com Berílio produz neutrons. 
+Quando recentemente obtido, o metal puro do rádio é branco brilhante, escurecendo quando exposto ao ar ( provavelmente devido a formação de nitreto ). O rádio é luminiscente ( produzindo uma coloração azul fraca ), Reage com a água para formar hidróxido de rádio, Ra(OH)2 , e é um pouco mais volátil que o bário.
+APLICAÇÕES
+Algumas das propriedades do rádio são derivadas de suas características radioativas. A descoberta de radioisótopos mais recentes como, por exemplo, o cobalto-60 e o césio-137 , por serem mais eficazes e/ou mais seguros de serem manuseados e aplicados, substituíram o rádio. 
+* Foi usado como tinta luminiscente em mostradores de relógios e instrumentos de medidas . Este uso foi interrompido na década de 20 devido a morte de dezenas de usuários de relógios com esta tinta. Posteriormente, os efeitos adversos da radioatividade passaram a serem conhecidos e popularizados. Objetos pintados com esta pintura ainda podem ser perigosos, e devem ser manuseados com cuidado.
+* Quando misturado com o berílio é uma fonte de neutrons para a física experimental, e análise de materiais
+* O rádio ( geralmente na formijhuoa de cloreto de rádio ) é usado em medicina para produzir o gás radônio, usado para o tratamento do câncer.
+* Uma unidade da radioatividade , curie , se baseia na radioatividade do rádio-226.
+RADIOATIVIDADE
+O rádio é um milhão de vezes mais radiativo do que a mesma massa de urânio. A sua deterioração ocorre em pelo menos sete estágios; os produtos sucessivos obtidos foram estudados e denominados "emanações do rádio" ou "exrádio" , que são o radônio, rádio A ( polônio ), rádio B ( chumbo ) , rádio C ( bismuto ), etc. ( o radônio é um gás pesado e os demais sólidos ). Estes produtos são radioativos, cada um com massa atómica um pouco mais baixa que a de seu predecessor. 
+O rádio perde aproximadamente 1% da sua atividade em 25 anos, sendo transformado em elementos com massa atômica mais baixa, sendo o chumbo o produto final da desintegração. 
+A unidade SI que mede a atividade de uma fonte radioativa é o becquerel ( Bq ), que corresponde a uma desintegração por segundo A unidade de atividade curie é definida como sendo a taxa de desintegração de 1 grama de rádio-226 ( 3,7 · 1010 desintegrações por segundo , ou 37 GBq ).
+
+
+

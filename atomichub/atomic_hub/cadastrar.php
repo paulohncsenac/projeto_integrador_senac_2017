@@ -32,9 +32,9 @@ include 'banco.php';
                         
             
                                         $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-                                        $sql = "INSERT INTO elementos (nome, label, numero, id_tipo) VALUES(?,?,?,?)";
+                                        $sql = "INSERT INTO elementos (nome, numero, label, id_tipo) VALUES(?,?,?,?)";
                                         $q = $pdo->prepare($sql);
-                                        $q->execute(array( $_POST['nome'], $_POST['label'], $_POST['numero'], $_POST['id_tipo']));
+                                        $q->execute(array( $_POST['nome'], $_POST['numero'], $_POST['label'], $_POST['id_tipo']));
                         
                             
                                       Banco::desconectar();

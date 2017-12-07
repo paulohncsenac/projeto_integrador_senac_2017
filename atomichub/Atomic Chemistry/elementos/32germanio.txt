@@ -1,0 +1,37 @@
+Nome: Germânio
+
+Símbolo: Ge
+
+Número atômico: 32
+
+Massa atômica: 72,64
+
+Série química: semimetal
+
+Estado da matéria: Sólido
+
+Radioativo: Não
+
+Ponto de fusão: 1211,40K
+
+Ponto de ebulição: 3106K
+
+Nome em latim: germanium
+
+APRESENTAÇÃO
+Derivado de Germania, o nome Latino da Alemanha. Foi descoberto em 1886 por Clemens A. Winkler em Frieberg, Alemanha, no mineral Argirodita (4Ag2S.GeS2), a partir da redução de seu sulfeto com hidrogênio. Foi o terceiro elemento previsto por Mendeleev que o chamou de Ekasilício. É obtido atualmente como subproduto do processamento de minérios de zinco, a partir da redução do GeO2 com hidrogênio. É um elemento cinza-claro brilhante estável ao ar em temperatura ambiente e que se dissolve em ácido nítrico. Seu óxido (GeO2) se dissolve em meio básico formando Germanatos (GeO32-). Possui propriedades semi-condutoras como o silício.
+CARACTERÍSTICAS PRINCIPAIS
+É um semi-metal sólido, duro, cristalino, de coloração branco acinzentada, lustroso, quebradiço, que conserva o brilho em temperaturas ordinárias. Apresenta a mesma estrutura cristalina do diamante e resiste à ação dos ácidos e álcalis. 
+Forma grande número de compostos organolépticos e é um importante material semicondutor utilizado em transístores e fotodedectores. Diferentemente da maioria dos semicondutores, o germânio tem uma pequena banda proibida ( ``band gap`` ) respondendo de forma eficaz a radiação infravermelha e pode ser usado em amplificadores de baixa intensidade.
+APLICAÇÕES
+As aplicações do germânio estão limitadas ao seu alto custo e em muitos casos estuda-se a sua substituição por materiais mais econômicos. Os principais usos são: 
+• Fibra óptica.
+• Eletrônica: Radares, amplificadores de guitarras elétricas, ligas metálicas de SiGe em circuitos integrados de alta velocidade.
+• Óptica de infravermelhos: espectroscópios, sistemas de visão noturna e outros equipamentos.
+• Lentes, com alto índice de refração, de ângulo amplo e para microscópios.
+• Em jóias é usado uma liga metálica de Au com 12% de germânio.
+• Como elemento endurecedor do alumínio, magnésio e estanho.
+• Em quimioterapia.
+• O tetracloreto de germânio é usado como catalisador na síntese de polímeros ( PET ).
+• Foi usado enquanto germanato de bismuto no tipo de camera gama utilizada nos anos 80, em medicina nuclear.
+

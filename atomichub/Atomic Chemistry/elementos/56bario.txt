@@ -1,0 +1,40 @@
+Nome: Bário
+
+Símbolo: Ba
+
+Número atômico: 56
+
+Massa atômica: 137,327
+
+Série química: metal alcalinoterroso
+
+Estado da matéria: Sólido
+
+Radioativo: não
+
+Ponto de fusão: 1000K
+
+Ponto de ebulição: 2170K
+
+Nome em latim: barium
+
+APRESENTAÇÃO
+Derivado do Grego Barys que significa pesado. Foi descoberto na Barita por Scheele em 1774 e isolado por Sir Humphry Davy em 1808. Ele obteve o Bário do mineral Witherita, pela eletrólise da solução de Ba(OH)2 com catodo de mercúrio e anodo de platina. O mercúrio foi destilado do amalgama e o bário obtido como metal. O Ba(OH)2 foi obtido pela calcinação do nitrato e reação com água. Atualmente é obtido pela eletrólise do cloreto fundido ou pela reação do BaO com Al ou Si em alta temperatura. É um metal branco prateado, macio, que reage vigorosamente com a água produzindo Ba(OH)2 e deve ser armazenado em argônio ou óleo mineral.
+CARACTERÍSTICAS PRINCIPAIS
+O bário é um elemento metálico quimicamente semelhante ao cálcio, contudo é macio e, na forma pura, apresenta aspecto branco prateado semelhante ao chumbo. Este metal oxida-se muito facilmente quando exposto ao ar e é altamente reativo com água ou álcool. Alguns dos compostos de bário são notáveis pela elevada massa específica, como o sulfato de bário ,BaSO4, ( barita ).
+APLICAÇÕES
+O bário é usado principalmente em velas de ignição, tubos de vácuo, foguetes pirotécnicos, e em lâmpadas fluorescentes. 
+Outros usos: 
+* Na forma pura é utilizado em sistemas "getter" , para a remoção de oxigênio e nitrogênio, em tubos de vácuo.
+* O sulfato de bário é usado como pigmento branco em pinturas, como contraste em diagnósticos por raio-X , e em vidros.
+* A barita é usada extensivamente em fluidos para a perfuração de poços de petróleo e na produção da borracha.
+* O carbonato de bário é usado como veneno para ratos e também pode ser usado para a fabricação de vidros e tijolos.
+* O nitrato de bário e cloreto de bário produzem chamas verdes em foguetes pirotécnicos.
+* O sulfeto de bário impuro torna-se fosforescente após a exposição a luz.
+* Os sais de bário, especialmente o sulfato de bário, quando aplicados por via oral , aumentam o contraste para o raio-X no diagnóstico médico do sistema digestivo.
+* O litopone é um pigmento que contém uma mistura de sulfato de bário e sulfeto de zinco. Tem um bom poder de cobertura e não escurece quando exposto aos sulfetos.
+* O Sulfato de Bário Precipitado é utilizado em baterias VRLA e outras formas de acumuladores de energia.
+PRECAUÇÕES
+Os compostos de bário quando dissolvidos em água são extremamente venenosos . O sulfato de bário pode ser usado em medicina, por via oral, como contraste porque não se dissolve e por ser eliminado rapidamente pelo trato digestivo. 
+A oxidação do bário ocorre muito facilmente e, para permanecer puro, deve ser mantido imerso em líquidos derivados de petróleo ( como a querosene ) ou outro líquido isento de oxigênio e ar.
+

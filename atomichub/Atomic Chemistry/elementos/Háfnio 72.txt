@@ -1,0 +1,37 @@
+Nome: Háfnio
+
+Símbolo: Hf
+
+Número atômico: 72
+
+Massa atômica: 178,49
+
+Série química: metal de transição
+
+Estado da matéria: sólido
+
+Radioativo: não
+
+Ponto de fusão: 2506K
+
+Ponto de ebulição: 4876K
+
+Nome em latim: Hafnium
+
+APRESENTAÇÃO
+Derivado de Hafnia, nome Latino de Copenhagen onde foi descoberto em 1923 por Coster e Hevesey. Foi descoberto em um mineral de zircônio da Noruega pelo auxílio da espectroscópia de Raios-X. De todos os metais o Zr e Hf são os mais difíceis de serem separados quimicamente. Por repetidas cristalizações dos fluoretos duplos de amônio e potássio foi separado do Zr na forma impura. Atualmente separado por extração com solventes. O metal é obtido pela redução do HfCl4 com Mg. É um metal prateado, denso, estável ao ar, resistente a corrosão e na forma de pó é pirofórico. Seus sais hidrolizam facilmente em água produzindo sais de Hafnila (HfO22+).
+CARACTERÍSTICAS PRINCIPAIS
+É um metal dúctil, brilhante, prateado e resistente a corrosão, quimicamente muito similar ao zircônio. Estes dois elementos apresentam o mesmo número de elétrons na camada de valência e seus raios iônicos são muito similares devido a contração dos lantanídeos. Por isso é muito difícil separá-los, sendo encontrados na natureza juntos. As únicas aplicações para os quais é necessário separá-los são aquelas nas quais se utilizam as suas propriedades de absorção de neutrons; em reatores nucleares. 
+O carbeto de háfnio ( HfC ) é o composto binario mais refratário conhecido, e o nitreto de háfnio ( HfN ) é o mais refratário de todos os nitretos metálicos conhecidos, com um ponto de fusão de 3310°C. Este metal é resistente as bases concentradas, porém os halogênios podem regir com ele para formar tetrahaletos de háfnio ( HfX4 ). A temperaturas altas pode reagir com oxigênio , nitrogênio , boro , enxofre e silício.
+APLICAÇÕES
+O háfnio é utilizado para fabricar barras de controle empregadas em reatores nucleares, como aquelas usadas em submarinos nucleares. Esta aplicação é devido a fato de que a secção de captura de neutrons do háfnio é umas 600 vezes maiores que a do zircônio, com o qual tem uma alta capacidade de absorção de neutrons, além do mais tem propriedades mecânicas muito boas, assim como uma alta resistência a corrosão. 
+Em meados de 2006 a Intel anunciou uma nova tecnologia que utiliza o háfnio como componente básico para a construção das paredes dielétricas dos transistores em sua nova geração de microprocessadores de 45 nanometros (apelidado de Penryn). 
+Outras aplicações: 
+* Em lâmpadas de gás incandescentes.
+* Em Processadores Intel com tecnologia 45Nm
+* Para eliminar oxigênio e nitrogênio em tubos de vácuo.
+* Em ligas de ferro , titânio , nióbio , tântalo (elemento químico) e em outra ligas metálicas.
+* Em eletrodos para corte a plasma
+PRECAUÇÕES
+Há necessidade de devidos cuidados ao trabalhar com o háfnio pois quando se divide em partículas é pirofórico e pode arder espontaneamente em contato com o ar. Os compostos que contém este metal raramente estão em contato com a maioria das pessoas, e o metal puro não é tóxico. Porém, todos os seus compostos deveriam ser manuseados como se fossem tóxicos, ainda que as primeiras evidências parecem não indicar um risco muito alto. nas fabricas, eles sao separados.
+

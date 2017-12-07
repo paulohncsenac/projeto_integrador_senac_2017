@@ -1,0 +1,52 @@
+Nome: Chumbo
+
+Símbolo: Pb
+
+Número atômico: 82
+
+Massa atômica: 207,2
+
+Série química: metal representativo
+
+Estado da matéria: sólido
+
+Radioativo: não
+
+Ponto de fusão: 600K
+
+Ponto de ebulição: 2022K
+
+Nome em latim: Plumbum
+
+APRESENTAÇÃO
+Do Latim Plumbum que significa Chumbo. É conhecido desde os primórdios da civilização. É obtido pela redução de minerais de chumbo como a galena (PbS) com carvão em fornos. Inicialmente os minerais são aquecidos ao ar para a formação de óxido de chumbo (PbO) que em seguida é reduzido pelo carvão a chumbo metálico. O chumbo obtido desta forma é impuro e necessita ser purificado para separação do Zn e Cu. É um metal cinza azulado, muito mole e de baixo ponto de fusão. Aquecido ao ar forma o PbO amarelo. É atacado rapidamente pelo HNO3 e a quente com o HCl e H2SO4. Seus sais são muito tóxicos.
+CARACTERÍSTICAS PRINCIPAIS
+O chumbo é um metal pesado (densidade relativa de 11,4 a 16ºC), de coloração branca-azulada, tornando-se acinzentado quando exposto ao ar. Muito macio , altamente maleável, baixa condutividade elétrica e altamente resistente à corrosão. O chumbo se funde com facilidade (327,4ºC), com temperatura de vaporização a 1725ºC. Os estados de oxidação que pode apresentar são 2 e 4. É relativamente resistente ao ataque dos ácidos sulfúrico e clorídrico, porém se dissolve lentamente em ácido nítrico. O chumbo é um anfótero, já que forma sais de chumbo dos ácidos, assim como sais metálicos do ácido plúmbico. O chumbo forma muitos sais, óxidos e compostos organolépticos.
+APLICAÇÕES
+O mais amplo uso do chumbo é na fabricação de acumuladores. Outras aplicações importantes são na fabricação de forros para cabos, elemento de construção civil, pigmentos, soldas suaves e munições. A fabricação de chumbo tetra etílico (TEL) vem caindo muito em função de regulamentações ambientais cada vez mais restritivas no mundo no que se diz respeito à sua principal aplicação que é como aditivo na gasolina. No caso do Brasil desde 1978 este aditivo deixou de ser usado como antidetonante. 
+Têm-se desenvolvido varios compostos organoplúmbicos para aplicações como catalisadores na fabricação de espumas de poliuretano, como tóxico para as pinturas navais com a finalidade de inibir a incrustação nos cascos, agentes biocidas contra as bactérias granpositivas, proteção da madeira contra o ataque das brocas e fungos marinhos, preservadores para o algodão contra a decomposição e do mofo, agentes molusquicidas, agentes antihelmínticos, agentes redutores do desgaste nos lubrificantes e inibidores da corrosão do aço. 
+Graças a sua excelente resistência a corrosão, o chumbo encontra muitas aplicações na indústria de construção e, principalmente, na indústria química. É resistente ao ataque de muitos ácidos, porque forma seu próprio revestimento protetor de óxido. Como conseqüência desta característica, o chumbo é muito utilizado na fabricação e manejo do ácido sulfúrico. 
+Durante muito tempo se tem empregado o chumbo como manta protetora para os aparelhos de raio-X. Em virtude das aplicações cada vez mais intensas da energia atômica, torna-se cada vez mais importante as aplicações do chumbo como blindagem contra a radiação. 
+Sua utilização como forro para cabos de telefone e de televisão segue sendo uma forma de emprego adequada para o chumbo. A ductilidade única do chumbo o torna particularmente apropriado para esta aplicação, porque pode ser estirado para formar um revestimento contínuo em torno dos condutores internos. 
+O uso de chumbo em pigmentos tem sido muito importante, porém a sua utilização tem diminuído muito. O pigmento, que contém este elemento, é o branco de chumbo, 2PbCO3 . Pb(OH)2; outros pigmentos importantes são o sulfato básico de chumbo e os cromatos de chumbo. 
+Utiliza-se uma grande variedade de compostos de chumbo, como os silicatos, os carbonatos e os sais de ácidos orgânicos, como estabilizadores contra o calor e a luz para os plásticos de cloreto de polivinila (PVC). Usam-se silicatos de chumbo para a fabricação de vidros e cerâmicas. O nitreto de chumbo, Pb(N3)2, é um detonador padrão para os explosivos. Os arseniatos de chumbo são empregados em grande quantidades como inseticidas para a proteção dos cultivos. O litargírio (óxido de chumbo) é muito empregado para melhorar as propriedades magnéticas dos imãs de cerâmica de ferrita de bário. 
+O chumbo forma ligas com muitos metais e, em geral, é empregado nesta forma na maior parte de suas aplicações. Todas as ligas metálicas formadas com estanho, cobre, arsênio, antimônio, bismuto, cádmio e sódio apresentam importantes aplicações industriais (soldas, fusíveis, material de tipografia , material de antifricção, revestimentos de cabos elétricos, etc.). 
+Uma mistura de zirgonato de chumbo e de titanato de chumbo, conhecida como PZT, está sendo posta no mercado como um material piezoelétrico.
+PRECAUÇÕES
+O chumbo pode ser encontrado na água potável através da corrosão de encanamentos de chumbo. Isto é comum de ocorrer quando a água é ligeiramente ácida Este é um dos motivos para os sistemas de tratamento de águas públicas ajustarem o pH das águas para uso doméstico. O chumbo não apresenta nenhuma função essencial conhecida no corpo humano. É extremamente danoso quando absorvido pelo organismo através da comida, ar ou água. 
+O chumbo pode causar vários efeitos indesejáveis, tais como: 
+* Perturbação da biosíntese da hemoglobina e anemia;
+* Aumento da pressão sanguínea;
+* Danos aos rins;
+* Abortos;
+* Alterações no sistema nervoso;
+* Danos ao cérebro;
+* Diminuição da fertilidade do homem através de danos ao esperma;
+* Diminuição da aprendizagem em crianças;
+* Modificações no comportamento das crianças, como agressão, impulsividade e hipersensibilidade.
+O chumbo pode atingir o feto atraves da placenta da mãe, podendo causar sérios danos ao sistema nervoso e ao cérebro da criança .
+O seu uso durante o Império Romano em encanamentos de água (e seu sal orgânico, acetato de chumbo, conhecido como "açúcar de chumbo", usado como adoçante em vinhos) é considerado por alguns como causa da demência que afetou muitos dos imperadores romanos.
+Devido à elevada toxicidade do chumbo e dos seus compostos, ações para prevenir e reparar contaminações ambientais são comuns nos tempos atuais. Materiais e dispositivos que contém chumbo não podem ser descartados ao ambiente. Devem ser reciclados.
+A reciclagem por sua vez trata-se de um processo com desafios muito grandes a serem enfrentados diante dos resíduos gerados durante o processo de reciclagem. No caso da reciclagem das baterias automotivas por exemplo, primeiro, os componentes das baterias (plástico e metal) são separados hidraulicamente. Depois, o metal é fundido.
+Ao longo desse trabalho, ocorrem emissões de gases e efluentes, ambos contaminados com o chumbo. Muito tem-se desenvolvido para reduzir ao máximo essas contaminações e minimizar o impacto desse processo. Também ocorre a geração de escória ao longo do processo. Estima-se que de cada tonelada de metal reaproveitada são gerados cerca de 150 a 300 quilos de resíduo sólido contaminado com chumbo. Uma das opções que se tem pensado como solução para este segundo caso é o uso deste resíduo no lugar da brita após tratamento adicional de imobilização do metal.
+

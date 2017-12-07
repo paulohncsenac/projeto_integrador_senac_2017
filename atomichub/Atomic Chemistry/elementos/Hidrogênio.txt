@@ -1,0 +1,27 @@
+Nome: Hidrogênio
+
+Símbolo: H
+
+Número atômico: 1
+
+Massa Atômica: 1,008
+
+Série química: não-metal
+
+Estado da matéria: gasoso
+
+Radioativo: não
+
+Ponto de fusão: 0,95K
+
+Ponto de ebulição: 4,22K
+
+Nome em latim: Hydrogenii
+
+APRESENTAÇÃO
+
+Do Grego de Hydro Genes que significa formador de água. Descoberto por Henry Cavendish em 1766 em Londres pela reação do ácido vitriólico (H2SO4) com Zn, Fe ou Sn. Chamou-o de "ar inflamável". É um gás incolor, mais leve que o ar com o qual forma mistura explosiva. Possui três isótopos, prótio (H), deutério (D) descoberto em 1932 por Urey e tritio (T) sendo os dois primeiros naturais. O deutério existe no hidrogênio natural na proporção de 1 átomo para 6.000 átomos de prótio. Pode ser obtido pela eletrólise de uma solução ácido sulfúrico ou clorídrico, utilizando eletrôdos inertes, sendo desprendido no cátodo (pólo negativo).
+
+APLICAÇÕES
+
+Industrialmente são necessárias grandes quantidades de hidrogênio, principalmente no processo de Haber para a obtenção de amoníaco, na hidrogenação de graxas e azeites e na obtenção de metanol. Outros usos que podem-se citar são: 

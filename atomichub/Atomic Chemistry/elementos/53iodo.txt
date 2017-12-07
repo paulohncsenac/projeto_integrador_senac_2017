@@ -1,0 +1,43 @@
+Nome: Iodo
+
+Símbolo: I
+
+Número atômico: 53
+
+Massa atômica: 126,90447
+
+Série química: halogénios
+
+Estado da matéria: Sólido
+
+Radioativo: não
+
+Ponto de fusão: 386,85K
+
+Ponto de ebulição: 457,6K
+
+Nome em latim: iodium
+
+APRESENTAÇÃO
+Derivado do Grego Iodes que significa violeta. Descoberto em Paris em 1811 por Bernard Courtois ao tratar a solução de cinzas de algas marinhas com H2SO4 à quente e destilação em retorta. Assim ele observou bonito vapor violeta que se condensava em cristais escuros. Hoje o iodo é recuperado principalmente da mineração de salitre no Chile e de algas marinhas. É um não metal cinza azulado, pouco solúvel em água, mas solúvel em solventes orgânicos como o clorofórmio. Seus vapores são bastante corrosivos. Sublima quando aquecido. Dissolve-se facilmente em meio alcalino e em soluções de KI. Dissolve-se em HNO3 formadoácido iódico (HIO3).
+CARACTERÍSTICAS PRINCIPAIS
+O iodo é um sólido negro e lustroso, com leve brilho metálico, que sublima em condições normais formando um gás de coloração violeta e odor irritante. Igual aos demais halogênios forma um grande número de compostos com outros elementos, porém é o menos reativo do grupo, e apresenta certas características metálicas. A falta de iodo causa retardamento nas proclatinas. 
+É pouco solúvel em água, porém dissolve-se facilmente em clorofôrmio, CHCl3, em tetracloreto de carbono, CCl4, ou em disulfeto de carbono, CS2, produzindo soluções de coloração violeta. Em dissolução, na presença de amido dá uma coloração azul. Sua solubilidade em água aumenta se adicionarmos iodeto devido a formação do triodeto, I3-. 
+Pode apresentar vários estados de oxidação: -1, +1, +3, +5, +7.
+APLICAÇÕES
+• O iodeto de potássio, KI, é adicionado ao sal comum, NaCl (mistura denominada de sal iodado), para prevenir o surgimento do bócio endêmico, doença causada pelo déficit de iodo na dieta alimentar.
+• A tintura de iodo é uma solução de iodo e KI em álcool, em água ou numa mistura de ambos (por exemplo, 2 gramas de iodo e 2,4 gramas de KI em 100 mL de etanol), que tem propriedades anti-ssépticas. É empregada como desinfetante da pele ou para a limpeza de ferimentos. Também pode ser usada para a desinfectar a água.
+• Os compostos de iodo são importantes no campo da química orgânica e são muito úteis na medicina; iodetos, assim como a tiroxina, que contém iodo, são utilizados em medicina interna.
+• O iodeto de potássio, KI, é empregado em fotografia.
+• Se utiliza iodo em lâmpadas de filamento de tungstênio (wolfrâmio) para aumentar a sua vida útil.
+• O triiodeto de nitrogênio, NI3, é um explosivo de impacto, demasiadamente instável para a comercialização, porém pode-se facilmente prepará-lo de forma caseira.
+• Os isótopos radioativos Iodo-123 e Iodo-131 são utilizados em medicina nuclear, para estudar a Glândula Tiróide. O Iodo-131 é usado também na terapia de alguns tipos de cancro da Tiróide, graças ao seu decaimento com produção de particula beta.
+ABUNDÂNCIA E OBTENÇÃO
+O iodo é o halogênio menos abundante, apresentando-se na crosta terrestre com uma concentração de 0,14 ppm, estando na água do mar numa abundância de 0,052 ppm. 
+O iodo pode ser obtido a partir dos iodetos, I-, presentes na água do mar e nas algas. Também pode ser obtido a partir dos iodatos, IO3- existente nos nitratos de Chile, separando-os previamente destes. 
+• No caso de partir-se dos iodatos, uma parte destes se reduzem a iodetos, e os iodetos obtidos se fazem reagir com o restante dos iodatos, produzindo o iodo: 
+IO3- + 5I- + 6H+ ? 3I2 + 3H2O 
+• Quando se parte dos iodetos, estes se oxidam com cloro, e o iodo obtido é separado mediante filtração. Pode-se purificar o iodo reduzindo-o e reoxidando-o com cloro. 
+2I- + Cl2 ? I2 + 2Cl- 
+O iodo pode ser preparado na forma ultrapura reagindo o iodeto de potássio, KI, com sulfato de cobre, CuSO4.
+

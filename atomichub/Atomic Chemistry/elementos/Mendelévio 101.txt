@@ -1,0 +1,22 @@
+Nome: Mendelévio
+
+Símbolo: Md
+
+Número atômico: 101
+
+Massa atômica: 258
+
+Série química: actinídeos
+
+Estado da matéria: sólido
+
+Radioativo: sim
+
+Ponto de fusão: 1100K
+
+Ponto de ebulição: indisponível
+
+Nome em latim: mendelevium
+
+APRESENTAÇÃO
+O nome do elemento é em homenagem ao quúimico russo	dimitri Mendeleev que idealizou a tabela periódica e fez previsões de elementos ainda não descobertos. Foi descoberto por Ghiorso e colaboradores em 1955, em Berkley, Califórnia, USA. Sua produção foi realizada por bombardeamento de Es-253 com íons de hélio em um ciclotron de 60 polegadas. O isótopo Md-256 obtido apresentou meia vida de 76 minutos e o mais estável é o Md-258 com meia vida de 2 meses. Experimentos mostraram que o estado de oxidação bivalente (II) é estável, enquanto que o trivalente (III) é o típico dos elementos actinídeos.

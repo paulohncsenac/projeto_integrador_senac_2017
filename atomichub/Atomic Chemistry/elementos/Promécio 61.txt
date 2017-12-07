@@ -1,0 +1,34 @@
+Nome: Promécio
+
+Símbolo: Pm
+
+Número atômico: 61
+
+Massa atômica: 145
+
+Série química: lantanídeos
+
+Estado da matéria: sólido
+
+Radioativo: sim
+
+Ponto de fusão: 1315K
+
+Ponto de ebulição: 3273K
+
+Nome em latim: Promethium
+
+APRESENTAÇÃO
+Derivado de Prometheus, que na Mitologia Grega roubou o fogo dos deuses e deu ao homem. Descoberto por J.A. Marinsky e colaboradores em 1945 em Oak Ridge, USA. É um elemento radioativo que não existe na natureza. Foi descoberto nos produtos de fissão do urânio e formado pela desintegração do Nd-147. É também obtido pelo bombardeamento do Nd com nêutrons. Seu isótopo mais estável possui meia vida de 17,7 anos. Pouco se sabe de suas propriedades metálicas e uma pequena quantidade foi obtida pela redução do PrF3 com cálcio. É um metal prateado que reage facilmente com ácidos formando sais e com água liberando H2 e formando Pr(OH)3.
+CARACTERÍSTICAS PRINCIPAIS
+O promécio é um leve emissor de partículas betas, porém não emite radiações gama. Porém , pode ocorrer emissão de raios-X quando as partículas beta atingem elementos com números atômicos mais altos. Pouco é conhecido sobre as propriedades químicas e físicas do promécio metálico, porém são semelhantes ao neodímio e samário. O promécio apresenta duas variedades alalotrópicas. 
+Sais deste metal apresentam luminiscência na obscuridade com um fulgor azul ou acinzentado pálido devido a elevada radioatividade.
+APLICAÇÕES
+As principais aplicações do promécio são: 
+• Como fonte de radiações beta para produzir medidores de espessuras muito finas.
+• A radiação beta ao incidir sobre o fósforo gera luz. Esta luz, através de fotocélulas, pode ser usada para produzir baterias muito pequenas que convertam a luz em corrente elétrica, com uma vida útil de aproximadamente 5 anos usando o 147-Pm, para serem usadas em pesquisas espaciais.
+• os seus sais luminiscentes podem ser usados para a produção de ponteiros e mostradores de relógios.
+• No futuro, possivelmente como uma fonte portátil de raios-X e de calor para serem usados em sondas espaciais , satélites artificiais, aplicações médicas, e para a produção de lasers para serem usados em comunicação com submarinos, quando submersos.
+PRECAUÇÕES
+O manuseio do promécio deve ser efetuado com extremo cuidado devido a sua elevada radioatividade, em particular, ao promécio que pode emitir raios-X durante o seu decaimento beta. A meia-vida do promécio é muito inferior ao do Pl-239 
+O promécio não tem nenhum papel biológico.

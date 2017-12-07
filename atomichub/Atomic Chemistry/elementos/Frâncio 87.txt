@@ -1,0 +1,30 @@
+Nome: Frâncio
+
+Símbolo: Fr
+
+Número atômico: 87
+
+Massa atômica: 223,0197
+
+Série química: metal alcalino
+
+Estado da matéria: sólido
+
+Radioativo: sim
+
+Ponto de fusão: 300K
+
+Ponto de ebulição: 950KL
+
+Nome em latim: francium
+
+APRESENTAÇÃO
+O nome foi dado em homenagem a França. Foi descoberto em 1939 por Marguerite Perey. É intensamente radioativo e suas propriedades são similares aos demais metais alcalinos. Existem mais de 33 isótopos conhecidos sendo o mais estável o Fr-223 com meia vida de 22 minutos. Pode existir em quantidades diminutas em equilíbrio em minerais de urânio. É formado pela desintegração alfa do actíneo. Estima-se sua quantidade na crosta terrestre em menos de 50g. Artificialmente é obtido pelo bombardeamento do Tório com prótons. Até o momento nenhuma quantidade ponderável do elemento foi isolada.
+APLICAÇÕES
+Não há aplicações comerciais para o frâncio devido a sua vida muito curta, também não é possível obter este elemento em quantidades comerciais significativas. 
+Somente é usado em tarefas de investigação, tanto no campo da biologia como também no da estrutura atômica.
+ABUNDÂNCIA E OBTENÇÃO
+Natural 
+Existem traços de frâncio nos minerais de urânio, pois forma-se a partir do 235U, elemento pai da série radioativa natural do actínio. Depois do ástato o frâncio é o elemento menos abundante na crosta terrestre. 
+Sintetizado 
+O frâncio pode se sintetizar na reação nuclear 197Au + 18O ? 210Fr + 5n. Este processo desenvolvido por Stony Brook Physics, gera isótopos de frâncio com massa 209, 210 e 211. Também através do bombardeamento de tório com prótons. E bombardeando rádio ou astato com neutrons.

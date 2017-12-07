@@ -1,0 +1,40 @@
+Nome: Neptúnio
+
+Símbolo: Np
+
+Número atômico: 93
+
+Massa atômica: 237,0482
+
+Série química: Actinídeos
+
+Estado da matéria: sólido
+
+Radioativo: sim
+
+Ponto de fusão: 910K
+
+Ponto de ebulição: 4273K
+
+Nome em latim: Neptunium
+
+APRESENTAÇÃO
+Nome derivado do planeta Netuno. Descoberto em 1940 por E.M. McMillan e P. Abelson em Berkeley, USA. Sendo o primeiro elemento da série dos actinídeos sintético. O seu isótopo, o Np-239 foi produzido pelo bombardeamento do U com nêutrons em cicloton. O isótopo Np-237 possui meia vida de 2.14 x 106 anos e é obtido atualmente em escala de kilogramas. Possivelmente existe na natureza em equilíbrio com o urânio em seus minerais. O metal é obtido pela redução do NpF3 com Ba ou vapor de Li a 1200oC. É um metal prateado, reativo, muito denso, encontrado em vários estados de oxidação, sendo o +3 o mais estável. Os óxidos Np3O8 e NpO2 são conhecidos.
+CARACTERÍSTICAS PRINCIPAIS
+O neptúnio é um metal de aspecto prateado, razoavelmente reativo. É encontrado em,pelo menos, três formas estruturais: 
+* Neptúnio alfa: ortorrômbico, densidade 20,250 kg/m3,
+* Neptúnio beta (acima de 280oC): tetragonal, densidade (313 oC) 19,360 kg/m3,
+* Neptúnio gama (acima de 577oC), cúbico, densidade (600oC) 18000 kg/m3.
+
+Este elemento apresenta 4 estados de oxidação iônicos quando em solução: 
+* Np+3 (púrpura pálido), semelhante ao íon do terra rara Pm+3,
+* Np+4 (amarelo esverdeado);
+* NpO2+ (verde azulado):
+* NpO2++ (rosa pálido).
+
+O neptúnio apresenta as fórmulas tri e tetrahaletos como NpF3, NpF4, NpCl4, NpBr3, NpI3, e óxidos de várias composições como os encontrados no sistema urânio-oxigênio, incluindo Np3O8 e NpO2.
+APLICAÇÕES
+* Detector de nêutrons: . Pode ser usado na composição de equipamentos para a detecção de nêutrons. 
+* Arma nuclear: Em setembro, 2002, pesquisadores da Universidade da Califórnia conduziram programas de pesquisa para o desenvolvimento de armas de destruição maciça utilizando o neptúnio. Criaram a primeira massa crítica nuclear usando o elemento, que se revelou superior ao plutônio ou urânio.
+
+
