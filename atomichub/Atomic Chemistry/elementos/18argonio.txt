@@ -1,22 +1,22 @@
-Nome:Árgonio
+Nome: Árgonio
 
-Símbolo:Ar
+Símbolo: Ar
 
-Número atômico:18
+Número atômico: 18
 
-Massa atômica:39,948
+Massa atômica: 39,948
 
-Série química:gases nobres
+Série química: gases nobres
 
-Estado da matéria:gasoso
+Estado da matéria: gasoso
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:83,80K
+Ponto de fusão: 83,80K
 
-Ponto de ebulição:87,30K
+Ponto de ebulição: 87,30K
 
-Nome em latim:argon
+Nome em latim: argon
 
 APRESENTAÇÃO
 O árgon/árgão/argãoPE (formas aceitas com predileção a árgon) ou argônioPB (do grego árgon, inactivo) é um elemento químico, de símbolo Ar, número atómico 18 ( 18 protons e 18 eletons) e massa atómica 40 u, encontrado no estado gasoso em temperatura ambiente. 

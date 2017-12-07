@@ -1,22 +1,22 @@
 Nome: Cobre
 
-Símbolo:Cu
+Símbolo: Cu
 
-Número atômico:29
+Número atômico: 29
 
-Massa atômica:63,546
+Massa atômica: 63,546
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1357,77K
+Ponto de fusão: 1357,77K
 
-Ponto de ebulição:2835K
+Ponto de ebulição: 2835K
 
-Nome em latim:aeris
+Nome em latim: cuprum
 
 APRESENTAÇÃO
 Derivado do Latim de Cuprum, o nome latino da Ilha de Chipre ou Cyprus. Conhecido deste os tempos remotos da civilização e tem sido obtido a mais de 5000 anos. As civilizações antigas aprenderam obter o cobre a partir da redução de seus minérios malaquita e cuprita com carvão vegetal. É um metal brilhante e o único com a cor avermelhada. Pouco reativo aos ácidos, dissolvendo-se somente em ácidos oxidantes como o HNO3. É o segundo metal em condutividade elétrica depois da prata. Seus sais hidratados e solução aquosa são azuis. Atualmente é obtido pela redução de seus minérios com carvão e purificado por eletrólise.

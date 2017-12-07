@@ -1,22 +1,22 @@
-Nome:Alumínio 
+Nome: Alumínio 
 
-Símbolo:Al
+Símbolo: Al
 
-Número atômico:13
+Número atômico: 13
 
-Massa atômica:26,9815386
+Massa atômica: 26,9815386
 
-Série química:metais representativos
+Série química: metais representativos
 
-Estado da matéria:solido
+Estado da matéria: solido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:933,47K
+Ponto de fusão: 933,47K
 
-Ponto de ebulição:2792K
+Ponto de ebulição: 2792K
 
-Nome em latim:aluminium
+Nome em latim: aluminium
 
 APRESENTAÇÃO
 Do Latim Alumen, derivado do mineral Alume, conhecidos dos antigos Gregos e Romanos que o usavam em medicina e em tingimento. O metal foi isolado em 1825 por Hans Oersted, na Dinamarca, a partir da redução do cloreto com amálgama de potássio e posterior destilação do mercúrio. É o mais abundante dos metais na Terra (8,2%). É um metal leve, branco, que reage com água formando um filme de óxido e em pó reage com o oxigênio quando aquecido liberando luz e calor. Atualmente é obtido pela eletrólise do óxido (alumina), proveniente da Bauxita, dissolvido em mistura de fluoretos fundidos de K, Na e Ca.

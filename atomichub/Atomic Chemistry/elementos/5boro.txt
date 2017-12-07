@@ -1,4 +1,4 @@
-Nome: boro 
+Nome: Boro 
 
 Símbolo: B
 
@@ -12,9 +12,9 @@ Estado da matéria: solido
 
 Radioativo: não
 
-Ponto de fusão: 2348 K
+Ponto de fusão: 2348K
 
-Ponto de ebulição: 4273 K
+Ponto de ebulição: 4273K
 
 Nome em latim: boron
 

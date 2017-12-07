@@ -1,22 +1,22 @@
 Nome: Rubídio
 
-Símbolo:Rb
+Símbolo: Rb
 
-Número atômico:37
+Número atômico: 37
 
-Massa atômica:85,4678
+Massa atômica: 85,4678
 
-Série química:metal alcalino
+Série química: metal alcalino
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:312,46
+Ponto de fusão: 312,46
 
-Ponto de ebulição:961K
+Ponto de ebulição: 961K
 
-Nome em latim:rubidium
+Nome em latim: rubidium
 
 APRESENTAÇÃO
 Do Latim Rubidus, que significa vermelho devido a cor da linha espectral caracteristica que seus sais emitem quando aquecidos. Foi descoberto em 1861 por R. W. Bunsen e G. Kirchhoff, com auxílio do espectroscópio inventado por eles. Foi obtido na forma de hexacloroplatinato de rubídio após tratamento de 44.000 kg da água mineral de Dürkhein e também 150 kg de Lepidolita da Saxônia. É um metal mole, prateado e brilhante que reage violentamente com água formado o hidróxido de rubídio (RbOH). Atualmente é extraído da Lepidolita em que se encontra na proporção de 1,5%.

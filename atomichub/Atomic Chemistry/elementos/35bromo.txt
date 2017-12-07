@@ -1,22 +1,22 @@
 Nome: Bromo
 
-Símbolo:Br
+Símbolo: Br
 
-Número atômico:35
+Número atômico: 35
 
-Massa atômica:79,904
+Massa atômica: 79,904
 
-Série química:Não metal
+Série química: Não metal
 
-Estado da matéria:Líquido
+Estado da matéria: Líquido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:265,8k
+Ponto de fusão: 265,8k
 
-Ponto de ebulição:332K
+Ponto de ebulição: 332K
 
-Nome em latim:bromine
+Nome em latim: bromine
 
 APRESENTAÇÃO
 Do Grego Bromos, que significa "mau cheiro" devido a sua característica irritante da mucosa do nariz e olhos. Foi descoberto em 1826 por A.J. Balard em Montpellier na França, ao tratar com cloro uma solução aquosa de cinzas de algas marinhas. O bromo é líquido na temperatura ambiente e de cor marrom-avermelhada. Emite vapores vermelhos quando aquecido. Muito reativo com metais, mas menos que o cloro. E solúvel em água e solventes orgânicos como o clorofórmio. Dissolve-se em NaOH formando brometo e hipobromito de sódio. Atualmente obtido pela cloração da água do mar e de salmouras que contém brometos. A água do mar contém 85 ppm de brometos.

@@ -1,22 +1,22 @@
 Nome: Cério
 
-Símbolo:ce
+Símbolo: ce
 
-Número atômico:58
+Número atômico: 58
 
-Massa atômica:140,116
+Massa atômica: 140,116
 
-Série química:Lantanídios
+Série química: Lantanídios
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1071K
+Ponto de fusão: 1071K
 
-Ponto de ebulição:3699K
+Ponto de ebulição: 3699K
 
-Nome em latim:cerium
+Nome em latim: cerium
 
 APRESENTAÇÃO
 De Ceres, asteroíde descoberto em 1801. Foi descoberto em 1803 por Klaproth e também por J.J. Berzelius e W. Hisinger em mineral de Bastnas, Suécia. Berzelius chamou o mineral de Cerita e obteve o Ce na forma de mistura de óxidos Ce2O3 e CeO2. W.F Hillebrand e T. Norton prepararam o cério metálico em 1875 pela eletrólise do CeCl3 fundido. Atualmente é obtido pela redução do CeF3 com cálcio ou também pela eletrólise do CeCl3 fundido. É um metal cinza cor de ferro que se oxida rapidamente em ar úmido e queima ao ar quando raspado com uma faca. Reage com a água e ácidos desprendendo H2. As soluções cerosas (Ce III) são incolores e as céricas (Ce IV) de cor laranja.

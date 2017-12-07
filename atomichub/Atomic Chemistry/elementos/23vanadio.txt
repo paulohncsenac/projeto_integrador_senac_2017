@@ -1,22 +1,22 @@
-Nome:Vanadio
+Nome: Vanadio
 
-Símbolo:V
+Símbolo: V
 
-Número atômico:23
+Número atômico: 23
 
-Massa atômica:50,9415
+Massa atômica: 50,9415
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:sólido
+Estado da matéria: sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:2183K
+Ponto de fusão: 2183K
 
-Ponto de ebulição:3680K
+Ponto de ebulição: 3680K
 
-Nome em latim:vanadium
+Nome em latim: vanadium
 
 APRESENTAÇÃO
 De Vanadis, o outro nome de Freya, deusa de grande importância da mitologia. Escandinava. Foi descoberto em 1801 na Cidade do México por A.M. del Rio. O nome foi dado por Sefstron em 1830 que o redescobriu analisando barras de ferro de Eckersholm. Somente em 1867 foi isolado por Roscoe ao reduzir o cloreto de vanádio com hidrogênio. O vanádio, com pureza maior que 99% somente foi obtido após 1927. O metal é branco brilhante, muito dúctil. É resistente a álcalis, aos ácidos clorídrico e sulfúrico e água salgada. Oxida-se rapidamente quando aquecido acima de 660oC. Atualmente é obtido pela redução do pentóxido (V2O5) com cálcio metálico.

@@ -1,22 +1,22 @@
-Nome:Ferro
+Nome: Ferro
 
-Símbolo:Fe
+Símbolo: Fe
 
-Número atômico:26
+Número atômico: 26
 
-Massa atômica:55,845
+Massa atômica: 55,845
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1811K
+Ponto de fusão: 1811K
 
-Ponto de ebulição:3134K
+Ponto de ebulição: 3134K
 
-Nome em latim:ferrum
+Nome em latim: ferrum
 
 APRESENTAÇÃO
 Do Latim Ferrum, que significa Ferro. Foi descoberto em tempos pré-históricos provavelmente de origem meteorítica. Depois começou a ser obtido pela redução de seus minérios (óxidos) com carvão, processo que é utilizado até hoje. É o mais utilizado dos metais e o quarto em abundância na crosta terrestre. É um metal cinzento, muito reativo com ácidos e se oxida facilmente ao ar em presença de umidade e elevada temperatura. Possui a propriedade magnética conhecida como ferromagnetismo, juntamente com o níquel e cobalto. Perde esta propriedade ao ser aquecido. Apresenta quatro formas alotrópicas, sendo a forma alfa que possui magnetismo.

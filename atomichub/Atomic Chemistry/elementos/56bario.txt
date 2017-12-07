@@ -1,22 +1,22 @@
 Nome: Bário
 
-Símbolo:Ba
+Símbolo: Ba
 
-Número atômico:56
+Número atômico: 56
 
-Massa atômica:137,327
+Massa atômica: 137,327
 
-Série química:metal alcalinoterroso
+Série química: metal alcalinoterroso
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1000K
+Ponto de fusão: 1000K
 
-Ponto de ebulição:2170K
+Ponto de ebulição: 2170K
 
-Nome em latim:barium
+Nome em latim: barium
 
 APRESENTAÇÃO
 Derivado do Grego Barys que significa pesado. Foi descoberto na Barita por Scheele em 1774 e isolado por Sir Humphry Davy em 1808. Ele obteve o Bário do mineral Witherita, pela eletrólise da solução de Ba(OH)2 com catodo de mercúrio e anodo de platina. O mercúrio foi destilado do amalgama e o bário obtido como metal. O Ba(OH)2 foi obtido pela calcinação do nitrato e reação com água. Atualmente é obtido pela eletrólise do cloreto fundido ou pela reação do BaO com Al ou Si em alta temperatura. É um metal branco prateado, macio, que reage vigorosamente com a água produzindo Ba(OH)2 e deve ser armazenado em argônio ou óleo mineral.

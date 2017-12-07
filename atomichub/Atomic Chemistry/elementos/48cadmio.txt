@@ -1,22 +1,22 @@
 Nome: Cádmio
 
-Símbolo:Cd
+Símbolo: Cd
 
-Número atômico:48
+Número atômico: 48
 
-Massa atômica:112,411
+Massa atômica: 112,411
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:594,22K
+Ponto de fusão: 594,22K
 
-Ponto de ebulição:1040K
+Ponto de ebulição: 1040K
 
-Nome em latim:aurantiacis
+Nome em latim: aurantiacis
 
 APRESENTAÇÃO
 O nome deriva de Cadmia, nome Latino do mineral Calamina ou carbonato de zinco, de onde este metal foi descoberto. Foi isolado na Alemanha em 1817 por Friedrich Stromeyer, após aquecer em retorta de vidro o carbonato de cádmio, separado do ZnCO3, empregando-se carbonato de amônio. É um metal de baixo ponto de fusão, branco azulado muito mole. É facilmente atacado por ácidos e muito parecido com o zinco, com a diferença que seu óxido e avermelhado e não branco. Seus sais são muito tóxicos e em solução são incolores. Obtido atualmente como sub-produto do refino do zinco e cobre.

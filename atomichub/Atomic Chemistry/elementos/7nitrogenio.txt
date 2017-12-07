@@ -1,22 +1,22 @@
 Nome: Nitrogenio
 
-Símbolo:N
+Símbolo: N
 
-Número atômico:7
+Número atômico: 7
+ 
+Massa atômica: 14,0067
 
-Massa atômica:14,0067
+Série química: não-metais
 
-Série química:não-metais
+Estado da matéria: gasoso
 
-Estado da matéria:gasoso
+Radioativo: não
 
-Radioativo:não
+Ponto de fusão: 63,15K
 
-Ponto de fusão:63,15K
-
-Ponto de ebulição:75,36K
-
-Nome em latim:NITROGENIUM
+Ponto de ebulição: 75,36K
+ 
+Nome em latim: Nitrogenium
 
 APRESENTAÇÃO
 do Latim Nitrum ou Grego Nitron, que significa nitrato nativo ou salitre e Genes formador.

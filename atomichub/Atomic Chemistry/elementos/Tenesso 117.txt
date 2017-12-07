@@ -10,7 +10,7 @@ Série química: halogênio
 
 Estado da matéria: sólido (presumido)
 
-Radioativo: não
+Radioativo: sim
 
 Ponto de fusão: indisponível
 

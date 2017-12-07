@@ -1,22 +1,22 @@
 Nome: Fósforo
 
-Símbolo:P
+Símbolo: P
 
-Número atômico:15
+Número atômico: 15
 
-Massa atômica:30,973762
+Massa atômica: 30,973762
 
-Série química:não-metais
+Série química: não-metais
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:317,3K
+Ponto de fusão: 317,3K
 
-Ponto de ebulição:553,6k
+Ponto de ebulição: 553,6k
 
-Nome em latim:par
+Nome em latim: Phosphorus
 
 APRESENTAÇÃO
 Derivado do Grego Phosphoros significa que este elemento trás ou é portador de luz devido ao seu brilho no escuro. Foi descoberto pelo alquimista e médico Henning Brandt em 1669, em Hamburgo, Alemanha, a partir da redução dos sais provenientes da evaporação da urina (fosfatos) com carvão. 

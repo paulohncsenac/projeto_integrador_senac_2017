@@ -1,22 +1,22 @@
 Nome: Flúor
 
-Símbolo:F
+Símbolo: F
 
-Número atômico:9
+Número atômico: 9
 
-Massa atômica:18,9984032
+Massa atômica: 18,9984032
 
-Série química:halogénio
+Série química: halogénio
 
-Estado da matéria:gasoso
+Estado da matéria: gasoso
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:53,53K
+Ponto de fusão: 53,53K
 
-Ponto de ebulição:85,03K
+Ponto de ebulição: 85,03K
 
-Nome em latim:fluorine
+Nome em latim: fluorine
 
 APRESENTAÇÃO
 Do latim Fleure, fluxo. Seus compostos foram conhecidos dos alquimistas, mas somente foi isolado por Henri Moissan em 1886 na França pela eletrólise do ácido fluorídrico anidro. 

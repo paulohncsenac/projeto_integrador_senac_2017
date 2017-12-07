@@ -1,22 +1,22 @@
 Nome: Lantânio
 
-Símbolo:La
+Símbolo: La
 
-Número atômico:57
+Número atômico: 57
 
-Massa atômica:138,90547
+Massa atômica: 138,90547
 
-Série química:Lantanidios
+Série química: Lantanidios
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1191K
+Ponto de fusão: 1191K
 
-Ponto de ebulição:3737K
+Ponto de ebulição: 3737K
 
-Nome em latim:lanthanum
+Nome em latim: lanthanum
 
 APRESENTAÇÃO
 Derivado do Grego Lanthana que significa estar escondido. Foi descoberto por C.G. Mosander em 1839 na Suécia no mineral Cerita de Bastnas. Inicialmente foi obtido na forma impura pela redução do seu cloreto com potássio. Encontra-se junto com os elementos lantanídeos ou "terras raras" em seus minerais e é separado dos demais pelas técnicas de troca iônica ou extração com solventes. Atualmente é obtido pela redução do LaF3 com cálcio metálico. É branco prateado, mole e reage com o ar formando óxido e com a água desprendendo H2 e formado La (OH)3. Reage com ácidos diluídos formando sais e soluções incolores. Aquecido ao ar queima formando La2O3 branco.

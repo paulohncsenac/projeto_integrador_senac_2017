@@ -1,22 +1,22 @@
-Nome:Cálcio
+Nome: Cálcio
 
-Símbolo:Ca
+Símbolo: Ca
 
-Número atômico:20
+Número atômico: 20
 
-Massa atômica:40,078
+Massa atômica: 40,078
 
-Série química:metal alcalinoterroso
+Série química: metal alcalinoterroso
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1115K
+Ponto de fusão: 1115K
 
-Ponto de ebulição:1757K
+Ponto de ebulição: 1757K
 
-Nome em latim:calcium
+Nome em latim: calcium
 
 APRESENTAÇÃO
 O cálcio é um elemento químico, símbolo Ca, de número atômico 20 (20 prótons e 20 elétrons) e massa atómica 40 u. 

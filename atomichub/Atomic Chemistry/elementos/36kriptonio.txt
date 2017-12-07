@@ -1,22 +1,22 @@
-Nome:Criptônio
+Nome: Criptônio
 
-Símbolo:Kr
+Símbolo: Kr
 
-Número atômico:36
+Número atômico: 36
 
-Massa atômica:83,798
+Massa atômica: 83,798
 
-Série química:Gás nobre
+Série química: Gás nobre
 
-Estado da matéria:gasoso
+Estado da matéria: gasoso
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:115,79K
+Ponto de fusão: 115,79K
 
-Ponto de ebulição:119,93k
+Ponto de ebulição: 119,93k
 
-Nome em latim:krypton
+Nome em latim: krypton
 
 APRESENTAÇÃO
 Do Grego Kryptos, significa oculto, escondido. Foi descoberto por Sir William Ramsay e M.W. Travers em 1898 a partir da destilação fracionada do ar líquido. A fração do ar líquido contendo o Criptônio foi identificada espectroscopicamente devido à presença de linhas amarela e verde, desconhecidas em outros gases. É um gás incolor e inodoro, inerte que somente reage com o flúor para formar o difluoreto de criptônio (KrF2) que é pouco estável. Obtido atualmente da destilação do ar líquido, já que se encontra na atmosfera na concentração de 1 ppm.

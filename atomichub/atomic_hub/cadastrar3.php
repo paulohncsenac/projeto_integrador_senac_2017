@@ -29,9 +29,9 @@ include 'banco.php';
                         
             
                                         $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-                                        $sql = "INSERT INTO detalhes_elementos (nome, sigla, numero_atomico, massa_atomica, classe, estado, radioativo, fusao, ebulicao, latim, texto) VALUES(?,?,?,?,?,?,?,?,?,?,?)";
+                                        $sql = "INSERT INTO detalhes_elementos (id_elemento, nome, sigla, numero_atomico, massa_atomica, classe, estado, radioativo, fusao, ebulicao, latim, texto) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)";
                                         $q = $pdo->prepare($sql);
-                                        $q->execute(array( $_POST['nome'], $_POST['sigla'], $_POST['numero_atomico'], $_POST['massa_atomica'], $_POST['id_tipo'], $_POST['estado'], $_POST['radioativo'], $_POST['fusao'], $_POST['ebulicao'], $_POST['latim'], $_POST['texto']));
+                                        $q->execute(array( $_POST['id_elemento'], $_POST['nome'], $_POST['sigla'], $_POST['numero_atomico'], $_POST['massa_atomica'], $_POST['id_tipo'], $_POST['estado'], $_POST['radioativo'], $_POST['fusao'], $_POST['ebulicao'], $_POST['latim'], $_POST['texto']));
                         
                             
                                       Banco::desconectar();
@@ -69,13 +69,35 @@ include 'banco.php';
 
                             <?php 
 
-                                 $sqlElementos = " SELECT * FROM `tipos_de_elementos` ORDER BY `tipos_de_elementos`.`tipo` ASC";
+                                 $sqlTipos = " SELECT * FROM `tipos_de_elementos` ORDER BY `tipos_de_elementos`.`tipo` ASC";
+                                 
+                                 foreach($pdo->query($sqlTipos) as $rowTipo)
+                                 {
+
+                            ?>
+                                <option value="<?php  echo  $rowTipo['id_tipo']; ?>"><?php  echo  ucfirst($rowTipo['tipo']); ?></option>
+                                <?php 
+          
+                                 }
+
+                                ?>
+
+                    </select>
+                        </div>
+
+                        <div class="form-group">
+                          <label class="col-form-label" for="formGroupExampleInput2">Classe:</label>
+                          <select name="id_elemento" class="container" id="selectpicker2">
+
+                            <?php 
+
+                                 $sqlElementos = " SELECT * FROM `elementos` ORDER BY `elementos`.`id_elemento` ASC";
                                  
                                  foreach($pdo->query($sqlElementos) as $rowElemento)
                                  {
 
                             ?>
-                                <option value="<?php  echo  $rowElemento['id_tipo']; ?>"><?php  echo  ucfirst($rowElemento['tipo']); ?></option>
+                                <option value="<?php  echo  $rowElemento['id_elemento']; ?>"><?php  echo  ucfirst($rowElemento['nome']); ?></option>
                                 <?php 
           
                                  }
@@ -143,6 +165,11 @@ include 'banco.php';
       $(document).ready(function() {
           $('#selectpicker').select2();
       });
+
+      $(document).ready(function() {
+          $('#selectpicker2').select2();
+      });
+      
       
   </script>
   <!-- Fim dos Scripts do Select2 -->

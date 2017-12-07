@@ -1,22 +1,22 @@
 Nome: Titânio
 
-Símbolo:Ti
+Símbolo: Ti
 
-Número atômico:22
+Número atômico: 22
 
-Massa atômica:47,867
+Massa atômica: 47,867
 
-Série química:metais de transição
+Série química: metais de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1941K
+Ponto de fusão: 1941K
 
-Ponto de ebulição:3560K
+Ponto de ebulição: 3560K
 
-Nome em latim:titanium
+Nome em latim: titanium
 
 APRESENTAÇÃO
 O Titânio é um elemento químico de símbolo Ti, número atômico 22 (22 prótons e 22 elétrons) com massa atômica 47,90 u. Trata-se de um metal de transição leve, forte, cor branca metálica, lustroso e resistente à corrosão, sólido na temperatura ambiente. O titânio é muito utilizado em ligas leves e em pigmentos brancos. 

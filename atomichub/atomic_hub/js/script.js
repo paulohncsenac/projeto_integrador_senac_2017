@@ -1,15 +1,15 @@
 $( document ).ready(function () {
 	$( "#nao-metais" ) 
-
+    
 	.mouseenter(function () {
                      // Adiciona cor
-	$('article[data-name="nao-metais"]').removeClass("nao-metais");
-	$('article[data-name="nao-metais"]').addClass("nao-metais2");
+	          $('article[data-name="nao-metais"]').removeClass("nao-metais");
+                     $('article[data-name="nao-metais"]').addClass("nao-metais2");
                      // Tira a cor dos outros elementos
                      $('article[data-name="gases-nobres"]').removeClass("gases-nobres");
                      $('article[data-name="gases-nobres"]').addClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').removeClass("metais-alcalinos");
-                     $('article[data-name="matais-alcalinos"]').addClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').removeClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').addClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("metais-alcalino-terrosos");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("opaco");
                      $('article[data-name="halogenios"]').removeClass("halogenios");
@@ -33,8 +33,8 @@ $( document ).ready(function () {
                      // Volta a cor dos outros elementos
                      $('article[data-name="gases-nobres"]').removeClass("opaco");
                      $('article[data-name="gases-nobres"]').addClass("gases-nobres");
-                     $('article[data-name="matais-alcalinos"]').removeClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').addClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').removeClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').addClass("metais-alcalinos");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("metais-alcalino-terrosos");
                      $('article[data-name="halogenios"]').removeClass("opaco");
@@ -62,8 +62,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="nao-metais"]').removeClass("nao-metais");
                      $('article[data-name="nao-metais"]').addClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').removeClass("metais-alcalinos");
-                     $('article[data-name="matais-alcalinos"]').addClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').removeClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').addClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("metais-alcalino-terrosos");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("opaco");
                      $('article[data-name="halogenios"]').removeClass("halogenios");
@@ -87,8 +87,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="nao-metais"]').removeClass("opaco");
                      $('article[data-name="nao-metais"]').addClass("nao-metais");
-                     $('article[data-name="matais-alcalinos"]').removeClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').addClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').removeClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').addClass("metais-alcalinos");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("metais-alcalino-terrosos");
                      $('article[data-name="halogenios"]').removeClass("opaco");
@@ -111,8 +111,8 @@ $( document ).ready(function () {
 
 	.mouseenter(function () {
 
-	$('article[data-name="matais-alcalinos"]').removeClass("metais-alcalinos");
-	$('article[data-name="matais-alcalinos"]').addClass("metais-alcalinos2");
+	$('article[data-name="metais-alcalinos"]').removeClass("metais-alcalinos");
+	$('article[data-name="metais-alcalinos"]').addClass("metais-alcalinos2");
 
                      $('article[data-name="gases-nobres"]').removeClass("gases-nobres");
                      $('article[data-name="gases-nobres"]').addClass("opaco");
@@ -135,8 +135,8 @@ $( document ).ready(function () {
 	})
 
 	.mouseleave(function(){
-	$('article[data-name="matais-alcalinos"]').removeClass("metais-alcalinos2");
-	$('article[data-name="matais-alcalinos"]').addClass("metais-alcalinos");
+	$('article[data-name="metais-alcalinos"]').removeClass("metais-alcalinos2");
+	$('article[data-name="metais-alcalinos"]').addClass("metais-alcalinos");
 
                      $('article[data-name="gases-nobres"]').removeClass("opaco");
                      $('article[data-name="gases-nobres"]').addClass("gases-nobres");
@@ -171,8 +171,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("gases-nobres");
                      $('article[data-name="gases-nobres"]').addClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').removeClass("metais-alcalinos");
-                     $('article[data-name="matais-alcalinos"]').addClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').removeClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').addClass("opaco");
                      $('article[data-name="nao-metais"]').removeClass("nao-metais");
                      $('article[data-name="nao-metais"]').addClass("opaco");
                      $('article[data-name="halogenios"]').removeClass("halogenios");
@@ -195,8 +195,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("opaco");
                      $('article[data-name="gases-nobres"]').addClass("gases-nobres");
-                     $('article[data-name="matais-alcalinos"]').removeClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').addClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').removeClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').addClass("metais-alcalinos");
                      $('article[data-name="nao-metais"]').removeClass("opaco");
                      $('article[data-name="nao-metais"]').addClass("nao-metais");
                      $('article[data-name="halogenios"]').removeClass("opaco");
@@ -223,8 +223,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("gases-nobres");
                      $('article[data-name="gases-nobres"]').addClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').removeClass("metais-alcalinos");
-                     $('article[data-name="matais-alcalinos"]').addClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').removeClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').addClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("metais-alcalino-terrosos");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("opaco");
                      $('article[data-name="nao-metais"]').removeClass("nao-metais");
@@ -247,8 +247,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("opaco");
                      $('article[data-name="gases-nobres"]').addClass("gases-nobres");
-                     $('article[data-name="matais-alcalinos"]').removeClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').addClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').removeClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').addClass("metais-alcalinos");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("metais-alcalino-terrosos");
                      $('article[data-name="nao-metais"]').removeClass("opaco");
@@ -275,8 +275,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("gases-nobres");
                      $('article[data-name="gases-nobres"]').addClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').removeClass("metais-alcalinos");
-                     $('article[data-name="matais-alcalinos"]').addClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').removeClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').addClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("metais-alcalino-terrosos");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("opaco");
                      $('article[data-name="halogenios"]').removeClass("halogenios");
@@ -299,8 +299,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("opaco");
                      $('article[data-name="gases-nobres"]').addClass("gases-nobres");
-                     $('article[data-name="matais-alcalinos"]').removeClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').addClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').removeClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').addClass("metais-alcalinos");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("metais-alcalino-terrosos");
                      $('article[data-name="halogenios"]').removeClass("opaco");
@@ -327,8 +327,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("gases-nobres");
                      $('article[data-name="gases-nobres"]').addClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').removeClass("metais-alcalinos");
-                     $('article[data-name="matais-alcalinos"]').addClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').removeClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').addClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("metais-alcalino-terrosos");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("opaco");
                      $('article[data-name="halogenios"]').removeClass("halogenios");
@@ -351,8 +351,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("opaco");
                      $('article[data-name="gases-nobres"]').addClass("gases-nobres");
-                     $('article[data-name="matais-alcalinos"]').removeClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').addClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').removeClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').addClass("metais-alcalinos");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("metais-alcalino-terrosos");
                      $('article[data-name="halogenios"]').removeClass("opaco");
@@ -379,8 +379,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("gases-nobres");
                      $('article[data-name="gases-nobres"]').addClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').removeClass("metais-alcalinos");
-                     $('article[data-name="matais-alcalinos"]').addClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').removeClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').addClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("metais-alcalino-terrosos");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("opaco");
                      $('article[data-name="halogenios"]').removeClass("halogenios");
@@ -403,8 +403,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("opaco");
                      $('article[data-name="gases-nobres"]').addClass("gases-nobres");
-                     $('article[data-name="matais-alcalinos"]').removeClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').addClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').removeClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').addClass("metais-alcalinos");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("metais-alcalino-terrosos");
                      $('article[data-name="halogenios"]').removeClass("opaco");
@@ -431,8 +431,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("gases-nobres");
                      $('article[data-name="gases-nobres"]').addClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').removeClass("metais-alcalinos");
-                     $('article[data-name="matais-alcalinos"]').addClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').removeClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').addClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("metais-alcalino-terrosos");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("opaco");
                      $('article[data-name="halogenios"]').removeClass("halogenios");
@@ -455,8 +455,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("opaco");
                      $('article[data-name="gases-nobres"]').addClass("gases-nobres");
-                     $('article[data-name="matais-alcalinos"]').removeClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').addClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').removeClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').addClass("metais-alcalinos");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("metais-alcalino-terrosos");
                      $('article[data-name="halogenios"]').removeClass("opaco");
@@ -483,8 +483,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("gases-nobres");
                      $('article[data-name="gases-nobres"]').addClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').removeClass("metais-alcalinos");
-                     $('article[data-name="matais-alcalinos"]').addClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').removeClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').addClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("metais-alcalino-terrosos");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("opaco");
                      $('article[data-name="halogenios"]').removeClass("halogenios");
@@ -507,8 +507,8 @@ $( document ).ready(function () {
 
                      $('article[data-name="gases-nobres"]').removeClass("opaco");
                      $('article[data-name="gases-nobres"]').addClass("gases-nobres");
-                     $('article[data-name="matais-alcalinos"]').removeClass("opaco");
-                     $('article[data-name="matais-alcalinos"]').addClass("metais-alcalinos");
+                     $('article[data-name="metais-alcalinos"]').removeClass("opaco");
+                     $('article[data-name="metais-alcalinos"]').addClass("metais-alcalinos");
                      $('article[data-name="metais-alcalino-terrosos"]').removeClass("opaco");
                      $('article[data-name="metais-alcalino-terrosos"]').addClass("metais-alcalino-terrosos");
                      $('article[data-name="halogenios"]').removeClass("opaco");

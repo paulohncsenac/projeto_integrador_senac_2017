@@ -1,22 +1,22 @@
 Nome: Rutênio
 
-Símbolo:Ru
+Símbolo: Ru
 
-Número atômico:44
+Número atômico: 44
 
-Massa atômica:101,07
+Massa atômica: 101,07
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:2607K
+Ponto de fusão: 2607K
 
-Ponto de ebulição:4423K
+Ponto de ebulição: 4423K
 
-Nome em latim:ruthenium
+Nome em latim: ruthenium
 
 APRESENTAÇÃO
 Derrivado de Ruthenia, nome Latino para Russia. Foi descoberto em 1828 por Osann na Russia a partir de resíduo de minério de platina da Sibéria. Em 1844 Claus reconheceu a descoberta de Osann e obteve o Rutênio na forma de pó pela redução do clororutenato de potássio, partindo-se de 7,5 kg de resíduo de platina. O metal é duro, branco e não é atacado por nenhum ácido, nem água régia. É atacado pelo Cl2 a quente e por oxidantes fundidos como o KNO3. A solução do RuCl3 em HCl é fortemente alaranjada. É obtido hoje pela redução do sal clororutenato de amônio com hidrogênio. Forma o RuO4, volátil, quando em sua solução é passado cloro.

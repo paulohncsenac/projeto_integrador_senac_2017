@@ -1,22 +1,22 @@
 Nome: Césio
 
-Símbolo:Cs
+Símbolo: Cs
 
-Número atômico:55
+Número atômico: 55
 
-Massa atômica:132,9054519
+Massa atômica: 132,9054519
 
-Série química:metal alcalino
+Série química: metal alcalino
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:301,6k
+Ponto de fusão: 301,6k
 
-Ponto de ebulição:944K
+Ponto de ebulição: 944K
 
-Nome em latim:caesium
+Nome em latim: caesium
 
 APRESENTAÇÃO
 Derivado do Latim Caesius, azul celeste, devido à cor de sua linha espectral mais forte. Foi descoberto em 1860 por R. Bunsen G. R. Kirchhoff, considerados os pais da espectroscopia, em Heidelberg, Alemanha. Eles obtiveram o composto Cs2PtCl6 a partir da evaporação de centenas de quilos de água mineral de Dürkheim. Atualmente é obtido do mineral Pollucita, por eletrólise do cloreto ou cianeto de césiofundido. É o mais reativo dos metais alcalinos e reage violentamente com a água formando CsOH. É um metal branco prateado que se funde na temperatura da mão e juntamente com o Ga e Hg são os únicos metais líquidos na temperatura ambiente.

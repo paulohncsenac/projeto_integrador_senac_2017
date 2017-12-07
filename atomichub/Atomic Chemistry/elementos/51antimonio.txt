@@ -1,22 +1,22 @@
 Nome: Antimônio
 
-Símbolo:Sb
+Símbolo: Sb
 
-Número atômico:51
+Número atômico: 51
 
-Massa atômica:121,760
+Massa atômica: 121,760
 
-Série química:semi metal
+Série química: semi metal
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:Não
+Radioativo: Não
 
-Ponto de fusão:903,78K
+Ponto de fusão: 903,78K
 
-Ponto de ebulição:1860K
+Ponto de ebulição: 1860K
 
-Nome em latim:misy conbusti
+Nome em latim: stibium
 
 APRESENTAÇÃO
 Do Grego Anti Monos, nunca sozinho, e o símbolo do latim Stibium, marca, devido ao seu minério Estibinita (Sb2S3) ter sido usado como lápis em maquiagem. Provavelmente foi descoberto na Idade Média por alquimistas desconhecidos e Georgius Agrícola no século XVII já estava familiarizado com o Sb metálico. Era obtido pelo aquecimento de seu sulfeto até incandescência com carvão vegetal. Atualmente é obtido pelo aquecimento de seu óxido com sucata de ferro. É um metal prateado, duro, estável ao ar seco e lentamente escurece em ar úmido. Dissolve-se em HNO3, água régia e H2SO4 à quente. Queima ao ser aquecido formando Sb2O3 branco.

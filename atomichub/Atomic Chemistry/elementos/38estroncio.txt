@@ -1,22 +1,22 @@
 Nome: Estrôncio
 
-Símbolo:Sr
+Símbolo: Sr
 
-Número atômico:38
+Número atômico: 38
 
-Massa atômica:87,62
+Massa atômica: 87,62
 
-Série química:metal alcalinoterroso
+Série química: metal alcalinoterroso
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1050k
+Ponto de fusão: 1050k
 
-Ponto de ebulição:1655k
+Ponto de ebulição: 1655k
 
-Nome em latim:sstrontium
+Nome em latim: strontium
 
 APRESENTAÇÃO
 Derivado de Strontian, cidade da Escócia, onde foi encontrado o minério que permitiu sua descoberta em 1790 por A. Crawford, Edinburgo, Inglaterra. Somente foi isolado em 1808 por Sir Humphry Davy em Londres a partir da eletrólise de uma solução de hidróxido de estrôncio, obtido pela reação com água do produto da calcinação do nitrato e empregando-se catodo de mercúrio. O estrôncio foi obtido após a destilação do mercúrio. É um metal prateado que rapidamente se oxida ao ar tornando-se amarelo devido à formação de óxido. Reage vigorosamente com a água. Atualmente obtido pela eletrólise do cloreto de estrôncio fundido.

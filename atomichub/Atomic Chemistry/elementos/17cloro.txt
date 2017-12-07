@@ -1,22 +1,22 @@
 Nome: Cloro
 
-Símbolo:Cl
+Símbolo: Cl
 
-Número atômico:17
+Número atômico: 17
 
-Massa atômica:35,453
+Massa atômica: 35,453
 
-Série química:halogénio
+Série química: halogénio
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:171,6K
+Ponto de fusão: 171,6K
 
-Ponto de ebulição:239,11K
+Ponto de ebulição: 239,11K
 
-Nome em latim:CHLORUM
+Nome em latim: CHLORUM
 
 APRESENTAÇÃO
 O cloro ( grego chlorós, esverdeado ) é um elemento químico , símbolo Cl de número atômico 17 ( 17 prótons e 17 elétrons ) com massa atómica 35,5 u, encontrado em temperatura ambiente no estado gasoso. Gás extremamente tóxico e de odor irritante, foi descoberto em 1774 pelo sueco Carl Wilhelm Scheele. 

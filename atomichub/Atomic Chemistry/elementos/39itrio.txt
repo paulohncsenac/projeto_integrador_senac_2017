@@ -1,22 +1,22 @@
 Nome: Ítrio
 
-Símbolo:Y
+Símbolo: Y
 
-Número atômico:39
+Número atômico: 39
 
-Massa atômica:88,90584
+Massa atômica: 88,90584
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:sólido
+Estado da matéria: sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1799k
+Ponto de fusão: 1799k
 
-Ponto de ebulição:3609k
+Ponto de ebulição: 3609k
 
-Nome em latim:yttrium
+Nome em latim: yttrium
 
 APRESENTAÇÃO
 O nome é devido da cidade Sueca de Ytterby, onde se encontrou um mineral negro em que foi descoberto por J. Gadolin em 1794. Primeiramente foi chamado de "Terra de Ytter". Wohler obteve o metal na forma impura em 1828 por redução do cloreto de ítrio anidro (YCl3) com potássio. Atualmente é obtido pela redução do fluoreto com cálcio. É um metal prateado lustroso que é estável ao ar seco. Queima rapidamente ao ar acima de 400oC. Muito reativo com ácidos, o cátion é incolor em solução aquosa e seus sais são brancos.

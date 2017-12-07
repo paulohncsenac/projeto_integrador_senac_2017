@@ -1,22 +1,22 @@
-Nome:Sódio 
+Nome: Sódio 
 
-Símbolo:Na
+Símbolo: Na
 
-Número atômico:11
+Número atômico: 11
 
-Massa atômica:22,98976928
+Massa atômica: 22,98976928
 
-Série química:metais alcalinos
+Série química: metais alcalinos
 
-Estado da matéria:sólido
+Estado da matéria: sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:370,95K
+Ponto de fusão: 370,95K
 
-Ponto de ebulição:1156K
+Ponto de ebulição: 1156K
 
-Nome em latim:sodium
+Nome em latim: sodium
 
 APRESENTAÇÃO
 Do inglês SODA e o símbolo do latim Naltrium. Seus compostos são conhecidos desde a antiquidade como o álcalil mineral (Na2CO3) e o sal marinho (NaCl). Foi isolado por Sir Humphy Davy em Londres em 1807 pela eletrólise da soda cáustica.

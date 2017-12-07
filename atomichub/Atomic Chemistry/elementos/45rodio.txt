@@ -1,22 +1,22 @@
 Nome: Ródio
 
-Símbolo:Rh
+Símbolo: Rh
 
-Número atômico:45
+Número atômico: 45
 
-Massa atômica:102,90550
+Massa atômica: 102,90550
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:2237K
+Ponto de fusão: 2237K
 
-Ponto de ebulição:3968K
+Ponto de ebulição: 3968K
 
-Nome em latim:rhodium
+Nome em latim: rhodium
 
 APRESENTAÇÃO
 O nome deriva do Grego Rhodon que significa rosa, em virtude da cor da solução diluída de seus sais. Foi descoberto por W.H. Wollaston em 1803, Londres, em minérios de platina da África do Sul. Foi obtido na forma de pó por redução do hexaclorodato de sódio com hidrogênio. Atualmente é obtido na forma de esponja pela redução de seus sais com ácido fórmico ou do hexaclorodato (III) de amônio com hidrogênio. É um metal branco prateado, altamente resistente a corrosão, não sendo atacado nem pela água régia. Reage somente com o cloro em alta temperatura formando o RhCl3. Quando polido é extremamente reflexivo.

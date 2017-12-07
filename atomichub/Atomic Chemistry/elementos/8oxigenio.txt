@@ -1,22 +1,22 @@
-Nome:Oxigénio
+Nome: Oxigênio
 
-Símbolo:O
+Símbolo: O
 
-Número atômico:8
+Número atômico: 8
 
-Massa atômica:15,9994
+Massa atômica: 15,9994
 
-Série química:não-metal
+Série química: não-metal
 
-Estado da matéria:gasoso
+Estado da matéria: gasoso
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:50,35K
+Ponto de fusão: 50,35K
 
-Ponto de ebulição:90,18K
+Ponto de ebulição: 90,18K
 
-Nome em latim:oxygeni
+Nome em latim: oxygeni
 
 APRESENTAÇÃO
 Do grego Oxys=ácido, Genes=formador, significando formador de ácidos, pois se acreditava que todos os ácidos continham oxigenio. Descoberto por Joseph Priestley, Inglaterra e por C.W. Sheele, Suécia em 1774. Chamado de "Ar Vital" por Lavoisier. 

@@ -1,22 +1,22 @@
 Nome: Telúrio
 
-Símbolo:Te
+Símbolo: Te
 
-Número atômico:52
+Número atômico: 52
 
-Massa atômica:127,60
+Massa atômica: 127,60
 
-Série química:semimetal
+Série química: semimetal
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:722,66K
+Ponto de fusão: 722,66K
 
-Ponto de ebulição:1261K
+Ponto de ebulição: 1261K
 
-Nome em latim:tellurium
+Nome em latim: tellurium
 
 APRESENTAÇÃO
 Derivado do Latim Tellus que significa Terra. Descoberto em 1782 por Franz Muller von Reichenstein, no minério de ouro conhecido com Aurum Album. Klaploth o isolou tratando este mineral com água régia, precipitando a solução com KOH em excesso, filtrando, e na solução resultante adicionando HCl. O precipitado obtido foi misturado com óleo e aquecido para redução. Hoje o telúrio é recuperado na lama anódica proveniente do refino de cobre. É um semi-metal prateado, facilmente reduzido a pó e queima ao ar formado o TeO2 branco. Não reage com HCl mas é atacado pelo HNO3 e H2SO4. Também é encontrado na forma de pó amorfo cinza escuro.

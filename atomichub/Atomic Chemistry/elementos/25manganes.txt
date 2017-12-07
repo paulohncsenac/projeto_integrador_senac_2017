@@ -1,22 +1,22 @@
 Nome: Manganês
 
-Símbolo:Mn
+Símbolo: Mn
 
-Número atômico:25
+Número atômico: 25
 
-Massa atômica:54,938045
+Massa atômica: 54,938045
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:sólido
+Estado da matéria: sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:1519K
+Ponto de fusão: 1519K
 
-Ponto de ebulição:2334K
+Ponto de ebulição: 2334K
 
-Nome em latim:manganese
+Nome em latim: manganese
 APRESENTAÇÃO
 Derivado do Latim Magnes, imã, em virtude das características magnéticas de seu mineral. Foi reconhecido por Scheele, Bergman e outros, mas foi isolado por Johan Gottlieb Grahn na Suécia em 1774 após redução da mineral pirolusita (MnO2) com carvão. É um metal duro, prateado e muito brilhante. Existe em quatro formas cristalinas. É um metal reativo e se dissolve facilmente em ácidos. Oxida-se lentamente na água. Atualmente é obtido por redução do dióxido de manganês com alumínio e também por eletrólise do sulfato ou cloreto.
 CARACTERÍSTICAS PRINCIPAIS

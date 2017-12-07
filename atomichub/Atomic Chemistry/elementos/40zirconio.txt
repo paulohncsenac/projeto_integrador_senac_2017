@@ -1,22 +1,22 @@
-Nome:Zircônio
+Nome: Zircônio
 
-Símbolo:Zr
+Símbolo: Zr
 
-Número atômico:40
+Número atômico: 40
 
-Massa atômica:91,224
+Massa atômica: 91,224
 
-Série química:metal de transição
+Série química: metal de transição
 
-Estado da matéria:Sólido
+Estado da matéria: Sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:2128k
+Ponto de fusão: 2128k
 
-Ponto de ebulição:4682k
+Ponto de ebulição: 4682k
 
-Nome em latim:zirconium
+Nome em latim: zirconium
 
 APRESENTAÇÃO
 O nome é derivado do Persa Zargun que descreve a cor da gema agora conhecida como Zircão ou Jargon. Foi descoberto por M.H. Klaproth em 1789 em Berlim mas somente foi isolado na forma impura por J.J. Berzelius em 1824 após a redução do fluorzirconato de potássio com potássio metálico. Atualmente é obtido na forma de esponja pela redução do ZrCl4 com magnésio metálico (Processo Kroll). É um metal de cor cinza claro com brilho lustroso. Pode entrar em ignição espontaneamente quando em pó muito fino, especialmente em alta temperatura. Bastante resistente ao ataque de ácido, com exceção do HF. A cor de seus sais é branca e a sua solução é incolor.

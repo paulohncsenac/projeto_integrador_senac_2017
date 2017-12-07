@@ -1,22 +1,22 @@
-Nome: neônio
+Nome: Neônio
 
-Símbolo:Ne
+Símbolo: Ne
 
-Número atômico:10
+Número atômico: 10
 
-Massa atômica:20,1797
+Massa atômica: 20,1797
 
-Série química:gases nobres
+Série química: gases nobres
 
-Estado da matéria:gasoso
+Estado da matéria: gasoso
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:24,56K
+Ponto de fusão: 24,56K
 
-Ponto de ebulição:27,07K
+Ponto de ebulição: 27,07K
 
-Nome em latim:Neo
+Nome em latim: Neon
 
 APRESENTAÇÃO
 Do grego Neos quesignifica novo. Descoberto por Sir William Ramsay e M.W. Travers em 1898 em Londres pela utilização da análise espectral de uma fração obtida da destilação do ar líquido.
