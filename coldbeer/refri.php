@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title>COLD BEER</title>
+    <title>REFRIGERANTES</title>
     <meta charset="utf-8">
    	
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.css">
@@ -186,9 +186,9 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Destilado <span class="sr-only">(current)</spa></a></li>
+        <li class="active"><a href="#">Destilado <span class="sr-only">(current)</span></a></li>
         <li><a href="refri.html">Refrigerantes</a></li>
-		<li><a href="semalco.html">Não Alcoólicas</a></li>
+		  <li><a href="semalco.html">Não Alcoólicas</a></li>
 		<li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aperetivos<span class="caret"></span></a>
         </li>
@@ -222,28 +222,22 @@
             <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="../svg/loading/static-svg/spin.svg" />
         </div>
         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1300px;height:500px;overflow:hidden;">
-         
+           
             <div>
-                <img data-u="image" src="img/gallery/1300x500/05.jpg" />
+                <img data-u="image" src="img/gallery/1300x500/coca.jpg" />
             </div>
-            
+            <div>
+                <img data-u="image" src="img/gallery/1300x500/acai.jpg" />
+              
+            </div>
 			<div>
-                <img data-u="image" src="img/gallery/1300x500/004.jpg" />
+                <img data-u="image" src="img/gallery/1300x500/fanta.jpg" />
               
             </div>
 			
 			<div>
-                <img data-u="image" src="img/gallery/1300x500/black1.jpg" />
+                <img data-u="image" src="img/gallery/1300x500/skin.jpg" />
               
-            </div>
-			
-			<div>
-                <img data-u="image" src="img/gallery/1300x500/black2.jpg" />
-              
-            </div>
-			
-			 <div>
-                <img data-u="image" src="img/gallery/1300x500/003.jpg" />
             </div>
 			 
                
@@ -283,7 +277,7 @@
 			<?php 
 
 				//Captura as informações para a lista de cerjevas
-                $sqlCervejas = " SELECT * FROM `produto` WHERE `produto`.`Categoria` = 'cerveja'";
+                $sqlCervejas = " SELECT * FROM `produto` WHERE `produto`.`Categoria` = 'Refrigerante'";
                  
                  foreach($pdo->query($sqlCervejas) as $linhaCerveja)
                  {
@@ -301,7 +295,7 @@
 						</figcaption>			
 					</figure>
                 </div>
-                <button type="button" class="btn btn-primary btn-block " data-toggle="modal" data-target="#<?php echo $linhaCerveja['IdProd'] ?>" >
+                <button type="button" class="btn btn-primary btn-block" data-toggle="modal" data-target="#<?php echo $linhaCerveja['IdProd'] ?>" >
 						Detalhes.
 				</button>
 			</div>
@@ -372,8 +366,6 @@
 											      <td></td>
 												  <td></td>
 												
-												  
-												 
 											    </tr>
 												
 												<tr class="bg-warning">
@@ -383,15 +375,8 @@
 											     <td></td>
 												 <td></td>
 												 
-												
 											    </tr>
 												
-												
-												
-
-
-
-
 											</tbody></table>
 							        </div>
 
@@ -410,11 +395,8 @@
 			</div>
 			<?php }//Fim da Captura das informações para a lista de cerjevas exibidas no modal junto com as informações adicionais ?>
 
-
-		
 		</div>
-		</div>			
-		</div>
+			
 		</div>
 		
 		</div>

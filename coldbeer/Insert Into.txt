@@ -1,0 +1,323 @@
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(1,Antartica Fardo,Antartica,12,350,32.99,Null,Cerveja,10,'antarticafardo.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(2,Budweiser Long Neck,Budweiser,6,343,29.94,null,cerveja,20,'boodfardo.jpg')
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(3,Brahma Fardo,Brahma,12,350,41.88,null,cerveja,12,'brahmafardo.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(4,Glacial Fardo,Glacial,12,350,23.88,null,cerveja,12,'img/glacialfardo.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(5,Skol Fardo,Skol,12,350,41.89,null,cerveja,50,'img/skolfardo.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(6,Kaiser Fardo,Kaiser,12,350,29.88,null,cerveja,16,'img/kaiserfardo.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(7,Heineken Long Neck,Heineken,6,330,29.94,null,cerveja,6)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(8,Burguesa Lata,Burguesa,1,350,2.75,null,cerveja,100,'img/stellauni.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(9,Itaipava Lata,Itaipava,1,350,2.75,null,cerveja,300,'img/itaipavauni.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(10,Brahma Lata,Brahma,1,350,3.49,null,cerveja,300,'img/brahmauni.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(11,Skol Lata,Skol,1,350,3.49,null,cerveja,300,'img/skoluni.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(12,Eisenumi,Eisenuni,1,350,3.50,'null',cerveja,10,'img/eisenuni.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(13,Kaiser Lata,Kaiser,1,350,2.49,null,cerveja,300,'img/Kaiseruni.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(14,Amstel Fardo,Amstel,12,350,41.88,null,cerveja,300,img/amstel.jpg)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(15,Stella Long Neck,Stella,06,275,29.94,null,cerveja,300,'img/stellafardo.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(43,'ItaipavaFardo','Itaipava',16,350,3.15,null,cerveja,150,'img/itaipavafardo.jpg')
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(16,Smirnoff Vodka,Smirnoff,1,998,39.80,null,destilados,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(17,51 Cachaca Pirassununga,51,1,965,10.99,null,destilados,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(18,Old Eight Whisky,Old Eight,1,980,32.99,null,destilados,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(19,Red Label Whisky,Red Label,1,999,99.99,null,destilados,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(20,Absolut Vodka,Absolut,1,999,95.99,null,destilados,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(21,Jack Daniels Whisky,Jack Daniels,1,999,124,99,destilados,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(22,Orloff Vodka,Orloff,1,999,29.99,destilados,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(23,Ypióca cachaca,Ypióca,1,965,16.99,destilados,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(24,Coquetel Corote Limão,Coquitel,1,500,3.99,destilados,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(25,Coquetel Corote Morango,Coquitel,1,500,3.99,destilados,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(26,Askov Vodka Limão,Askov,1,900,15.99,destilados,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(27,Askov Vodka Frutas Vermelhas,Askov,1,900,15.99,destilados,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(28,Energetico Red Bull,Red Bull,1,250,8.99,null,não alcólico,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(29,Energetico Fusion,Fusion,1,250,4.99,null,não alcólico,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(30,Energetico Full Energy,Full Energy,1,2000,11.99,null,não alcólico,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(31,Água Mineral Águas Prata,Águas Prata,1,500,2.49,null,não alcólico,10,)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(32,Água de Coco Ducoco,Ducoco,1,1000,8.90,null,não alcólico,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(33,Del Valle Maracuja,Del Valle,1,1000,6.90,null,não alcólico,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(34,Del Valle Pessego,Del Valle,1,1000,6.90,null,não alcólico,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(35,Del Valle Uva,Del Valle,1,1000,6.90,null,não alcólico,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(36,Sprite 2L,Coca Cola,1,2.0,6.49,null,refrigerante,10,'refri/sprite2.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(37,Schweppers,Coca Cola,1,2.0,6.49,refrigerante,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(38,Brahma 0,0%,Brahma,1,350,3.99,null,não alcólico,10)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(39,Guaraná Antartica 2L,Antartica,1,2.0,6.90,null,refrigerante,10,'refri/antartica2.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(40,Coca Cola 2L,Coca Cola,1,2.0,7.99,null,refrigerante,10,'refri/coca2.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(41,Fanta Uva 2L,Coca Cola,1,2.0,6.49,null,refrigerante,10,'refri/uva2.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+(42,Fanta Laranja 2L,Coca Cola,1,2.0,6.49,null,refrigerante,10,'refri/laranja2.jpg')
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+Values(44,'Antartica Black lata','Antartica',1,350,null,null,'refrigerante',16,'refri/antarticaB.jpg')
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+Values(45,'Antartica lata','Antartica',1,350,null,null,'refrigerante',50,'refri/antarticaL.jpg')
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+Values(46,'Antartica zero','Antartica',1,350,null,null,'refrigerante,25,'refri/antarticaZ.jpg)
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+Values(47,'Coca lata','Coca Cola',1,350,null,null,refrigerante,68,refri/cocaL.jpg)
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+Values(48,'kuat lata','Coca Cola',1,350,null,null,refrigerante,23,refri/kuatL.jpg);
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(49,'kuat 2 litros',1,2.0,null,null,'refrigerante',13,'refri/kuat2.jpg');
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(50,'Fanta Laranja lata',1,350,null,null,'refrigerante',34,'refri/laranjaL.jpg');
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(51,'skin 2 litros',1,350, null,null,'refrigerante',10,'refri/skin.jpg');
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(52,'Sprite lata',1,350,null,null,'refrigerante',10,'refri/spriteL.jpg');
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(53,'Fanta uva lata'1,350,null,null,'refrigerante','refri/uvaL.jpg');
+
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(54,'Porção de azeitona','Cold Beer',1,300,null,null,'aperitivos',1,'aperitivos/azeitona.jpg');
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(55,'Porção de batata com Bacon','Cold Beer',1,300,null,null,'aperitivos',1,'aperitivos/batata.jpg');
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(56,'Porção de Calabresa','Cold Beer'1,300,null,null,'aperitivos',1,'aperitivos/calabresa.jpg');
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(57,'Porção de Batata','Cold Beer',1,300,null,null,'aperitivos',1,'aperitivos/pura.jpg');
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(58,'Porção de Cebola','Cold Beer',1,300,null,null,'aperitivos',1,'aperitivos/cebolas.jpg');
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(59,'Porção Cold Beer','Cold Beer',1,300,null,null,'aperitivos',1,'aperitivos/portuguesa.jpg');
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(60,'Porção de kibe','Cold Beer',1,300,null,null,'aperitivos',1,'aperitivos/kibe.jpg');
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(61,'Porção de Tilapia','Cold Beer',1,300,null,null,aperitivos,1,aperitivos/tilapia.jpg')
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(62,'Porção de Queijo','Cold Beer',1,300,null,null,aperitivos,1,'aperitivos/queijo.jpg');
+
+
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+
+values(63,'Porção de Pastel','Cold Beer',1,300,null,null,aperitivos,1,'aperitivos/pastel.jpg');
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+
+values(64,'Porção de Presunto','Cold Beer',1,300,null,null,aperitivos,1,'aperitivos/presunto.jpg');
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(65,'Porção de Salame','Cold Beer',1,300,null,null,aperitivos,1,'aperitivos/salame.jpg');
+
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(66,'Porção de salgados','Cold Beer',1,300,null,null,aperitivos,1,'aperitivos/salgados.jpg');
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+values(68,'Porção de Salsicha','Cold Beer',1,300,null,null,'aperitivos',1,'aperitivos/salsicha.jpg');
+
+
+
+
+(IdProd,NomeProd,MarcaProd,Unidade,ML,PrecoUnitario,Promocao,Categoria,Estoque,imagens)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

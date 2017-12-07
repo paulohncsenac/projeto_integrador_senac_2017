@@ -1,13 +1,7 @@
-<?php 
-
-	include 'banco.php';
-	$pdo = Banco::conectar();
-
-?>
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title>COLD BEER</title>
+    <title>Não Alcoólicos</title>
     <meta charset="utf-8">
    	
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.css">
@@ -16,10 +10,8 @@
 	<link rel="stylesheet" type="text/css" href="css/rodapé.css"/>
 	
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
-	
-	<!-- Latest compiled and minified JavaScript -->
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 	<script type="text/javascript" src="js/jssor.slider.min.js"></script>
 	 <script type="text/javascript">
         jQuery(document).ready(function ($) {
@@ -186,7 +178,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Destilado <span class="sr-only">(current)</spa></a></li>
+        <li class="active"><a href="#">Destilado <span class="sr-only">(current)</span></a></li>
         <li><a href="refri.html">Refrigerantes</a></li>
 		<li><a href="semalco.html">Não Alcoólicas</a></li>
 		<li class="dropdown">
@@ -279,141 +271,266 @@
 		
 
 		<div class="row paddingRow margin-img">
-
-			<?php 
-
-				//Captura as informações para a lista de cerjevas
-                $sqlCervejas = " SELECT * FROM `produto` WHERE `produto`.`Categoria` = 'cerveja'";
-                 
-                 foreach($pdo->query($sqlCervejas) as $linhaCerveja)
-                 {
-		    ?>
 			
 			<div class="col-xs-12 col-sm-12 col-md-3">
 				 <div class="grid">
 				   
 					<figure class="effect-apollo">
-						<img class="img-responsive"  src="<?php echo $linhaCerveja['imagens'] ?>" >
+						<img class="img-responsive"  src="naoalco/tnt.jpg">
 						<figcaption>
 							<h2><span></span></h2>
-							<p  class="preco">R$ <?php echo str_replace('.',',',$linhaCerveja['PrecoUnitario']); ?></p>
+							<p class="preco">R$ 3,90</p>
 							<a href="#">View more</a>
 						</figcaption>			
 					</figure>
                 </div>
-                <button type="button" class="btn btn-primary btn-block " data-toggle="modal" data-target="#<?php echo $linhaCerveja['IdProd'] ?>" >
-						Detalhes.
-				</button>
 			</div>
-			<?php 
+			
+			<div class="col-xs-12 col-sm-12 col-md-3">
+				 <div class="grid">
+				   
+					<figure class="effect-apollo">
+						<img class="img-responsive"  src="naoalco/fusion.jpg">
+						<figcaption>
+							<h2><span></span></h2>
+							<p class="preco">R$ 3,90</p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+                </div>
+			</div>
+			
+			<div class="col-xs-12 col-sm-12 col-md-3">
+				<div class="grid">
+				   
+					<figure class="effect-apollo">
+						<img class="img-responsive"  src="naoalco/full.jpg">
+						<figcaption>
+							<h2><span></span></h2>
+							<p class="preco">R$ 3,90</p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+                </div>
+			</div>
+			
+			
+				<div class="col-xs-12 col-sm-12 col-md-3">
+				<div class="grid">
+				   
+					<figure class="effect-apollo">
+						<img class="img-responsive"  src="naoalco/red.jpg">
+						<figcaption>
+							<h2><span></span></h2>
+							<p class="preco">R$ 3,90</p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+                </div>
+			</div>
+		
+		</div>
+			
+		
+		
+	
+		
+		<div class="row paddingRow margin-img">
+			
+			<div class="col-md-3">
+				<div class="grid">
+				   
+					<figure class="effect-apollo">
+						<img class="img-responsive"  src="naoalco/h2o.jpg">
+						<figcaption>
+							<h2><span></span></h2>
+							<p class="preco">R$ 3,90</p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+                </div>
+			</div>
+			
+			<div class="col-md-3">
+				  <div class="grid">
+				   
+					<figure class="effect-apollo">
+						<img class="img-responsive"  src="naoalco/maracuja.jpg">
+						<figcaption>
+							<h2><span></span></h2>
+							<p class="preco">R$ 3,90</p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+                </div>
+			</div>
+			
+			<div class="col-md-3">
+		
+		        <div class="grid">
+				   
+					<figure class="effect-apollo">
+						<img class="img-responsive"  src="naoalco/morango.jpg">
+						<figcaption>
+							<h2><span></span></h2>
+							<p class="preco">R$ 3,90</p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+                </div>
+				</div>  
+			
+	   
+			
+			<div class="col-md-3">
+				  <div class="grid">
+					<figure class="effect-apollo">
+						<img class="img-responsive"  src="naoalco/limao.jpg">
+						<figcaption>
+							<h2><span></span></h2>
+							<p class="preco">R$ 3,90</p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+
+			</div>
+			</div>
+			
+			
+		</div>
+		
+		
+	<div class="row paddingRow margin-img">
+			
+				<div class="col-md-3">
 					
-				}
-				//Fim da captura as informações para a lista de cerjevas
+					<div class="grid">
+						<figure class="effect-apollo">
+							<img class="img-responsive"  src="naoalco/coco.jpg">
+							<figcaption>
+								<h2><span></span></h2>
+								<p class="preco">R$ 3,90</p>
+								<a href="#">View more</a>
+							</figcaption>			
+						</figure>
 
-				//Captura as informações para a lista de cerjevas exibidas no modal junto com as informações adicionais
-				foreach($pdo->query($sqlCervejas) as $linhaCerveja)
-                 {
-		    ?>
+				</div>
 			
-			
-			<div class="container">
-
-				<div class="row">
-
-					<!-- Button trigger modal -->
-						
-
-						<!-- Modal -->
-						<div class="modal fade" id="<?php echo $linhaCerveja['IdProd'] ?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-						  <div class="modal-dialog" role="document">
-						    <div class="modal-content">
-						      <div class="modal-header">
-						        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						        <h4 class="modal-title" id="myModalLabel" style="color: #000 !important;"><?php echo $linhaCerveja['NomeProd']; ?></h4>
-						      </div>
-						      <div class="modal-body" style="color: #000 !important;">
-						      	<div class="row">
-							        <div class="col-md-6 img-responsive">
-							        	<img src="<?php echo $linhaCerveja['imagens'] ?>" />
-							        </div>
-
-							        <div class="col-md-6 ">
-							        	<table class="table" id="myTable">
-											  <thead class="thead-dark">
-											    <tr>
-											      <th>Marca</th>
-											      <th><?php echo $linhaCerveja['MarcaProd']; ?></th>
-											      <th></th>
-											      <th></th>
-												  <th></th>
-											    </tr>
-											  </thead>
-											  <tbody>
-											    
-												<tr class="bg-warning">
-											        <th class="cadas" scope="row">Embalagem</th>
-											        <td><?php echo $linhaCerveja['Embalagem']; ?></td>
-											        <td></td>
-											        <td></td>
-												    <td></td>
-											    </tr>
-												<tr class="bg-warning">
-											      <th scope="row">Quantidade</th>
-											      <td><?php echo $linhaCerveja['ML']; ?></td>
-											      <td></td>
-											      <td></td>
-												  <td></td>
-											    </tr>
-											    
-												<tr class="bg-warning">
-											      <th scope="row">Unidade</th>
-											      <td><?php echo $linhaCerveja['Unidade']; ?></td>
-											      <td></td>
-											      <td></td>
-												  <td></td>
-												
-												  
-												 
-											    </tr>
-												
-												<tr class="bg-warning">
-												 <th scope="row">Teor Alcoólico</th>
-												 <td><?php echo $linhaCerveja['Teor']; ?></td>
-											     <td></td>
-											     <td></td>
-												 <td></td>
-												 
-												
-											    </tr>
-												
-												
-												
-
-
-
-
-											</tbody></table>
-							        </div>
-
-							    </div>
-						      </div>
-						      <div class="modal-footer">
-						        <button type="button" class="btn btn-default" data-dismiss="modal">Sair</button>
-						        
-						      </div>
-						    </div>
-						  </div>
-						</div>
 
 				</div>
 				
+				<div class="col-md-3">
+					<div class="grid">
+						<figure class="effect-apollo">
+							<img class="img-responsive"  src="naoalco/delmar.jpg">
+							<figcaption>
+								<h2><span></span></h2>
+								<p class="preco">R$ 3,90</p>
+								<a href="#">View more</a>
+							</figcaption>			
+						</figure>
+
+				</div>
 			</div>
-			<?php }//Fim da Captura das informações para a lista de cerjevas exibidas no modal junto com as informações adicionais ?>
+				
+				
+				<div class="col-md-3">
+							
+			<div class="grid">
+						<figure class="effect-apollo">
+							<img class="img-responsive"  src="naoalco/delpes.jpg">
+							<figcaption>
+								<h2><span></span></h2>
+								<p class="preco">R$ 3,90</p>
+								<a href="#">View more</a>
+							</figcaption>			
+						</figure>
 
+				</div>
+				</div>
+				
+				<div class="col-md-3">
+					<div class="grid">
+						<figure class="effect-apollo">
+							<img class="img-responsive"  src="naoalco/uva.jpg">
+							<figcaption>
+								<h2><span></span></h2>
+								<p class="preco">R$ 3,90</p>
+								<a href="#">View more</a>
+							</figcaption>			
+						</figure>
 
+				</div>
+				</div>
+				
+	</div>	
 		
-		</div>
-		</div>			
+		
+		<div class="row paddingRow margin-img" >
+				
+				<div class="col-md-3" class="cerva">
+					
+			<div class="grid">
+						<figure class="effect-apollo">
+							<img class="img-responsive"  src="naoalco/brahma.jpg">
+							<figcaption>
+								<h2><span></span></h2>
+								<p class="preco">R$ 3,90</p>
+								<a href="#">View more</a>
+							</figcaption>			
+						</figure>
+
+				</div>
+				
+				</div>
+				
+			
+				
+				<div class="col-md-3">
+						<div class="grid">
+						<figure class="effect-apollo">
+							<img class="img-responsive"  src="naoalco/laranja.jpg">
+							<figcaption>
+								<h2><span></span></h2>
+								<p class="preco">R$ 3,90</p>
+								<a href="#">View more</a>
+							</figcaption>			
+						</figure>
+					 </div>
+				</div>
+				
+					   <div class="col-md-3">
+					  <div class="grid">
+						<figure class="effect-apollo">
+							<img class="img-responsive"  src="naoalco/caju.jpg">
+							<figcaption>
+								<h2><span></span></h2>
+								<p class="preco">R$ 3,90</p>
+								<a href="#">View more</a>
+							</figcaption>			
+						</figure>
+						
+					</div>
+			  
+				
+				</div>
+				
+				<div class="col-md-3">
+					  <div class="grid">
+						<figure class="effect-apollo">
+							<img class="img-responsive"  src="naoalco/agua.jpg">
+							<figcaption>
+								<h2><span></span></h2>
+								<p class="preco">R$ 3,90</p>
+								<a href="#">View more</a>
+							</figcaption>			
+						</figure>
+						
+					</div>
+			   </div>
+				
+			
+					
 		</div>
 		</div>
 		

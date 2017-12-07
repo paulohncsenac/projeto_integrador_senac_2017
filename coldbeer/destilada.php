@@ -4,10 +4,12 @@
 	$pdo = Banco::conectar();
 
 ?>
+
+
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title>COLD BEER</title>
+    <title>DESTILADOS</title>
     <meta charset="utf-8">
    	
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.css">
@@ -19,7 +21,6 @@
 	
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
 	<script type="text/javascript" src="js/jssor.slider.min.js"></script>
 	 <script type="text/javascript">
         jQuery(document).ready(function ($) {
@@ -186,9 +187,9 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Destilado <span class="sr-only">(current)</spa></a></li>
+        <li class="active"><a href="#">Destilado <span class="sr-only">(current)</span></a></li>
         <li><a href="refri.html">Refrigerantes</a></li>
-		<li><a href="semalco.html">Não Alcoólicas</a></li>
+		  <li><a href="semalco.html">Não Alcoólicas</a></li>
 		<li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aperetivos<span class="caret"></span></a>
         </li>
@@ -222,28 +223,22 @@
             <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="../svg/loading/static-svg/spin.svg" />
         </div>
         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1300px;height:500px;overflow:hidden;">
-         
+           
             <div>
-                <img data-u="image" src="img/gallery/1300x500/05.jpg" />
-            </div>
-            
-			<div>
-                <img data-u="image" src="img/gallery/1300x500/004.jpg" />
-              
-            </div>
-			
-			<div>
-                <img data-u="image" src="img/gallery/1300x500/black1.jpg" />
-              
-            </div>
-			
-			<div>
                 <img data-u="image" src="img/gallery/1300x500/black2.jpg" />
+            </div>
+            <div>
+                <img data-u="image" src="img/gallery/1300x500/black.jpg" />
+              
+            </div>
+			<div>
+                <img data-u="image" src="img/gallery/1300x500/sminorff.jpg" />
               
             </div>
 			
-			 <div>
-                <img data-u="image" src="img/gallery/1300x500/003.jpg" />
+			<div>
+                <img data-u="image" src="img/gallery/1300x500/red.jpeg"/>
+              
             </div>
 			 
                
@@ -278,12 +273,13 @@
 		</div-->
 		
 
+		
 		<div class="row paddingRow margin-img">
 
 			<?php 
 
 				//Captura as informações para a lista de cerjevas
-                $sqlCervejas = " SELECT * FROM `produto` WHERE `produto`.`Categoria` = 'cerveja'";
+                $sqlCervejas = " SELECT * FROM `produto` WHERE `produto`.`Categoria` = 'destilados'";
                  
                  foreach($pdo->query($sqlCervejas) as $linhaCerveja)
                  {
@@ -372,8 +368,6 @@
 											      <td></td>
 												  <td></td>
 												
-												  
-												 
 											    </tr>
 												
 												<tr class="bg-warning">
@@ -383,15 +377,8 @@
 											     <td></td>
 												 <td></td>
 												 
-												
 											    </tr>
 												
-												
-												
-
-
-
-
 											</tbody></table>
 							        </div>
 
@@ -410,10 +397,9 @@
 			</div>
 			<?php }//Fim da Captura das informações para a lista de cerjevas exibidas no modal junto com as informações adicionais ?>
 
-
-		
 		</div>
-		</div>			
+			
+					
 		</div>
 		</div>
 		
