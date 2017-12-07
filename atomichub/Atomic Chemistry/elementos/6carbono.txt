@@ -1,22 +1,22 @@
 Nome: carbono
 
-Símbolo:C
+Símbolo: C
 
-Número atômico:6
+Número atômico: 6
 
-Massa atômica:12,0107
+Massa atômica: 12,0107
 
-Série química:nao-metal
+Série química: nao-metal
 
 Estado da matéria: sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:3550 K
+Ponto de fusão: 3550K
 
-Ponto de ebulição:4287 K
+Ponto de ebulição: 4287K
 
-Nome em latim:ipsum
+Nome em latim: ipsum
 
 APRESENTAÇÃO
 O carbono (do latim carbo, carvão) é um elemento químico, símbolo C de número atômico 6 (6 prótons e 6 elétrons) com massa atómica 12 u, e sólido a temperatura ambiente. Dependendo das condições de formação pode ser encontrado na natureza em diversas formas alotrópicas, carbono amorfo e cristalino em forma de grafite ou diamante. Pertence ao grupo (ou família) 14 (anteriormente chamada 4A). 

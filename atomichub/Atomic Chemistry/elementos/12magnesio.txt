@@ -1,22 +1,22 @@
-Nome:magnesio
+Nome: magnesio
 
-Símbolo:Mg
+Símbolo: Mg
 
-Número atômico:12
+Número atômico: 12
 
-Massa atômica:23,3050
+Massa atômica: 23,3050
 
-Série química:metal alcalinoterroso
+Série química: metal alcalinoterroso
 
-Estado da matéria:sólido
+Estado da matéria: sólido
 
-Radioativo:não
+Radioativo: não
 
-Ponto de fusão:923K
+Ponto de fusão: 923K
 
-Ponto de ebulição:1363K
+Ponto de ebulição: 1363K
 
-Nome em latim:magnesium
+Nome em latim: magnesium
 
 APRESENTAÇÃO
 De Magnesia, distrito da Thessalia, Grécia onde seus minerais foram primeiramente encontrados. Seus compostos são utilizados desde a antiguidade, mas foi reconhecido como elemento por Joseph Black de Edinburgh, Inglaterra em 1755. Foi isolado por Sir Humphry Davy em 1808, pela destilação do amálgama obtido pela eletrólise de sais de magnésio com eletrodo de mercúrio. É um metal branco, leve e seu pó queima com intensa luz branca. É obtido pela eletrólise do cloreto de magnésio fundido, originado principalmente de salmouras.

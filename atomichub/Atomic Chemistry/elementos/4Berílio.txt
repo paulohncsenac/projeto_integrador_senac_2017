@@ -1,22 +1,22 @@
 Nome: Berílio
 
-Símbolo:Be
+Símbolo: Be
 
-Número atômico:4
+Número atômico: 4
 
-Massa atômica:9,012182
+Massa atômica: 9,012182
 
-Série química:metal alcalinoterroso
+Série química:metal alcalino terroso
+ 
+Estado da matéria: Sólido
 
-Estado da matéria:Sólido
+Radioativo: não
 
-Radioativo:não
+Ponto de fusão: 1560K
 
-Ponto de fusão:1560K
+Ponto de ebulição: 2744K
 
-Ponto de ebulição:2744K
-
-Nome em latim:beryllium
+Nome em latim: beryllium
 
 APRESENTAÇÃO
 De Beryllos, o nome Grego para a pedra semi-preciosa Berilo. Descoberto por N.L. Vauquelin em 1797 no mineral Berilo e foi isolado em 1828 por Friedrich Wohler em Berlin, Alemanha e A.A. Bussy independentemente em Paris, França por ação do potássio metálico sobre o cloreto de berílio. Antigamente era também chamado de 'Glucínio' devido ao sabor adocicado de seus sais, mas é muito tóxico. Obtido atualmente por redução do fluoreto de berílio com magnésio. É um metal cinza claro muito leve e resistente.
