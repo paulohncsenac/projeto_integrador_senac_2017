@@ -289,7 +289,7 @@ footer ul li a:hover{
 
 
 
-body{background-color:#ECF0F1;}
+
 
 .navbar-inverse {
     background-color: #34495E;
@@ -534,3 +534,24 @@ button.accordion.active:after {
     margin-left: 130px;
     margin-top: -10px;
 }
+
+.titilo-03{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.botaotopo1{
+    float: left;
+    margin-left: 600px;
+    margin-bottom: 30px;
+    
+    
+}
+
+.botaotopo2{
+    font-size: 50px;
+    
+    
+}
+

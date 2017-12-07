@@ -1,22 +1,31 @@
+<!-- conectar com o banco antes de tudo-->
+
+<?php
+include 'banco.php';
+$pdo = Banco::conectar();
+?>
 <!DOCTYPE html>
 <html>
-
+ 
+    <!--O HEAD contém tudas as configurações, bibliotecas que serão utilizadas, tudo que será utilizado no site-->
     <head>
         <title>Game Hobby</title>
-        <meta charset="UTF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="final.css" rel="stylesheet"/>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin="anonymous">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" crossorigin="anonymous">
-
-        <!--Scripts-->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        <!--Scripts utilizados no site-->
 
         <script src="js/javascript01.js" crossorigin="anonymous"></script>
         <script src="js/javascript02.js" crossorigin="anonymous"></script> 
         <script src="js/javascript03.js" crossorigin="anonymous"></script> 
+        <script src="js/jquery.anchorScroll.min.js.js" crossorigin="anonymous"></script> 
         <script>
-            $(document).ready(function(){
-            $('[data-toggle="tooltip"]').tooltip(); 
+            $(document).ready(function () {
+                $('[data-toggle="tooltip"]').tooltip();
             });
 
 
@@ -27,68 +36,73 @@
             var i;
 
             for (i = 0; i < acc.length; i++) {
-            acc[i].onclick = function() {
-            this.classList.toggle("active");
-            var panel = this.nextElementSibling;
-            if (panel.style.maxHeight){
-            panel.style.maxHeight = null;
-            } else {
-            panel.style.maxHeight = panel.scrollHeight + "px";
-            } 
-            }
+                acc[i].onclick = function () {
+                    this.classList.toggle("active");
+                    var panel = this.nextElementSibling;
+                    if (panel.style.maxHeight) {
+                        panel.style.maxHeight = null;
+                    } else {
+                        panel.style.maxHeight = panel.scrollHeight + "px";
+                    }
+                }
             }
         </script>
 
     </head>
 
     <body>
+        
+        <!--script do slide-->
+        
         <script type="text/javascript" src="js/jssor.slider.min.js"></script>
 
         <script type="text/javascript">
-            jssor_1_slider_init = function() {
-            var jssor_1_SlideoTransitions = [
-            [{b:-1,d:1,o:-0.7}],
-            [{b:900,d:2000,x:-379,e:{x:7}}],
-            [{b:900,d:2000,x:-379,e:{x:7}}],
-            [{b:-1,d:1,o:-1,sX:2,sY:2},{b:0,d:900,x:-171,y:-341,o:1,sX:-2,sY:-2,e:{x:3,y:3,sX:3,sY:3}},{b:900,d:1600,x:-283,o:-1,e:{x:16}}]
-            ];
-            var jssor_1_options = {
-            $AutoPlay: 1,
-            $SlideDuration: 800,
-            $SlideEasing: $Jease$.$OutQuint,
-            $CaptionSliderOptions: {
-            $Class: $JssorCaptionSlideo$,
-            $Transitions: jssor_1_SlideoTransitions
-            },
-            $ArrowNavigatorOptions: {
-            $Class: $JssorArrowNavigator$
-            },
-            $BulletNavigatorOptions: {
-            $Class: $JssorBulletNavigator$
-            }
-            };
-            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
-            /*#region responsive code begin*/
-            var MAX_WIDTH = 3000;
-            function ScaleSlider() {
-            var containerElement = jssor_1_slider.$Elmt.parentNode;
-            var containerWidth = containerElement.clientWidth;
-            if (containerWidth) {
-            var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
-            jssor_1_slider.$ScaleWidth(expectedWidth);
-            }
-            else {
-            window.setTimeout(ScaleSlider, 30);
-            }
-            }
-            ScaleSlider();
-            $Jssor$.$AddEvent(window, "load", ScaleSlider);
-            $Jssor$.$AddEvent(window, "resize", ScaleSlider);
-            $Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
-            /*#endregion responsive code end*/
+            jssor_1_slider_init = function () {
+                var jssor_1_SlideoTransitions = [
+                    [{b: -1, d: 1, o: -0.7}],
+                    [{b: 900, d: 2000, x: -379, e: {x: 7}}],
+                    [{b: 900, d: 2000, x: -379, e: {x: 7}}],
+                    [{b: -1, d: 1, o: -1, sX: 2, sY: 2}, {b: 0, d: 900, x: -171, y: -341, o: 1, sX: -2, sY: -2, e: {x: 3, y: 3, sX: 3, sY: 3}}, {b: 900, d: 1600, x: -283, o: -1, e: {x: 16}}]
+                ];
+                var jssor_1_options = {
+                    $AutoPlay: 1,
+                    $SlideDuration: 800,
+                    $SlideEasing: $Jease$.$OutQuint,
+                    $CaptionSliderOptions: {
+                        $Class: $JssorCaptionSlideo$,
+                        $Transitions: jssor_1_SlideoTransitions
+                    },
+                    $ArrowNavigatorOptions: {
+                        $Class: $JssorArrowNavigator$
+                    },
+                    $BulletNavigatorOptions: {
+                        $Class: $JssorBulletNavigator$
+                    }
+                };
+                var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+                /*#region responsive code begin*/
+                var MAX_WIDTH = 3000;
+                function ScaleSlider() {
+                    var containerElement = jssor_1_slider.$Elmt.parentNode;
+                    var containerWidth = containerElement.clientWidth;
+                    if (containerWidth) {
+                        var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
+                        jssor_1_slider.$ScaleWidth(expectedWidth);
+                    } else {
+                        window.setTimeout(ScaleSlider, 30);
+                    }
+                }
+                ScaleSlider();
+                $Jssor$.$AddEvent(window, "load", ScaleSlider);
+                $Jssor$.$AddEvent(window, "resize", ScaleSlider);
+                $Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
+                /*#endregion responsive code end*/
             };
         </script>
+        
 
+        <!-- Stylo do slide (css)-->
+        
         <style>
             /* jssor slider loading skin spin css */
             .jssorl-009-spin img {
@@ -118,27 +132,24 @@
             .jssora051.jssora051ds {opacity:.3;pointer-events:none;}
         </style>
 
-        <div class="container">
+        <div id="toposite" class="container">
 
             <div class="row">
 
                 <div class="col-xs-2  col-md-1 col-md-offset-10 col-xs-offset-6">
 
-                    <div class="textoTopo"><a href="telaCadastro.html" >Login</a></div>
+                    <div class="textoTopo"><a href="telaLogin.html">Login</a></div>
 
                 </div>
 
-                <div class="col-xs-2  col-md-1">
 
-                    <div class="textoTopo"><a href="telaLogin.html">Cadastrar</a></div>
-
-                </div>
 
             </div>
 
         </div>
 
 
+        <!-- cabeçalho do site -->
 
         <header>
             <div class="titulo-1">
@@ -146,6 +157,7 @@
             </div>
         </header>
 
+            <!-- NavBar (barra de pesquisa) -->
 
 
         <div class="row">
@@ -172,27 +184,22 @@
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav">
-                                <li><a href="#">Ultimas Noticias<span class="sr-only">(current)</span></a></li>
-                                <li><a href="#">Lançamentos</a></li>
+                                <li><a href="#escolhaopçao" class="anchor-scroll" data-class-to="#escolhaopçao" data-scroll-end="bounce">Lançamentos</a></li>
+                                <li><a href="#ultimanoticia" class="anchor-scroll" data-class-to="#ultimanoticia" data-scroll-end="bounce">Ultimas Noticias<span class="sr-only">(current)</span></a></li>
+
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Jogos<span class="caret"></span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="#">PS4</a></li>
-                                        <li><a href="#">XBOX ONE</a></li>
-                                        <li><a href="#">PC</a></li>
+                                        <li><a href="https://www.google.com.br/">PS4</a></li>
+                                        <li><a href="https://www.google.com.br/">XBOX ONE</a></li>
+                                        <li><a href="https://www.google.com.br/">PC</a></li>
 
                                     </ul>
                                 </li>
                             </ul>
-                            <form class="navbar-form navbar-left">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="Search">
-                                </div>
-                                <button type="submit" class="btn btn-default">Submit</button>
-                            </form>
+
                             <ul class="nav navbar-nav navbar-right">
-                                <li><a href="#">Contato</a></li>
-                                <li><a href="#">Sobre nós</a></li>
+                                <li><a href="#fh5co-footer" class="anchor-scroll" data-class-to="#fh5co-footer" data-scroll-end="bounce">Contato</a></li>
                             </ul>
                         </div><!-- /.navbar-collapse -->
                     </div><!-- /.container-fluid -->
@@ -202,7 +209,7 @@
 
         </div>
 
-        <!-- make a div with 100% width, place jssor slider in the div -->
+        <!--Estrutura do slide -->
 
 
         <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:1300px;height:500px;overflow:hidden;visibility:hidden;">
@@ -228,7 +235,9 @@
                 </div>
 
             </div>
-            <!-- Bullet Navigator -->
+
+
+            
             <div data-u="navigator" class="jssorb032" style="position:absolute;bottom:12px;right:12px;" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
                 <div data-u="prototype" class="i" style="width:16px;height:16px;">
                     <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
@@ -251,19 +260,28 @@
 
 
         <script type="text/javascript">jssor_1_slider_init();</script>
-        <!-- #endregion Jssor Slider End -->
+        
+        <!-- FIM DA ESTRUTURA SLIDE-->
 
         <br>
         <br>
+
+        <div id="escolhaopçao" class="titilo-03">Escolha uma opção</div>
+
+        <br>
+        <br>
+
+        
+        <!-- IMAGENS -->
 
         <div class="container visible-md visible-lg">
             <div class="row" >
                 <div class="col-md-6">
-                    <img id="imagem1" src="xbox1.jpg" alt="..." class="img-responsive">
+                    <img href="https://www.google.com.br/" id="imagem1" src="xbox1.jpg" alt="..." class="img-responsive">
 
                 </div>
                 <div class="col-md-6">
-                    <img id="imagem2" src="ps4-1.jpg" alt="..." class="img-responsive">
+                    <img href="https://www.google.com.br/" id="imagem2" src="ps4-1.jpg" alt="..." class="img-responsive">
 
                 </div>
             </div>  
@@ -272,7 +290,7 @@
         <div class="container visible-xs visible-sm">
             <div class="row" >
                 <div class="col-xs-12 col-sm-12">
-                    <img id="imagem1" src="xbox1.jpg" alt="..." class="img-responsive">
+                    <img href="https://www.google.com.br/" id="imagem1" src="xbox1.jpg" alt="..." class="img-responsive">
 
                 </div>
 
@@ -284,7 +302,7 @@
             <div class="row" >
 
                 <div class="col-xs-12 col-sm-12">
-                    <img id="imagem2" src="ps4-1.jpg" alt="..." class="img-responsive">
+                    <img href="https://www.google.com.br/" id="imagem2" src="ps4-1.jpg" alt="..." class="img-responsive">
 
                 </div>
             </div>  
@@ -296,7 +314,7 @@
             <div class="row" >
 
                 <div class="col-md-12">
-                    <img id="imagem3" src="pROJETO.png" alt="..." class="img-responsive">
+                    <img href="https://www.google.com.br/" id="imagem3" src="pROJETO.png" alt="..." class="img-responsive">
 
                 </div>
             </div>
@@ -305,285 +323,125 @@
         <br>
         <br>
 
+        <div id="ultimanoticia" class="titilo-03">Ultimas Noticias</div>
+
+        <!-- NOTICIAS TOPICOS -->
+        
         <section id="blog-section" >
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="row">
-                            <div class="col-lg-6 col-md-6">
-                                <aside>
-                                    <img src="https://s.aficionados.com.br/imagens/death-stranding.jpg" class="img-responsive">
-                                    <div class="content-title">
-                                        <div class="text-center">
-                                            <h3><a href="#">
-                                                
-                                                <?php
-                                                
-                                                    $str = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum mi in efficitur tempor. Aliquam dui est, pellentesque quis ultrices sit amet, efficitur in dui. In hac habitasse platea dictumst. Morbi mi ex, pellentesque a ante quis, lobortis feugiat diam. Etiam neque sem, fringilla id velit tempus, pretium malesuada justo. Proin vel dignissim neque. Mauris augue nisi, ornare non dolor sed, tincidunt porta purus. Aliquam consectetur imperdiet tellus, eget cursus.";
-
-                                                    if (strlen($str) > 100){
-
-                                                        $str = substr($str, 0, 100) . '...';
-                                                    }
-
-                                                    echo $str .'<a>Leia Mais</a>';
-                                            
-                                                ?>
-                                                
-                                                </a></h3>
-                                        </div>
-                                    </div>
-                                    <div class="content-footer">
-                                        <img class="user-small-img" src="">
-                                        <span style="font-size: 16px;color: #fff;">João Alves</span>
-                                        <span class="pull-right">
-                                            <a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
-                                            <a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
-                                        </span>
-                                        <div class="user-ditels">
-                                            <div class="user-img"><img src="" class="img-responsive"></div>
-                                            <span class="user-full-ditels">
-                                                <h3>João Victor Alves</h3>
-                                                <p>Programador web</p>
-                                            </span>
-                                            <div class="social-icon">
-                                                <a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
-                                                <a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
-                                                <a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
-                                                <a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
-                                                <a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
-                                            </div>
-                                        </div>
-                                    </div>
-                                </aside>
-                            </div>
-
-                            <div class="col-lg-6 col-md-6">
-                                <aside>
-                                    <img src="https://s.aficionados.com.br/imagens/god-of-war-4.jpg" class="img-responsive">
-                                    <div class="content-title">
-                                        <div class="text-center">
-                                            <h3><a href="#"><?php
-                                                
-                                                    $str = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum mi in efficitur tempor. Aliquam dui est, pellentesque quis ultrices sit amet, efficitur in dui. In hac habitasse platea dictumst. Morbi mi ex, pellentesque a ante quis, lobortis feugiat diam. Etiam neque sem, fringilla id velit tempus, pretium malesuada justo. Proin vel dignissim neque. Mauris augue nisi, ornare non dolor sed, tincidunt porta purus. Aliquam consectetur imperdiet tellus, eget cursus.";
-
-                                                    if (strlen($str) > 100){
-
-                                                        $str = substr($str, 0, 100) . '...';
-                                                    }
-
-                                                    echo $str .'<a>Leia Mais</a>';
-                                            
-                                                ?></a></h3>
-                                        </div>
-                                    </div>
-                                    <div class="content-footer">
-                                        <img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
-                                        <span style="font-size: 16px;color: #fff;">Rafazel Dezena</span>
-                                        <span class="pull-right">
-                                            <a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
-                                            <a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
-                                        </span>
-                                        <div class="user-ditels">
-                                            <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
-                                            <span class="user-full-ditels">
-                                                <h3>Rafazel Dezena</h3>
-                                                <p>Programador web</p>
-                                            </span>
-                                            <div class="social-icon">
-                                                <a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
-                                                <a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
-                                                <a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
-                                                <a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
-                                                <a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
-                                            </div>
-                                        </div>
-                                    </div>
-                                </aside>
-                            </div>       
-
-                            <div class="col-lg-6 col-md-6">
-                                <aside>
-                                    <img src="https://s.aficionados.com.br/imagens/quake-champions.jpg" class="img-responsive">
-                                    <div class="content-title">
-                                        <div class="text-center">
-                                            <h3><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum mi in efficitur tempor. Aliquam dui est, pellentesque quis ultrices sit amet, efficitur in dui. In hac habitasse platea dictumst. Morbi mi ex, pellentesque a ante quis, lobortis feugiat diam. Etiam neque sem, fringilla id velit tempus, pretium malesuada justo. Proin vel dignissim neque. Mauris augue nisi, ornare non dolor sed, tincidunt porta purus. Aliquam consectetur imperdiet tellus, eget cursus.</a></h3>
-                                        </div>
-                                    </div>
-                                    <div class="content-footer">
-                                        <img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
-                                        <span style="font-size: 16px;color: #fff;">Luan Hunter</span>
-                                        <span class="pull-right">
-                                            <a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
-                                            <a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
-                                        </span>
-                                        <div class="user-ditels">
-                                            <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
-                                            <span class="user-full-ditels">
-                                                <h3>Luan Hunter</h3>
-                                                <p>Programador web</p>
-                                            </span>
-                                            <div class="social-icon">
-                                                <a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
-                                                <a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
-                                                <a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
-                                                <a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
-                                                <a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
-                                            </div>
-                                        </div>
-                                    </div>
-                                </aside>
-                            </div>       
-
-                            <div class="col-lg-6 col-md-6">
-                                <aside>
-                                    <img src="https://s.aficionados.com.br/imagens/metal-gear-survive.jpg" class="img-responsive">
-                                    <div class="content-title">
-                                        <div class="text-center">
-                                            <h3><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum mi in efficitur tempor. Aliquam dui est, pellentesque quis ultrices sit amet, efficitur in dui. In hac habitasse platea dictumst. Morbi mi ex, pellentesque a ante quis, lobortis feugiat diam. Etiam neque sem, fringilla id velit tempus, pretium malesuada justo. Proin vel dignissim neque. Mauris augue nisi, ornare non dolor sed, tincidunt porta purus. Aliquam consectetur imperdiet tellus, eget cursus.</a></h3>
-                                        </div>
-                                    </div>
-                                    <div class="content-footer">
-                                        <img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
-                                        <span style="font-size: 16px;color: #fff;">João Victor Alves</span>
-                                        <span class="pull-right">
-                                            <a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
-                                            <a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
-                                        </span>
-                                        <div class="user-ditels">
-                                            <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
-                                            <span class="user-full-ditels">
-                                                <h3>João Alves</h3>
-                                                <p>Programador web</p>
-                                            </span>
-                                            <div class="social-icon">
-                                                <a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
-                                                <a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
-                                                <a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
-                                                <a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
-                                                <a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
-                                            </div>
-                                        </div>
-                                    </div>
-                                </aside>
-                                
-                            </div>       
-
-                            <div class="col-lg-6 col-md-6">
-                                <aside>
-                                    <img src="https://s.aficionados.com.br/imagens/resident-evil-biohazard.jpg" class="img-responsive">
-                                    <div class="content-title">
-                                        <div class="text-center">
-                                            <h3><a href="#"><p>Resident Evil 7: Biohazard</p> Biohazard afasta-se dos erros cometidos com o último game da franquia e volta àquilo que tornou a saga Resident Evil tão marcante: terror de sobrevivência. Menos armas e mais suspense, o jogo volta a se focar na vertente psicológica do terror.</a></h3>
-                                        </div>
-                                    </div>
-                                    <div class="content-footer">
-                                        <img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
-                                        <span style="font-size: 16px;color: #fff;">Luan Hunter</span>
-                                        <span class="pull-right">
-                                            <a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
-                                            <a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
-                                        </span>
-                                        <div class="user-ditels">
-                                            <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
-                                            <span class="user-full-ditels">
-                                                <h3>Luan Hunter</h3>
-                                                <p>Programador web</p>
-                                            </span>
-                                            <div class="social-icon">
-                                                <a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
-                                                <a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
-                                                <a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
-                                                <a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
-                                                <a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
-                                            </div>
-                                        </div>
-                                    </div>
-                                </aside>
-                            </div>       
-
-                            <div class="col-lg-6 col-md-6">
-                                <aside>
-                                    <img src="https://s.aficionados.com.br/imagens/horizon-zero-dawn.jpg" class="img-responsive">
-                                    <div class="content-title">
-                                        <div class="text-center">
-                                            <h3><a href="#"><p>Horizon Zero Dawn</p> Um dos jogos mais aguardados dos últimos anos, Horizon Zero Down é um exclusivo do PlayStation. RPG de mundo aberto e com influência de Skyrim e Assassin’s Creed, o jogo passa-se 1000 anos no futuro com criaturas robôticas dominando o planeta.</a></h3>
-                                        </div>
-                                    </div>
-                                    <div class="content-footer">
-                                        <img class="user-small-img" src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg">
-                                        <span style="font-size: 16px;color: #fff;">Rafael Dezena</span>
-                                        <span class="pull-right">
-                                            <a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
-                                            <a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
-                                        </span>
-                                        <div class="user-ditels">
-                                            <div class="user-img"><img src="https://lh3.googleusercontent.com/-uwagl9sPHag/WM7WQa00ynI/AAAAAAAADtA/hio87ZnTpakcchDXNrKc_wlkHEcpH6vMwCJoC/w140-h148-p-rw/profile-pic.jpg" class="img-responsive"></div>
-                                            <span class="user-full-ditels">
-                                                <h3>Rafael Dezena</h3>
-                                                <p>Programador web</p>
-                                            </span>
-                                            <div class="social-icon">
-                                                <a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
-                                                <a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
-                                                <a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
-                                                <a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
-                                                <a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
-                                            </div>
-                                        </div>
-                                    </div>
-                                </aside>
-                            </div>       
-
+   
+                            <!--Conectado no banco busca os devidos campos determinados para serem preenchidos-->
                             
+                            <?php
+                            $sqlNoticias = " SELECT * FROM `noticias`";
 
-                   
+
+                            foreach ($pdo->query($sqlNoticias) as $atributoNoticias) {
+                                ?>
+                                <div class="col-lg-6 col-md-6">
+
+                                    <aside>
+                                        <img src="<?php echo $atributoNoticias['caminho_imagem']; ?>" class="img-responsive">
+                                        <div class="content-title">
+                                            <div class="text-center">
+                                                <h3><?php echo $atributoNoticias['titulo']; ?></h3>
+                                                <h4><a href="#">
+
+                                                        <?php
+                                                        $str = utf8_encode($atributoNoticias['corpo']);
+
+                                                        if (strlen($str) > 80) {
+
+
+                                                            $str = substr($str, 0, 80) . '...';
+                                                        }
+
+                                                        echo $str . '<a>Leia Mais</a>';
+                                                        ?>
+
+                                                    </a></h4>
+                                            </div>
+                                        </div>
+                                        <div class="content-footer">
+                                            <img class="user-small-img" src="">
+                                            <span style="font-size: 16px;color: #fff;"><?php echo utf8_encode($atributoNoticias['nome_autor']); ?> </span>
+                                            <span class="pull-right">
+                                                <a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
+                                                <a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
+                                            </span>
+                                            <div class="user-ditels">
+                                                <div class="user-img"><img src="" class="img-responsive"></div>
+                                                <span class="user-full-ditels">
+                                                    <h3>João Victor Alves</h3>
+                                                    <p>Programador web</p>
+                                                </span>
+                                                <div class="social-icon">
+                                                    <a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
+                                                    <a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
+                                                    <a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
+                                                    <a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
+                                                    <a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>				
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <!-- FIM DA ESTRUTURA DE POSTAGENS-->
+                                        
+                                    </aside>
+                                </div>
+                            <?php } ?>
+                            
+                            <!--FECHA O PHP-->
+
+
                         </div>
                     </div>
 
-                    <!--           // RECENT POST===========-->
+                    <!--// RECENT POST===========-->
+                    
                     <div class="col-lg-4">           
                         <div class="widget-sidebar">
-                            <h2 class="title-widget-sidebar">// RECENT POST</h2>
+                            <h2 class="title-widget-sidebar">// Lista de Post</h2>
                             <div class="content-widget-sidebar">
-                                <ul>
-                                    <li class="recent-post">
-                                        <div class="post-img">
-                                            <img src="https://lh3.googleusercontent.com/-ndZJOGgvYQ4/WM1ZI8dH86I/AAAAAAAADeo/l67ZqZnRUO8QXIQi38bEXuxqHfVX0TV2gCJoC/w424-h318-n-rw/thumbnail8.jpg" class="img-responsive">
-                                        </div>
-                                        <a href="#"><h5>Excepteur sint occaecat cupi non proident laborum.</h5></a>
-                                        <p><small><i class="fa fa-calendar" data-original-title="" title=""></i> 30 Juni 2014</small></p>
-                                    </li>
-                                    <hr>
-
-                                    <li class="recent-post">
-                                        <div class="post-img">
-                                            <img src="https://lh3.googleusercontent.com/-ojLI116-Mxk/WM1ZIwdnuwI/AAAAAAAADeo/4K6VpwIPSfgsmlXJB5o0N8scuI3iW4OpwCJoC/w424-h318-n-rw/thumbnail6.jpg" class="img-responsive">
-                                        </div>
-                                        <a href="#"><h5>Excepteur sint occaecat cupi non proident laborum.</h5></a>
-                                        <p><small><i class="fa fa-calendar" data-original-title="" title=""></i> 30 Juni 2014</small></p>
-                                    </li>
-                                    <hr>
-
-                                    <li class="recent-post">
-                                        <div class="post-img">
-                                            <img src="https://lh3.googleusercontent.com/-TrK1csbtHRs/WM1ZI1SIUNI/AAAAAAAADeo/OkiUjuad6skWl9ugxbiIA_436OwsWKBNgCJoC/w424-h318-n-rw/thumbnail3.jpg" class="img-responsive">
-                                        </div>
-                                        <a href="#"><h5>Excepteur sint occaecat cupi non proident laborum.</h5></a>
-                                        <p><small><i class="fa fa-calendar" data-original-title="" title=""></i> 30 Juni 2014</small></p>
-                                    </li>
-                                    <hr>
-
-                                    <li class="recent-post">
-                                        <div class="post-img">
-                                            <img src="https://lh3.googleusercontent.com/-UKfIhJSBW9M/WM1ZI8ou34I/AAAAAAAADeo/vlLGY29147AYLaxUW29ZXJlun115BhkhgCJoC/w424-h318-n-rw/thumbnail7.jpg" class="img-responsive">
-                                        </div>
-                                        <a href="#"><h5>Excepteur sint occaecat cupi non proident laborum.</h5></a>
-                                        <p><small><i class="fa fa-calendar" data-original-title="" title=""></i> 30 Juni 2014</small></p>
-                                    </li>
+                                
+                                <!--CONECTADO COM O BANCO ELE FAZ UM SELECT PARA BUSCAR AS 
+                                     DEMAIS INFORMAÇÕES REGISTRADAS NO BANCO-->
+                                
+                                <?php
+                                $sqlNoticias = " SELECT * FROM `noticias`";
 
 
-                                </ul>
+                                foreach ($pdo->query($sqlNoticias) as $atributoNoticias) {
+                                    ?>
+                                    <ul>
+                                        <li class="recent-post">
+                                            <div class="post-img">
+                                                <img src="<?php echo $atributoNoticias['caminho_imagem']; ?>" class="img-responsive">
+                                            </div>
+                                            <a href="#"><h5><?php echo $atributoNoticias['titulo']; ?></h5></a>
+                                            <p><small><i class="fa fa-calendar" data-original-title="" title=""></i><?php echo $atributoNoticias['criado_em']; ?></small></p>
+                                        </li>
+                                        <hr>
+                                        <?php
+                                        $str = utf8_encode($atributoNoticias['corpo']);
+                                        
+                                        //DEFINE A QUANTIDADE DE CARACTERES QUE SERAO EXIBIDOS
+                                        
+                                        if (strlen($str) > 80) {
+
+
+                                            $str = substr($str, 0, 80) . '...';
+                                        }
+                                        
+                                        //RETORNA AS AÇÕES + O TEXTO "LEIA MAIS"
+                                        
+                                        echo $str . '<a>Leia Mais</a>';
+                                        ?>
+                                    </ul>
+                                <?php } ?>
                             </div>
                         </div>
 
@@ -594,47 +452,80 @@
 
         </section>
 
+        <br>
+        <br>
 
+        
+        <!--BOTÃO PARA VOLTAR AO TOPO DO SITE-->
+        
+        
+        <a href="#toposite" class="anchor-scroll botaotopo1" data-class-to="#toposite" data-scroll-end="bounce"><button type="button" class="btn btn-default" aria-label="Left Align">
+                <span class="glyphicon glyphicon-upload botaotopo2 " aria-hidden="true"></span>
+            </button></a>
+
+
+        <!-- ESTRUTURA DO FOOTER(RODAPÉ)-->
+        
         <footer id="fh5co-footer" class="fh5co-bg" role="contentinfo">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row row-pb-md">
                     <div class="col-md-4 fh5co-widget">
-                        <h3>A Little About Stamina.</h3>
-                        <p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
-                        <p><a class="btn btn-primary" href="#">Become A Member</a></p>
+                        <h3>Game Hobby</h3>
+                        <p>Web site especializado em games, tendo sempre atualizações sobre os lançamentos de demais variados estilos de jogos e todas as plataformas(PS4,XBOX,PC).</p>
+                        <p><a class="btn btn-primary" href="#">Entre em contato</a></p>
                     </div>
                     <div class="col-md-8">
-                        <h3>Classes</h3>
+                        <h3>Informações gerais</h3>
                         <div class="col-md-4 col-sm-4 col-xs-6">
                             <ul class="fh5co-footer-links">
-                                <li><a href="#">Cardio</a></li>
-                                <li><a href="#">Body Building</a></li>
-                                <li><a href="#">Yoga</a></li>
-                                <li><a href="#">Boxing</a></li>
-                                <li><a href="#">Running</a></li>
+                                <br>
+                                <li><a href="#">PS4</a></li>
+                                <li><a href="#">XBOX ONE</a></li>
+                                <li><a href="#">PC</a></li>
+                                
                             </ul>
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-6">
+                            
                             <ul class="fh5co-footer-links">
-                                <li><a href="#">Boxing</a></li>
-                                <li><a href="#">Martial Arts</a></li>
-                                <li><a href="#">Karate</a></li>
-                                <li><a href="#">Kungfu</a></li>
-                                <li><a href="#">Basketball</a></li>
+                                <li><a href="#">CONTATO:</a></li>
+                                <br>
+                                <li><a href="#">Tel:0800 000-000-00</a></li>
+                                <li><a href="#">Whatsapp:</a></li>
+                                <li><a href="#">(00)000000000</a></li>
+
                             </ul>
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-6">
-                            <ul class="fh5co-footer-links">
-                                <li><a href="#">Badminton</a></li>
-                                <li><a href="#">Body Building</a></li>
-                                <li><a href="#">Teams</a></li>
-                                <li><a href="#">Advertise</a></li>
-                                <li><a href="#">API</a></li>
-                            </ul>
+                            <a href="https://www.google.com/" class="link icon-align">
+                                        <span class="fa fa-facebook-official" aria-hidden="true"></span> 
+                                        <span class="text">/gamehobby</span>
+                                    </a>
                         </div>
+                        <br>
+                        
+                        <div class="col-md-4 col-sm-4 col-xs-6">
+                            <a href="https://www.instagram.com/?hl=pt-br" class="link icon-align">
+                                        <span class="fa fa-instagram" aria-hidden="true"></span> 
+                                        <span class="text">/gamehobbyofficial</span>
+                                    </a>
+                        </div>
+                        <br>
+                     
+                        <div class="col-md-4 col-sm-4 col-xs-6">
+                            <a href="https://outlook.live.com/owa/" class="link icon-align">
+                                        <span class="fa fa-envelope" aria-hidden="true"></span> 
+                                        <span class="text">gamehobby@mail.com</span>
+                                    </a>
+                        </div>
+                        
+                        
+                        
+                        
+                        
                     </div>
                 </div>
 
@@ -650,6 +541,8 @@
             </div>
         </footer>
 
+        
+        <!-- FIM DO RODAPÉ-->
 
 
 

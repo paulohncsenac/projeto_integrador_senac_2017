@@ -1,67 +1,226 @@
-<!doctype html>
-<!--iniciando um documento HTML-->
-<html lang="pt-Br">
-    <meta charset="UTF-8">
-    <!--Definindo a lingua do meu documento-->
-
+<html lang="en" class="">
     <head>
-        <!--Conteúdos e links relacionados a Css Js e Meta Tags-->
-        <style>
+       
+        <meta charset="UTF-8">
+        <meta name="robots" content="noindex">
+        <link rel="shortcut icon" type="image/x-icon" href="//production-assets.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico">
+        <link rel="mask-icon" type="" href="//production-assets.codepen.io/assets/favicon/logo-pin-f2d2b6d2c61838f7e76325261b7195c27224080bc099486ddd6dccb469b8e8e6.svg" color="#111">
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.3.26/theme-default.min.css" type="text/css"/>
+        <link rel="canonical" href="https://codepen.io/joaoalvessenac/pen/BmEdQo?limit=all&amp;page=4&amp;q=register">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" >
+         <script src="https://code.jquery.com/jquery-3.1.1.min.js" ></script>
+       <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.3.26/jquery.form-validator.min.js"></script>
+        <script src="//production-assets.codepen.io/assets/editor/live/console_runner-079c09a0e3b9ff743e39ee2d5637b9216b3545af0de366d4b9aad9dc87e26bfd.js"></script><script src="//production-assets.codepen.io/assets/editor/live/events_runner-73716630c22bbc8cff4bd0f07b135f00a0bdc5d14629260c3ec49e5606f98fdd.js"></script>
+        <script src="//production-assets.codepen.io/assets/editor/live/css_live_reload_init-2c0dc5167d60a5af3ee189d570b1835129687ea2a61bee3513dee3a50c115a77.js"></script>
+        
+        <style class="cp-pen-styles">@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700");
+            * {
+                padding: 0;
+                margin: 0;
+                font-family: 'Open Sans', 'Roboto', 'Arial';
+                outline-width: 0;
+            }
 
-            .error{
-                color: red!important;
+            #container {
+                width: 400px;
+                margin: 40px auto;
+                background: #3498db;
+                box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            }
 
-            </style>
+            ul {
+                display: flex;
+            }
+            ul.tabs {
+                margin: 0;
+                padding: 0;
+                list-style: none;
+                border-radius: 5px 5px 0 0;
+            }
+            ul.tabs li {
+                background: transparent;
+                color: #fff;
+                display: inline-block;
+                padding: 10px 0;
+                cursor: pointer;
+                flex: 1;
+                text-align: center;
+                font-weight: 600;
+            }
+            ul.tabs li.current {
+                background: #fff;
+                color: #444;
+            }
 
-            <title>Cadastro</title> 
-            <!-- Required meta tags -->
-            <meta charset="utf-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+            .tab-content {
+                display: none;
+                padding: 15px;
+            }
+            .tab-content.current {
+                display: inherit;
+                background: #fff;
+            }
 
-            <!-- Bootstrap CSS -->
-            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin="anonymous">
+            input[type=text], input[type=password], input[type=email] {
+                background: #f1f1f1;
+                width: 100%;
+                padding: 15px 0;
+                margin-bottom: 10px;
+                border: none;
+                text-indent: 60px;
+            }
 
-            <style>
+            input[type=password] {
+                margin-bottom: 0;
+            }
 
-            </style>
+            input[type=submit] {
+                background: #3498db;
+                border: none;
+                padding: 10px 0;
+                text-align: center;
+                width: 100%;
+                color: #fff;
+                font-weight: 700;
+                cursor: pointer;
+                transition: 0.3s ease;
+                -webkit-transition: 0.3s ease;
+                -moz-transition: 0.3s ease;
+                -ms-transition: 0.3s ease;
+            }
+            input[type=submit]:hover {
+                background: #2980b9;
+            }
 
-            <link rel="stylesheet" href="css/jquery-ui.min.css">
+            .input-icon {
+                position: absolute;
+                margin-top: 17px;
+                margin-left: 17px;
+            }
+            .input-icon:after {
+                content: "";
+                display: block;
+                height: 49px;
+                width: 1px;
+                background: #ddd;
+                position: absolute;
+                margin-top: -33px;
+                left: 30px;
+            }
 
-        </head>
+            .btn-container {
+                margin-top: 10px;
+            }
 
+            .btn-icon {
+                position: absolute;
+            }
 
-        <body>
-            <div class="container">
-                <h1>Cadastre-se</h1>
+            /* You don't really need these */
+            body {
+                background: #eee;
+            }
 
-                <form id="validacao">
+            .new {
+                text-align: center;
+            }
+            .new p {
+                color: #aaa;
+            }
+            .new p a {
+                text-decoration: none;
+                font-weight: 700;
+                color: #999;
+                box-shadow: inset 0 -2px 0 transparent;
+            }
+            .new p a:hover {
+                box-shadow: inset 0 -2px 0 #999;
+            }
+        </style></head><body>
+        <!-- Need jquery for this, not standard Javascript -->
 
-                    <div class="form-group">
-                        <label for="exampleInputEmail1">Endereço de e-mail</label>
-                        <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" placeholder="Digite um e-mail">
-                        <small id="emailHelp" class="form-text text-muted"></small>
+        <div id="container">
+
+            <ul class="tabs">
+                <li class="tab-link current" data-tab="tab-1">Login</li>
+                <li class="tab-link" data-tab="tab-2">Register</li>
+            </ul>
+
+            <div id="tab-1" class="login tab-content current">
+
+                <form id="loginForm" method="POST" action="login.php">
+                    <div class="form-section">
+                        <span class="fa fa-user-o input-icon"></span>
+                        <input type="text" name="email" placeholder="E-mail">
                     </div>
+                    <div class="form-section">
+                        <span class="fa fa-unlock-alt input-icon"></span>
+                        <input type="password" name="senha" placeholder="Password" data-validation-length="4-8" 
+		 data-validation-error-msg="A senha deve ter no minimo 4 caracteres">
+                    </div>
+                    <div class="form-section btn-container">
+                        <input id="botao1" type="submit" value="Login" name="logar">
+                    </div>
+                </form>
 
-                    <div class="form-group">
-                        <label for="exampleInputPassword1">Senha</label>
-                        <input type="password" class="form-control" id="senha" name="senha" placeholder="Digite uma senha">
-                        <br>
-                        <div class="form-group">
-                            <label for="exampleInputPassword1">Confirmar Senha</label>
-                            <input type="password" class="form-control" id="senha1" name="senha1" placeholder="Digite a senha criada">
-                            <br>
-                            <button type="submit" class="btn btn-primary">Cadastrar</button>
+            </div>
+            <div id="tab-2" class="register tab-content">
+                <form action="register.php" method="POST">
+                    <div class="form-section">
+                        <span class="fa fa-user-o input-icon"></span>
+                        <input type="text" name="nome" placeholder="Username" data-validation-length="6-12" 
+		 data-validation-error-msg="O nome de usuario deve ter no minimo 6 caracteres">
+                    </div>
+                    <div class="form-section">
+                        <span class="fa fa-envelope-o input-icon"></span>
+                        <input type="email" name="email" placeholder="Email" class="email" data-validation="email" data-validation-length="3-12" 
+		 data-validation-error-msg="Porfavor forneça um email validol">
+                    </div>
+                    <div class="form-section">
+                        <span class="fa fa-unlock-alt input-icon"></span>
+                        <input type="password" name="senha" placeholder="Password" data-validation-length="6-12" 
+		 data-validation-error-msg="O nome de usuario deve ter no minimo 6 caracteres">
+                    </div>
+                    <div class="form-section btn-container">
+                        <input type="submit" value="Register" name="cadastrar">
+                    </div>
+                </form>
+            </div>
+
+        </div>
 
 
-                        </div>
 
+        <script src="//production-assets.codepen.io/assets/common/stopExecutionOnTimeout-b2a7b3fe212eaa732349046d8416e00a9dec26eb7fd347590fbced3ab38af52e.js"></script>
+        <script>/* Creator of this Jquery https://codepen.io/cssjockey/pen/jGzuK */
+            $(document).ready(function () {
+                
+                $('ul.tabs li').click(function () {
+                    var tab_id = $(this).attr('data-tab');
 
+                    $('ul.tabs li').removeClass('current');
+                    $('.tab-content').removeClass('current');
 
+                    $(this).addClass('current');
+                    $("#" + tab_id).addClass('current');
+                })
+                
+                
+            })
+        //# sourceURL=pen.js
+        </script>
+       <script>
 
-                        <!-- Optional JavaScript -->
-                        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-                        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"  crossorigin="anonymous"></script>
+  $.validate({
+    modules : 'location, date, security, file',
+    onModulesLoaded : function() {
+      $('#country').suggestCountry();
+    }
+  });
 
+  // Restrict presentation length
+  $('#presentation').restrictLength( $('#pres-max-length') );
 
-                        </body>
-                        </html>	
+</script>
+        <script src="//production-assets.codepen.io/assets/editor/live/check-c263eb37bf3a3d49b8311c096168b478f5750c61a1166ea2cc660498870d671f.js"></script>
+    </body></html>
