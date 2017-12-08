@@ -77,7 +77,7 @@ include 'banco.php';
 		                    ?>
 					
 			<div class="col-md-1 col-xs-18 col-md-offset-16">
-			<article data-toggle="modal" data-target="#exampleModal" data-name="gases-nobres" data-target="#<?php echo $rowElemento['id_elemento']; ?>" class="gases-nobres "><small class="numero"><?php  echo  $rowElemento['numero']; ?></small><br><b class="principal"><?php  echo  $rowElemento['label']; ?></b><br><small class="nome"><?php  echo  $rowElemento['nome']; ?></small></article>
+			<article data-toggle="modal" data-target="#exampleModal" data-name="gases-nobres" data-target="#<?php echo $rowElemento['id_elemento']; ?>" class="gases-nobres"><small class="numero"><?php  echo  $rowElemento['numero']; ?></small><br><b class="principal"><?php  echo  $rowElemento['label']; ?></b><br><small class="nome"><?php  echo  $rowElemento['nome']; ?></small></article>
 			</div>
 
 				<?php 
@@ -111,35 +111,35 @@ include 'banco.php';
 
 					if ($rowElemento['id_tipo' ] == 1 ){
 
-						echo"gases-nobres";
+						echo"nao-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						echo"halogenios";
+						echo"semi-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 3){
 
-						echo"metais-alcalinos";
+						echo"gases-nobres";
 
 					}elseif($rowElemento['id_tipo' ] == 4){
 
-						echo"metais-alcalino-terrosos";
+						echo"halogenios";
 									
 					}elseif($rowElemento['id_tipo' ] == 5){
 
-						echo"metais-representativos";
+						echo"metais-alcalinos";
 									
 					}elseif($rowElemento['id_tipo' ] == 6){
 
-						echo"metais-de-transicao";
+						echo"metais-representativos";
 									
 					}elseif($rowElemento['id_tipo' ] == 7){
 
-						echo"nao-metais";
+						echo"metais-alcalino-terrosos";
 									
 					}elseif($rowElemento['id_tipo' ] == 8){
 
-						echo"semi-metais";
+						echo"metais-de-transicao";
 									
 					}elseif($rowElemento['id_tipo' ] == 9){
 
@@ -250,35 +250,35 @@ include 'banco.php';
 
 					if ($rowElemento['id_tipo' ] == 1 ){
 
-						echo"gases-nobres";
+						echo"nao-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						echo"halogenios";
+						echo"semi-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 3){
 
-						echo"metais-alcalinos";
+						echo"gases-nobres";
 
 					}elseif($rowElemento['id_tipo' ] == 4){
 
-						echo"metais-alcalino-terrosos";
+						echo"halogenios";
 						
 					}elseif($rowElemento['id_tipo' ] == 5){
 
-						echo"metais-representativos";
+						echo"metais-alcalinos";
 						
 					}elseif($rowElemento['id_tipo' ] == 6){
 
-						echo"metais-de-transicao";
+						echo"metais-representativos";
 						
 					}elseif($rowElemento['id_tipo' ] == 7){
 
-						echo"nao-metais";
+						echo"metais-alcalino-terrosos";
 						
 					}elseif($rowElemento['id_tipo' ] == 8){
 
-						echo"semi-metais";
+						echo"metais-de-transicao";
 						
 					}elseif($rowElemento['id_tipo' ] == 9){
 
@@ -345,35 +345,35 @@ include 'banco.php';
 
 					if ($rowElemento['id_tipo' ] == 1 ){
 
-						echo"gases-nobres";
+						echo"nao-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						echo"halogenios";
+						echo"semi-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 3){
 
-						echo"metais-alcalinos";
+						echo"gases-nobres";
 
 					}elseif($rowElemento['id_tipo' ] == 4){
 
-						echo"metais-alcalino-terrosos";
+						echo"halogenios";
 						
 					}elseif($rowElemento['id_tipo' ] == 5){
 
-						echo"metais-representativos";
+						echo"metais-alcalinos";
 						
 					}elseif($rowElemento['id_tipo' ] == 6){
 
-						echo"metais-de-transicao";
+						echo"metais-representativos";
 						
 					}elseif($rowElemento['id_tipo' ] == 7){
 
-						echo"nao-metais";
+						echo"metais-alcalino-terrosos";
 						
 					}elseif($rowElemento['id_tipo' ] == 8){
 
-						echo"semi-metais";
+						echo"metais-de-transicao";
 						
 					}elseif($rowElemento['id_tipo' ] == 9){
 
@@ -462,35 +462,35 @@ include 'banco.php';
 
 					if ($rowElemento['id_tipo' ] == 1 ){
 
-						echo"gases-nobres";
+						echo"nao-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						echo"halogenios";
+						echo"semi-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 3){
 
-						echo"metais-alcalinos";
+						echo"gases-nobres";
 
 					}elseif($rowElemento['id_tipo' ] == 4){
 
-						echo"metais-alcalino-terrosos";
+						echo"halogenios";
 						
 					}elseif($rowElemento['id_tipo' ] == 5){
 
-						echo"metais-representativos";
+						echo"metais-alcalinos";
 						
 					}elseif($rowElemento['id_tipo' ] == 6){
 
-						echo"metais-de-transicao";
+						echo"metais-representativos";
 						
 					}elseif($rowElemento['id_tipo' ] == 7){
 
-						echo"nao-metais";
+						echo"metais-alcalino-terrosos";
 						
 					}elseif($rowElemento['id_tipo' ] == 8){
 
-						echo"semi-metais";
+						echo"metais-de-transicao";
 						
 					}elseif($rowElemento['id_tipo' ] == 9){
 
@@ -560,35 +560,35 @@ include 'banco.php';
 
 					if ($rowElemento['id_tipo' ] == 1 ){
 
-						echo"gases-nobres";
+						echo"nao-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						echo"halogenios";
+						echo"semi-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 3){
 
-						echo"metais-alcalinos";
+						echo"gases-nobres";
 
 					}elseif($rowElemento['id_tipo' ] == 4){
 
-						echo"metais-alcalino-terrosos";
+						echo"halogenios";
 						
 					}elseif($rowElemento['id_tipo' ] == 5){
 
-						echo"metais-representativos";
+						echo"metais-alcalinos";
 						
 					}elseif($rowElemento['id_tipo' ] == 6){
 
-						echo"metais-de-transicao";
+						echo"metais-representativos";
 						
 					}elseif($rowElemento['id_tipo' ] == 7){
 
-						echo"nao-metais";
+						echo"metais-alcalino-terrosos";
 						
 					}elseif($rowElemento['id_tipo' ] == 8){
 
-						echo"semi-metais";
+						echo"metais-de-transicao";
 						
 					}elseif($rowElemento['id_tipo' ] == 9){
 
@@ -620,7 +620,7 @@ include 'banco.php';
 				<!-- Select do Banco de Dados para deixar os elementos dinâmicos -->
 				<?php 
 
-		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 37 AND  `elementos`.`id_elemento` <= 65  ";
+		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 37 AND  `elementos`.`id_elemento` <= 54  ";
 		                             
 		                             foreach($pdo->query($sqlElementos) as $rowElemento)
 		                             {
@@ -656,35 +656,35 @@ include 'banco.php';
 
 					if ($rowElemento['id_tipo' ] == 1 ){
 
-						echo"gases-nobres";
+						echo"nao-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						echo"halogenios";
+						echo"semi-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 3){
 
-						echo"metais-alcalinos";
+						echo"gases-nobres";
 
 					}elseif($rowElemento['id_tipo' ] == 4){
 
-						echo"metais-alcalino-terrosos";
+						echo"halogenios";
 						
 					}elseif($rowElemento['id_tipo' ] == 5){
 
-						echo"metais-representativos";
+						echo"metais-alcalinos";
 						
 					}elseif($rowElemento['id_tipo' ] == 6){
 
-						echo"metais-de-transicao";
+						echo"metais-representativos";
 						
 					}elseif($rowElemento['id_tipo' ] == 7){
 
-						echo"nao-metais";
+						echo"metais-alcalino-terrosos";
 						
 					}elseif($rowElemento['id_tipo' ] == 8){
 
-						echo"semi-metais";
+						echo"metais-de-transicao";
 						
 					}elseif($rowElemento['id_tipo' ] == 9){
 
@@ -717,7 +717,7 @@ include 'banco.php';
 				<!-- Select do Banco de Dados para deixar os elementos dinâmicos -->
 				<?php 
 
-		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 66 AND  `elementos`.`id_elemento` <= 67  ";
+		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 55 AND  `elementos`.`id_elemento` <= 56  ";
 		                             
 		                             foreach($pdo->query($sqlElementos) as $rowElemento)
 		                             {
@@ -752,35 +752,35 @@ include 'banco.php';
 
 					if ($rowElemento['id_tipo' ] == 1 ){
 
-						echo"gases-nobres";
+						echo"nao-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						echo"halogenios";
+						echo"semi-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 3){
 
-						echo"metais-alcalinos";
+						echo"gases-nobres";
 
 					}elseif($rowElemento['id_tipo' ] == 4){
 
-						echo"metais-alcalino-terrosos";
+						echo"halogenios";
 						
 					}elseif($rowElemento['id_tipo' ] == 5){
 
-						echo"metais-representativos";
+						echo"metais-alcalinos";
 						
 					}elseif($rowElemento['id_tipo' ] == 6){
 
-						echo"metais-de-transicao";
+						echo"metais-representativos";
 						
 					}elseif($rowElemento['id_tipo' ] == 7){
 
-						echo"nao-metais";
+						echo"metais-alcalino-terrosos";
 						
 					}elseif($rowElemento['id_tipo' ] == 8){
 
-						echo"semi-metais";
+						echo"metais-de-transicao";
 						
 					}elseif($rowElemento['id_tipo' ] == 9){
 
@@ -812,7 +812,7 @@ include 'banco.php';
 				<!-- Select do Banco de Dados para deixar os elementos dinâmicos -->
 				<?php 
 
-		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 68 AND  `elementos`.`id_elemento` <= 82  ";
+		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 57 AND  `elementos`.`id_elemento` <= 71  ";
 		                             
 		                             foreach($pdo->query($sqlElementos) as $rowElemento)
 		                             {
@@ -848,35 +848,35 @@ include 'banco.php';
 
 					if ($rowElemento['id_tipo' ] == 1 ){
 
-						echo"gases-nobres";
+						echo"nao-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						echo"halogenios";
+						echo"semi-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 3){
 
-						echo"metais-alcalinos";
+						echo"gases-nobres";
 
 					}elseif($rowElemento['id_tipo' ] == 4){
 
-						echo"metais-alcalino-terrosos";
+						echo"halogenios";
 						
 					}elseif($rowElemento['id_tipo' ] == 5){
 
-						echo"metais-representativos";
+						echo"metais-alcalinos";
 						
 					}elseif($rowElemento['id_tipo' ] == 6){
 
-						echo"metais-de-transicao";
+						echo"metais-representativos";
 						
 					}elseif($rowElemento['id_tipo' ] == 7){
 
-						echo"nao-metais";
+						echo"metais-alcalino-terrosos";
 						
 					}elseif($rowElemento['id_tipo' ] == 8){
 
-						echo"semi-metais";
+						echo"metais-de-transicao";
 						
 					}elseif($rowElemento['id_tipo' ] == 9){
 
@@ -908,7 +908,7 @@ include 'banco.php';
 				<!-- Select do Banco de Dados para deixar os elementos dinâmicos -->
 				<?php 
 
-		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 83 AND  `elementos`.`id_elemento` <= 84  ";
+		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 72 AND  `elementos`.`id_elemento` <= 73  ";
 		                             
 		                             foreach($pdo->query($sqlElementos) as $rowElemento)
 		                             {
@@ -943,35 +943,35 @@ include 'banco.php';
 
 					if ($rowElemento['id_tipo' ] == 1 ){
 
-						echo"gases-nobres";
+						echo"nao-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						echo"halogenios";
+						echo"semi-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 3){
 
-						echo"metais-alcalinos";
+						echo"gases-nobres";
 
 					}elseif($rowElemento['id_tipo' ] == 4){
 
-						echo"metais-alcalino-terrosos";
+						echo"halogenios";
 						
 					}elseif($rowElemento['id_tipo' ] == 5){
 
-						echo"metais-representativos";
+						echo"metais-alcalinos";
 						
 					}elseif($rowElemento['id_tipo' ] == 6){
 
-						echo"metais-de-transicao";
+						echo"metais-representativos";
 						
 					}elseif($rowElemento['id_tipo' ] == 7){
 
-						echo"nao-metais";
+						echo"metais-alcalino-terrosos";
 						
 					}elseif($rowElemento['id_tipo' ] == 8){
 
-						echo"semi-metais";
+						echo"metais-de-transicao";
 						
 					}elseif($rowElemento['id_tipo' ] == 9){
 
@@ -1003,7 +1003,7 @@ include 'banco.php';
 				<!-- Select do Banco de Dados para deixar os elementos dinâmicos -->
 				<?php 
 
-		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 85 AND  `elementos`.`id_elemento` <= 99  ";
+		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 74 AND  `elementos`.`id_elemento` <= 88  ";
 		                             
 		                             foreach($pdo->query($sqlElementos) as $rowElemento)
 		                             {
@@ -1037,35 +1037,35 @@ include 'banco.php';
 
 					if ($rowElemento['id_tipo' ] == 1 ){
 
-						echo"gases-nobres";
+						echo"nao-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						echo"halogenios";
+						echo"semi-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 3){
 
-						echo"metais-alcalinos";
+						echo"gases-nobres";
 
 					}elseif($rowElemento['id_tipo' ] == 4){
 
-						echo"metais-alcalino-terrosos";
+						echo"halogenios";
 						
 					}elseif($rowElemento['id_tipo' ] == 5){
 
-						echo"metais-representativos";
+						echo"metais-alcalinos";
 						
 					}elseif($rowElemento['id_tipo' ] == 6){
 
-						echo"metais-de-transicao";
+						echo"metais-representativos";
 						
 					}elseif($rowElemento['id_tipo' ] == 7){
 
-						echo"nao-metais";
+						echo"metais-alcalino-terrosos";
 						
 					}elseif($rowElemento['id_tipo' ] == 8){
 
-						echo"semi-metais";
+						echo"metais-de-transicao";
 						
 					}elseif($rowElemento['id_tipo' ] == 9){
 
@@ -1100,7 +1100,7 @@ include 'banco.php';
 				<!-- Select do Banco de Dados para deixar os elementos dinâmicos -->
 				<?php 
 
-					$sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` = 100";
+					$sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` = 89";
 		                             
 		                             foreach($pdo->query($sqlElementos) as $rowElemento)
 		                             {
@@ -1122,7 +1122,7 @@ include 'banco.php';
 				<!-- Select do Banco de Dados para deixar os elementos dinâmicos -->
 		                    <?php 
 
-		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 101 AND  `elementos`.`id_elemento` <= 114  ";
+		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 90 AND  `elementos`.`id_elemento` <= 103  ";
 		                             
 		                             foreach($pdo->query($sqlElementos) as $rowElemento)
 		                             {
@@ -1157,35 +1157,35 @@ include 'banco.php';
 
 					if ($rowElemento['id_tipo' ] == 1 ){
 
-						echo"gases-nobres";
+						echo"nao-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						echo"halogenios";
+						echo"semi-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 3){
 
-						echo"metais-alcalinos";
+						echo"gases-nobres";
 
 					}elseif($rowElemento['id_tipo' ] == 4){
 
-						echo"metais-alcalino-terrosos";
+						echo"halogenios";
 						
 					}elseif($rowElemento['id_tipo' ] == 5){
 
-						echo"metais-representativos";
+						echo"metais-alcalinos";
 						
 					}elseif($rowElemento['id_tipo' ] == 6){
 
-						echo"metais-de-transicao";
+						echo"metais-representativos";
 						
 					}elseif($rowElemento['id_tipo' ] == 7){
 
-						echo"nao-metais";
+						echo"metais-alcalino-terrosos";
 						
 					}elseif($rowElemento['id_tipo' ] == 8){
 
-						echo"semi-metais";
+						echo"metais-de-transicao";
 						
 					}elseif($rowElemento['id_tipo' ] == 9){
 
@@ -1219,7 +1219,7 @@ include 'banco.php';
 				<!-- Select do Banco de Dados para deixar os elementos dinâmicos -->
 				<?php 
 
-					$sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` = 115";
+					$sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` = 104";
 		                             
 		                             foreach($pdo->query($sqlElementos) as $rowElemento)
 		                             {
@@ -1242,7 +1242,7 @@ include 'banco.php';
 				<!-- Select do Banco de Dados para deixar os elementos dinâmicos -->
 		                    <?php 
 
-		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 116 AND  `elementos`.`id_elemento` <= 129  ";
+		                             $sqlElementos = " SELECT * FROM `elementos` WHERE `elementos`.`id_elemento` >= 105 AND  `elementos`.`id_elemento` <= 118  ";
 		                             
 		                             foreach($pdo->query($sqlElementos) as $rowElemento)
 		                             {
@@ -1278,35 +1278,35 @@ include 'banco.php';
 
 					if ($rowElemento['id_tipo' ] == 1 ){
 
-						echo"gases-nobres";
+						echo"nao-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 2 ){
 
-						echo"halogenios";
+						echo"semi-metais";
 
 					}elseif($rowElemento['id_tipo' ] == 3){
 
-						echo"metais-alcalinos";
+						echo"gases-nobres";
 
 					}elseif($rowElemento['id_tipo' ] == 4){
 
-						echo"metais-alcalino-terrosos";
+						echo"halogenios";
 						
 					}elseif($rowElemento['id_tipo' ] == 5){
 
-						echo"metais-representativos";
+						echo"metais-alcalinos";
 						
 					}elseif($rowElemento['id_tipo' ] == 6){
 
-						echo"metais-de-transicao";
+						echo"metais-representativos";
 						
 					}elseif($rowElemento['id_tipo' ] == 7){
 
-						echo"nao-metais";
+						echo"metais-alcalino-terrosos";
 						
 					}elseif($rowElemento['id_tipo' ] == 8){
 
-						echo"semi-metais";
+						echo"metais-de-transicao";
 						
 					}elseif($rowElemento['id_tipo' ] == 9){
 
@@ -1344,7 +1344,7 @@ include 'banco.php';
 						
 				</ul>
 				<ul class="ul-margin-left">
-					<li id="gases-nobres"><img src="imagens/azul.png" width="20" height="20">Gases nobres</li>
+					<li id="gases-nobres"><img src="imagens/azul.png" width="20" height="20">Gases Nobres</li>
 					<li id="halogenios"><img src="imagens/azul-claro.png" width="20" height="20">Halogênios</li>
 						
 				</ul>

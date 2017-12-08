@@ -86,7 +86,7 @@ include 'banco.php';
                         </div>
 
                         <div class="form-group">
-                          <label class="col-form-label" for="formGroupExampleInput2">Classe:</label>
+                          <label class="col-form-label" for="formGroupExampleInput2">Elemento:</label>
                           <select name="id_elemento" class="container" id="selectpicker2">
 
                             <?php 
